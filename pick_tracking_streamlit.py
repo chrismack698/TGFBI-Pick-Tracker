@@ -101,17 +101,11 @@ st.title("Pick Tracker — Reaches & Values vs ADP")
 
 df = build_metrics(load_tracker(CSV_URL))
 
-c1, c2, c3, c4, c5 = st.columns([1, 1, 1, 1.2, 1.6])
+c1, c2 = st.columns([1.2, 1.6])
 
 with c1:
-    pos_filter = st.multiselect(
-        "Position",
-        sorted([p for p in df["Pos"].dropna().unique()]),
-        default=[]
-    )
-with c4:
     show_mode = st.selectbox("Grid shows", ["Picks", "Delta vs ADP"], index=0)
-with c5:
+with c2:
     sort_by = st.selectbox(
         "Sort by",
         ["ADP", "DiscrepancyScore", "AvgPick", "Min", "Max", "Range", "PickStdDev", "BestValue", "WorstReach", "Sample"],
@@ -119,8 +113,6 @@ with c5:
     )
 
 view = df.copy()
-if pos_filter:
-    view = view[view["Pos"].isin(pos_filter)]
 view = view[view["Sample"] >= 3]
 
 asc = sort_direction(sort_by)
