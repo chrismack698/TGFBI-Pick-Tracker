@@ -214,8 +214,8 @@ def summary_styles(row):
     i = row.name
     nr = summary_num.iloc[i]["NetReach"]
     styles = [""] * len(summary_display.columns)
-    styles[netreach_idx] = style_diverging(nr, threshold)
-    styles[extremeby_idx] = style_diverging(nr, threshold)
+    styles[netreach_idx] = style_diverging(nr, 50)
+    styles[extremeby_idx] = style_diverging(nr, 50)
     return styles
 
 styled_summary = summary_display.style.apply(summary_styles, axis=1)
