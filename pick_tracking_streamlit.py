@@ -61,20 +61,6 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
 
     df["Sample"] = df[LEAGUE_COLS].notna().sum(axis=1)
 
-    def label_extreme(row):
-        wr = row["WorstReach"]
-        bv = row["BestValue"]
-        if pd.isna(wr) and pd.isna(bv):
-            return ("", np.nan, np.nan)
-        if pd.isna(bv) or (not pd.isna(wr) and abs(wr) >= abs(bv)):
-            return ("Reach", abs(wr), -abs(wr))
-        return ("Value", abs(bv), abs(bv))
-
-    tmp = df.apply(label_extreme, axis=1, result_type="expand")
-    df["ExtremeType"] = tmp[0]
-    df["ExtremeBy"] = tmp[1]
-    df["NetReach"] = tmp[2]
-
     return df
 
 def sort_direction(sort_by: str) -> bool:
@@ -123,16 +109,12 @@ with c1:
         sorted([p for p in df["Pos"].dropna().unique()]),
         default=[]
     )
-# with c2:
-#     min_sample = st.number_input("Min leagues sampled", min_value=0, max_value=len(LEAGUE_COLS), value=3)
-# with c3:
-#     threshold = st.slider("Highlight threshold (picks)", min_value=1, max_value=50, value=10)
 with c4:
     show_mode = st.selectbox("Grid shows", ["Picks", "Delta vs ADP"], index=0)
 with c5:
     sort_by = st.selectbox(
         "Sort by",
-        ["ADP", "DiscrepancyScore", "ExtremeBy", "AvgPick", "Min", "Max", "Range", "PickStdDev", "BestValue", "WorstReach", "Sample"],
+        ["ADP", "DiscrepancyScore", "AvgPick", "Min", "Max", "Range", "PickStdDev", "BestValue", "WorstReach", "Sample"],
         index=0
     )
 
@@ -169,15 +151,11 @@ else:
         grid_display[c] = grid_num[c].apply(fmt_int)
 
 def grid_styles(row):
-    # row.name is the row index; use it to look up the numeric delta values
     i = row.name
     styles = [""] * len(grid_display.columns)
-
-    # Player, Pos, ADP, Min, Max = 5 columns, then league cols
     offset = 5
     for j, c in enumerate(LEAGUE_COLS):
         styles[offset + j] = style_diverging(delta_matrix.iloc[i, j], 50)
-
     return styles
 
 styled_grid = grid_display.style.apply(grid_styles, axis=1)
@@ -186,39 +164,32 @@ st.dataframe(styled_grid, use_container_width=True)
 # ===========================
 # Summary table (BOTTOM)
 # ===========================
-# st.subheader("Most extreme reaches/values")
+st.subheader("Biggest Reaches & Values vs ADP")
 
-# summary_cols = [
-#     "Player", "Pos", "ADP", "Min", "Max", "Range", "AvgPick", "Sample",
-#     "ExtremeType", "ExtremeBy", "NetReach",
-#     "WorstReach", "BestValue",
-#     "DiscrepancyScore", "PickStdDev"
-# ]
-# summary_num = view[summary_cols].copy()
+summary_cols = ["Player", "Pos", "ADP", "WorstReach", "BestValue"]
+summary_num = view[summary_cols].copy()
 
-# summary_display = summary_num.copy()
-# summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
+summary_display = summary_num.copy()
+summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
+summary_display["WorstReach"] = summary_num["WorstReach"].apply(fmt_int)
+summary_display["BestValue"] = summary_num["BestValue"].apply(fmt_int)
 
-# int_cols = [
-#     "Min", "Max", "Range", "AvgPick", "Sample",
-#     "ExtremeBy", "NetReach", "WorstReach", "BestValue",
-#     "DiscrepancyScore", "PickStdDev"
-# ]
-# for col in int_cols:
-#     summary_display[col] = summary_num[col].apply(fmt_int)
+summary_display = summary_display.rename(columns={
+    "WorstReach": "Biggest Reach (vs ADP)",
+    "BestValue": "Biggest Value (vs ADP)",
+})
 
-# netreach_idx = summary_display.columns.get_loc("NetReach")
-# extremeby_idx = summary_display.columns.get_loc("ExtremeBy")
+worst_reach_idx = summary_display.columns.get_loc("Biggest Reach (vs ADP)")
+best_value_idx = summary_display.columns.get_loc("Biggest Value (vs ADP)")
 
-# def summary_styles(row):
-#     i = row.name
-#     nr = summary_num.iloc[i]["NetReach"]
-#     styles = [""] * len(summary_display.columns)
-#     styles[netreach_idx] = style_diverging(nr, 50)
-#     styles[extremeby_idx] = style_diverging(nr, 50)
-#     return styles
+def summary_styles(row):
+    i = row.name
+    styles = [""] * len(summary_display.columns)
+    styles[worst_reach_idx] = style_diverging(summary_num.iloc[i]["WorstReach"], 50)
+    styles[best_value_idx] = style_diverging(summary_num.iloc[i]["BestValue"], 50)
+    return styles
 
-# styled_summary = summary_display.style.apply(summary_styles, axis=1)
-# st.dataframe(styled_summary, use_container_width=True)
+styled_summary = summary_display.style.apply(summary_styles, axis=1)
+st.dataframe(styled_summary, use_container_width=True)
 
-# st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
+st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
