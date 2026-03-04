@@ -156,7 +156,7 @@ st.dataframe(styled_grid, use_container_width=True)
 # ===========================
 # Summary table (BOTTOM)
 # ===========================
-st.subheader("TGFBI Pick Tracker")
+st.subheader("Reaches & Values vs ADP")
 
 summary_cols = ["Player", "Pos", "ADP", "WorstReach", "BestValue"]
 summary_num = view[summary_cols].copy()
