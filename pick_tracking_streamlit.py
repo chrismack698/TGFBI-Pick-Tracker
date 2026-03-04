@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-st.set_page_config(page_title="ADP Discrepancy Tracker", layout="wide")
+st.set_page_config(page_title="TGFBI Pick Tracker 2026", layout="wide")
 
 # ---------------------------
 # Config
@@ -156,7 +156,7 @@ st.dataframe(styled_grid, use_container_width=True)
 # ===========================
 # Summary table (BOTTOM)
 # ===========================
-st.subheader("Biggest Reaches & Values vs ADP")
+st.subheader("TGFBI Pick Tracker")
 
 summary_cols = ["Player", "Pos", "ADP", "WorstReach", "BestValue"]
 summary_num = view[summary_cols].copy()
