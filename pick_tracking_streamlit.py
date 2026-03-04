@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-st.set_page_config(page_title="ADP Discrepancy Tracker", layout="wide")
+st.set_page_config(page_title="TGFBI Pick Tracker 2026", layout="wide")
 
 # ---------------------------
 # Config
@@ -97,7 +97,7 @@ def style_diverging(val, cap):
 # ---------------------------
 # UI
 # ---------------------------
-st.title("Pick Tracker — Reaches & Values vs ADP")
+st.title("TGFBI Pick Tracker 2026")
 
 df = build_metrics(load_tracker(CSV_URL))
 
