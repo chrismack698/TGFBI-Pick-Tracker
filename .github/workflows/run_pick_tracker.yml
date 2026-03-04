@@ -1,0 +1,60 @@
+name: Update pick tracker CSVs
+
+on:
+  schedule:
+    # 3x daily (UTC). This will shift by 1 hour when America/Chicago switches CST/CDT.
+    - cron: "0 12 * * *"
+    - cron: "0 20 * * *"
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pick-tracker-update
+  cancel-in-progress: false
+
+jobs:
+  run-scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python pick_tracking_scrape.py
+
+      - name: Move outputs into data/
+        run: |
+          mkdir -p data
+          mv -f league_picks_long.csv data/league_picks_long.csv
+          mv -f pick_tracker_grid.csv data/pick_tracker_grid.csv
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/league_picks_long.csv data/pick_tracker_grid.csv
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update pick tracker data"
+          git push
