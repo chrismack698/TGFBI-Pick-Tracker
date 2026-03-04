@@ -97,7 +97,7 @@ def style_diverging(val, cap):
 # ---------------------------
 # UI
 # ---------------------------
-st.title("Pick Tracker — Reaches & Values vs ADP")
+st.title("TGFBI Pick Tracker 2026")
 
 df = build_metrics(load_tracker(CSV_URL))
 
