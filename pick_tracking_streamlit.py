@@ -28,21 +28,13 @@ def safe_float(x):
         return np.nan
 
 def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
-    # Ensure league cols exist and are numeric
     for c in LEAGUE_COLS:
-        if c in df.columns:
-            df[c] = df[c].apply(safe_float)
-        else:
-            df[c] = np.nan
+        df[c] = df[c].apply(safe_float) if c in df.columns else np.nan
 
-    # Base numeric cols
     for col in ["ADP", "Min", "Max", "Range"]:
-        if col in df.columns:
-            df[col] = df[col].apply(safe_float)
-        else:
-            df[col] = np.nan
+        df[col] = df[col].apply(safe_float) if col in df.columns else np.nan
 
-    # If Min/Max/Range missing, compute from league cols
+    # backfill Min/Max/Range if needed
     if df["Min"].isna().all():
         df["Min"] = df[LEAGUE_COLS].min(axis=1, skipna=True)
     if df["Max"].isna().all():
@@ -50,31 +42,25 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
     if df["Range"].isna().all():
         df["Range"] = df["Max"] - df["Min"]
 
-    # Average pick
     df["AvgPick"] = df[LEAGUE_COLS].mean(axis=1, skipna=True)
 
-    # Deltas per league: Pick - ADP
     delta_cols = []
     for c in LEAGUE_COLS:
         dcol = f"d_{c}"
         df[dcol] = df[c] - df["ADP"]
         delta_cols.append(dcol)
 
-    # Reach/value summaries
-    df["WorstReach"] = df[delta_cols].min(axis=1, skipna=True)   # most negative (reach)
-    df["BestValue"]  = df[delta_cols].max(axis=1, skipna=True)   # most positive (value)
+    df["WorstReach"] = df[delta_cols].min(axis=1, skipna=True)
+    df["BestValue"] = df[delta_cols].max(axis=1, skipna=True)
     df["PickStdDev"] = df[LEAGUE_COLS].std(axis=1, skipna=True)
 
-    # Discrepancy score
     df["DiscrepancyScore"] = np.nanmax(
         np.vstack([np.abs(df["WorstReach"].values), np.abs(df["BestValue"].values)]),
         axis=0
     )
 
-    # Sample size
     df["Sample"] = df[LEAGUE_COLS].notna().sum(axis=1)
 
-    # Extreme label + signed net reach/value (negative = reach, positive = value)
     def label_extreme(row):
         wr = row["WorstReach"]
         bv = row["BestValue"]
@@ -92,8 +78,7 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def sort_direction(sort_by: str) -> bool:
-    ascending = {"ADP", "AvgPick", "Min", "Max"}
-    return sort_by in ascending
+    return sort_by in {"ADP", "AvgPick", "Min", "Max"}
 
 def fmt_int(x):
     if pd.isna(x):
@@ -112,16 +97,10 @@ def fmt_adp(x):
         return ""
 
 def style_diverging(val, cap):
-    """
-    Diverging red/green based on signed value.
-    val < 0 => red (reach), val > 0 => green (value)
-    """
     if pd.isna(val) or cap <= 0:
         return ""
-
     v = float(val)
     t = min(abs(v) / cap, 1.0)
-
     if v < 0:
         alpha = 0.12 + 0.30 * t
         return f"background-color: rgba(255, 0, 0, {alpha});"
@@ -134,10 +113,8 @@ def style_diverging(val, cap):
 # ---------------------------
 st.title("Pick Tracker — Reaches & Values vs ADP")
 
-df = load_tracker(CSV_URL)
-df = build_metrics(df)
+df = build_metrics(load_tracker(CSV_URL))
 
-# Controls
 c1, c2, c3, c4, c5 = st.columns([1, 1, 1, 1.2, 1.6])
 
 with c1:
@@ -162,21 +139,23 @@ with c5:
 view = df.copy()
 if pos_filter:
     view = view[view["Pos"].isin(pos_filter)]
-
 view = view[view["Sample"] >= min_sample]
 
 asc = sort_direction(sort_by)
 view = view.sort_values(sort_by, ascending=asc, na_position="last").reset_index(drop=True)
 
 # ===========================
-# 1) Per-league grid (TOP)
+# Per-league grid (TOP)
 # ===========================
 st.subheader("Per-league grid")
 
 base_cols = ["Player", "Pos", "ADP", "Min", "Max"]
 grid_num = view[base_cols + LEAGUE_COLS].copy()
 
-# Display formatting
+# Precompute deltas ONCE (numeric), to avoid any string/object issues in styling
+delta_matrix = grid_num[LEAGUE_COLS].sub(grid_num["ADP"], axis=0)
+
+# Build display frame (strings)
 grid_display = grid_num.copy()
 grid_display["ADP"] = grid_num["ADP"].apply(fmt_adp)
 grid_display["Min"] = grid_num["Min"].apply(fmt_int)
@@ -184,19 +163,20 @@ grid_display["Max"] = grid_num["Max"].apply(fmt_int)
 
 if show_mode == "Delta vs ADP":
     for c in LEAGUE_COLS:
-        grid_display[c] = (grid_num[c] - grid_num["ADP"]).apply(fmt_int)
+        grid_display[c] = delta_matrix[c].apply(fmt_int)
 else:
     for c in LEAGUE_COLS:
         grid_display[c] = grid_num[c].apply(fmt_int)
 
 def grid_styles(row):
-    # row is numeric row from grid_num (because we apply styles to grid_display but need numeric deltas)
+    # row.name is the row index; use it to look up the numeric delta values
+    i = row.name
     styles = [""] * len(grid_display.columns)
-    offset = 5  # Player, Pos, ADP, Min, Max
 
+    # Player, Pos, ADP, Min, Max = 5 columns, then league cols
+    offset = 5
     for j, c in enumerate(LEAGUE_COLS):
-        delta = row[c] - row["ADP"]
-        styles[offset + j] = style_diverging(delta, threshold)
+        styles[offset + j] = style_diverging(delta_matrix.iloc[i, j], threshold)
 
     return styles
 
@@ -204,7 +184,7 @@ styled_grid = grid_display.style.apply(grid_styles, axis=1)
 st.dataframe(styled_grid, use_container_width=True)
 
 # ===========================
-# 2) Summary table (BOTTOM)
+# Summary table (BOTTOM)
 # ===========================
 st.subheader("Most extreme reaches/values")
 
@@ -214,10 +194,8 @@ summary_cols = [
     "WorstReach", "BestValue",
     "DiscrepancyScore", "PickStdDev"
 ]
-
 summary_num = view[summary_cols].copy()
 
-# Format display
 summary_display = summary_num.copy()
 summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
 
@@ -233,9 +211,9 @@ netreach_idx = summary_display.columns.get_loc("NetReach")
 extremeby_idx = summary_display.columns.get_loc("ExtremeBy")
 
 def summary_styles(row):
-    # row is numeric row from summary_num
+    i = row.name
+    nr = summary_num.iloc[i]["NetReach"]
     styles = [""] * len(summary_display.columns)
-    nr = row["NetReach"]
     styles[netreach_idx] = style_diverging(nr, threshold)
     styles[extremeby_idx] = style_diverging(nr, threshold)
     return styles
