@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-st.set_page_config(page_title="TGFBI Pick Tracker 2026", layout="wide")
+st.set_page_config(page_title="ADP Discrepancy Tracker", layout="wide")
 
 # ---------------------------
 # Config
@@ -97,7 +97,7 @@ def style_diverging(val, cap):
 # ---------------------------
 # UI
 # ---------------------------
-st.title("TGFBI Pick Tracker 2026")
+st.title("Pick Tracker — Reaches & Values vs ADP")
 
 df = build_metrics(load_tracker(CSV_URL))
 
@@ -151,37 +151,6 @@ def grid_styles(row):
     return styles
 
 styled_grid = grid_display.style.apply(grid_styles, axis=1)
-st.dataframe(styled_grid, use_container_width=True)
-
-# ===========================
-# Summary table (BOTTOM)
-# ===========================
-st.subheader("Reaches & Values vs ADP")
-
-summary_cols = ["Player", "Pos", "ADP", "WorstReach", "BestValue"]
-summary_num = view[summary_cols].copy()
-
-summary_display = summary_num.copy()
-summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
-summary_display["WorstReach"] = summary_num["WorstReach"].apply(fmt_int)
-summary_display["BestValue"] = summary_num["BestValue"].apply(fmt_int)
-
-summary_display = summary_display.rename(columns={
-    "WorstReach": "Biggest Reach (vs ADP)",
-    "BestValue": "Biggest Value (vs ADP)",
-})
-
-worst_reach_idx = summary_display.columns.get_loc("Biggest Reach (vs ADP)")
-best_value_idx = summary_display.columns.get_loc("Biggest Value (vs ADP)")
-
-def summary_styles(row):
-    i = row.name
-    styles = [""] * len(summary_display.columns)
-    styles[worst_reach_idx] = style_diverging(summary_num.iloc[i]["WorstReach"], 50)
-    styles[best_value_idx] = style_diverging(summary_num.iloc[i]["BestValue"], 50)
-    return styles
-
-styled_summary = summary_display.style.apply(summary_styles, axis=1)
-st.dataframe(styled_summary, use_container_width=True)
+st.dataframe(styled_grid, use_container_width=True, height=800)
 
 st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
