@@ -123,10 +123,10 @@ with c1:
         sorted([p for p in df["Pos"].dropna().unique()]),
         default=[]
     )
-with c2:
-    min_sample = st.number_input("Min leagues sampled", min_value=0, max_value=len(LEAGUE_COLS), value=3)
-with c3:
-    threshold = st.slider("Highlight threshold (picks)", min_value=1, max_value=50, value=10)
+# with c2:
+#     min_sample = st.number_input("Min leagues sampled", min_value=0, max_value=len(LEAGUE_COLS), value=3)
+# with c3:
+#     threshold = st.slider("Highlight threshold (picks)", min_value=1, max_value=50, value=10)
 with c4:
     show_mode = st.selectbox("Grid shows", ["Picks", "Delta vs ADP"], index=0)
 with c5:
@@ -176,7 +176,7 @@ def grid_styles(row):
     # Player, Pos, ADP, Min, Max = 5 columns, then league cols
     offset = 5
     for j, c in enumerate(LEAGUE_COLS):
-        styles[offset + j] = style_diverging(delta_matrix.iloc[i, j], threshold)
+        styles[offset + j] = style_diverging(delta_matrix.iloc[i, j], 50)
 
     return styles
 
