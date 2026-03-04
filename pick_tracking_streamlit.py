@@ -35,14 +35,14 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
         else:
             df[c] = np.nan
 
-    # Base numeric cols (Min/Max/Range may already exist from your CSV)
+    # Base numeric cols
     for col in ["ADP", "Min", "Max", "Range"]:
         if col in df.columns:
             df[col] = df[col].apply(safe_float)
         else:
             df[col] = np.nan
 
-    # If Min/Max weren't present or are empty, compute them from league cols
+    # If Min/Max/Range missing, compute from league cols
     if df["Min"].isna().all():
         df["Min"] = df[LEAGUE_COLS].min(axis=1, skipna=True)
     if df["Max"].isna().all():
@@ -50,7 +50,7 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
     if df["Range"].isna().all():
         df["Range"] = df["Max"] - df["Min"]
 
-    # Average pick across leagues (ignoring NaNs)
+    # Average pick
     df["AvgPick"] = df[LEAGUE_COLS].mean(axis=1, skipna=True)
 
     # Deltas per league: Pick - ADP
@@ -61,8 +61,8 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
         delta_cols.append(dcol)
 
     # Reach/value summaries
-    df["WorstReach"] = df[delta_cols].min(axis=1, skipna=True)   # most negative (picked earlier)
-    df["BestValue"]  = df[delta_cols].max(axis=1, skipna=True)   # most positive (picked later)
+    df["WorstReach"] = df[delta_cols].min(axis=1, skipna=True)   # most negative (reach)
+    df["BestValue"]  = df[delta_cols].max(axis=1, skipna=True)   # most positive (value)
     df["PickStdDev"] = df[LEAGUE_COLS].std(axis=1, skipna=True)
 
     # Discrepancy score
@@ -71,34 +71,28 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
         axis=0
     )
 
-    # How many leagues have a pick recorded
+    # Sample size
     df["Sample"] = df[LEAGUE_COLS].notna().sum(axis=1)
 
-    # Human-readable “most extreme” direction + magnitude
+    # Extreme label + signed net reach/value (negative = reach, positive = value)
     def label_extreme(row):
         wr = row["WorstReach"]
         bv = row["BestValue"]
         if pd.isna(wr) and pd.isna(bv):
             return ("", np.nan, np.nan)
-
-        # Decide which is more extreme in magnitude; store signed "NetReach"
-        # Reach -> negative, Value -> positive
         if pd.isna(bv) or (not pd.isna(wr) and abs(wr) >= abs(bv)):
             return ("Reach", abs(wr), -abs(wr))
         return ("Value", abs(bv), abs(bv))
 
     tmp = df.apply(label_extreme, axis=1, result_type="expand")
     df["ExtremeType"] = tmp[0]
-    df["ExtremeBy"] = tmp[1]   # magnitude in picks (always positive)
-    df["NetReach"] = tmp[2]    # signed: negative reach, positive value
+    df["ExtremeBy"] = tmp[1]
+    df["NetReach"] = tmp[2]
 
     return df
 
 def sort_direction(sort_by: str) -> bool:
-    """
-    Return True for ascending sort, False for descending.
-    """
-    ascending = {"ADP", "AvgPick", "Min", "Max"}  # smaller = earlier
+    ascending = {"ADP", "AvgPick", "Min", "Max"}
     return sort_by in ascending
 
 def fmt_int(x):
@@ -121,20 +115,17 @@ def style_diverging(val, cap):
     """
     Diverging red/green based on signed value.
     val < 0 => red (reach), val > 0 => green (value)
-    cap controls saturation: abs(val)>=cap -> strongest color.
     """
     if pd.isna(val) or cap <= 0:
         return ""
 
     v = float(val)
-    t = min(abs(v) / cap, 1.0)  # 0..1
+    t = min(abs(v) / cap, 1.0)
 
     if v < 0:
-        # red with alpha scaled by magnitude
         alpha = 0.12 + 0.30 * t
         return f"background-color: rgba(255, 0, 0, {alpha});"
     else:
-        # green with alpha scaled by magnitude
         alpha = 0.10 + 0.26 * t
         return f"background-color: rgba(0, 255, 0, {alpha});"
 
@@ -177,9 +168,44 @@ view = view[view["Sample"] >= min_sample]
 asc = sort_direction(sort_by)
 view = view.sort_values(sort_by, ascending=asc, na_position="last").reset_index(drop=True)
 
-# ---------------------------
-# Summary table (formatted)
-# ---------------------------
+# ===========================
+# 1) Per-league grid (TOP)
+# ===========================
+st.subheader("Per-league grid")
+
+base_cols = ["Player", "Pos", "ADP", "Min", "Max"]
+grid_num = view[base_cols + LEAGUE_COLS].copy()
+
+# Display formatting
+grid_display = grid_num.copy()
+grid_display["ADP"] = grid_num["ADP"].apply(fmt_adp)
+grid_display["Min"] = grid_num["Min"].apply(fmt_int)
+grid_display["Max"] = grid_num["Max"].apply(fmt_int)
+
+if show_mode == "Delta vs ADP":
+    for c in LEAGUE_COLS:
+        grid_display[c] = (grid_num[c] - grid_num["ADP"]).apply(fmt_int)
+else:
+    for c in LEAGUE_COLS:
+        grid_display[c] = grid_num[c].apply(fmt_int)
+
+def grid_styles(row):
+    # row is numeric row from grid_num (because we apply styles to grid_display but need numeric deltas)
+    styles = [""] * len(grid_display.columns)
+    offset = 5  # Player, Pos, ADP, Min, Max
+
+    for j, c in enumerate(LEAGUE_COLS):
+        delta = row[c] - row["ADP"]
+        styles[offset + j] = style_diverging(delta, threshold)
+
+    return styles
+
+styled_grid = grid_display.style.apply(grid_styles, axis=1)
+st.dataframe(styled_grid, use_container_width=True)
+
+# ===========================
+# 2) Summary table (BOTTOM)
+# ===========================
 st.subheader("Most extreme reaches/values")
 
 summary_cols = [
@@ -189,77 +215,32 @@ summary_cols = [
     "DiscrepancyScore", "PickStdDev"
 ]
 
-summary = view[summary_cols].copy()
+summary_num = view[summary_cols].copy()
 
-# Display formatting: ints everywhere except ADP (2 decimals)
-int_cols = ["Min", "Max", "Range", "AvgPick", "Sample", "ExtremeBy", "NetReach", "WorstReach", "BestValue", "DiscrepancyScore", "PickStdDev"]
+# Format display
+summary_display = summary_num.copy()
+summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
+
+int_cols = [
+    "Min", "Max", "Range", "AvgPick", "Sample",
+    "ExtremeBy", "NetReach", "WorstReach", "BestValue",
+    "DiscrepancyScore", "PickStdDev"
+]
 for col in int_cols:
-    summary[col] = summary[col].apply(fmt_int)
-summary["ADP"] = view["ADP"].apply(fmt_adp)
+    summary_display[col] = summary_num[col].apply(fmt_int)
 
-# Style: diverging on NetReach (overall reach/value)
-# (We need the underlying numeric series for styling, so style from view not summary)
-styled_summary = summary.style.apply(
-    lambda row: [""] * len(summary.columns),
-    axis=1
-)
+netreach_idx = summary_display.columns.get_loc("NetReach")
+extremeby_idx = summary_display.columns.get_loc("ExtremeBy")
 
-# Apply cell-level style for NetReach and ExtremeBy using underlying numeric 'view'
-netreach_idx = summary.columns.get_loc("NetReach")
-extremeby_idx = summary.columns.get_loc("ExtremeBy")
-
-def summary_row_styles(i):
-    # i is row index in the styled frame order
-    nr = view.iloc[i]["NetReach"]
-    styles = [""] * len(summary.columns)
+def summary_styles(row):
+    # row is numeric row from summary_num
+    styles = [""] * len(summary_display.columns)
+    nr = row["NetReach"]
     styles[netreach_idx] = style_diverging(nr, threshold)
-    styles[extremeby_idx] = style_diverging(nr, threshold)  # same direction color
+    styles[extremeby_idx] = style_diverging(nr, threshold)
     return styles
 
-styled_summary = summary.style.apply(lambda r: summary_row_styles(r.name), axis=1)
-
-st.dataframe(styled_summary.head(75), use_container_width=True)
-
-# ---------------------------
-# Per-league grid
-# ---------------------------
-st.subheader("Per-league grid")
-
-base_cols = ["Player", "Pos", "ADP", "Min", "Max"]
-grid = view[base_cols + LEAGUE_COLS].head(200).copy()
-
-# Display formatting
-grid_display = grid.copy()
-grid_display["ADP"] = grid["ADP"].apply(fmt_adp)
-grid_display["Min"] = grid["Min"].apply(fmt_int)
-grid_display["Max"] = grid["Max"].apply(fmt_int)
-
-if show_mode == "Delta vs ADP":
-    for c in LEAGUE_COLS:
-        grid_display[c] = (grid[c] - grid["ADP"]).apply(fmt_int)
-else:
-    for c in LEAGUE_COLS:
-        grid_display[c] = grid[c].apply(fmt_int)
-
-# Styling: diverging based on delta (signed)
-def grid_styles(row):
-    # row is from grid (numeric), but we output styles for grid_display columns
-    styles = [""] * len(grid_display.columns)
-
-    # base col count: Player, Pos, ADP, Min, Max => 5
-    offset = 5
-
-    for j, c in enumerate(LEAGUE_COLS):
-        if show_mode == "Delta vs ADP":
-            delta = row[c] - row["ADP"]
-        else:
-            delta = row[c] - row["ADP"]  # still color by delta even when showing picks
-        styles[offset + j] = style_diverging(delta, threshold)
-
-    return styles
-
-styled_grid = grid_display.style.apply(grid_styles, axis=1)
-
-st.dataframe(styled_grid, use_container_width=True)
+styled_summary = summary_display.style.apply(summary_styles, axis=1)
+st.dataframe(styled_summary, use_container_width=True)
 
 st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
