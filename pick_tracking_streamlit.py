@@ -186,39 +186,39 @@ st.dataframe(styled_grid, use_container_width=True)
 # ===========================
 # Summary table (BOTTOM)
 # ===========================
-st.subheader("Most extreme reaches/values")
+# st.subheader("Most extreme reaches/values")
 
-summary_cols = [
-    "Player", "Pos", "ADP", "Min", "Max", "Range", "AvgPick", "Sample",
-    "ExtremeType", "ExtremeBy", "NetReach",
-    "WorstReach", "BestValue",
-    "DiscrepancyScore", "PickStdDev"
-]
-summary_num = view[summary_cols].copy()
+# summary_cols = [
+#     "Player", "Pos", "ADP", "Min", "Max", "Range", "AvgPick", "Sample",
+#     "ExtremeType", "ExtremeBy", "NetReach",
+#     "WorstReach", "BestValue",
+#     "DiscrepancyScore", "PickStdDev"
+# ]
+# summary_num = view[summary_cols].copy()
 
-summary_display = summary_num.copy()
-summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
+# summary_display = summary_num.copy()
+# summary_display["ADP"] = summary_num["ADP"].apply(fmt_adp)
 
-int_cols = [
-    "Min", "Max", "Range", "AvgPick", "Sample",
-    "ExtremeBy", "NetReach", "WorstReach", "BestValue",
-    "DiscrepancyScore", "PickStdDev"
-]
-for col in int_cols:
-    summary_display[col] = summary_num[col].apply(fmt_int)
+# int_cols = [
+#     "Min", "Max", "Range", "AvgPick", "Sample",
+#     "ExtremeBy", "NetReach", "WorstReach", "BestValue",
+#     "DiscrepancyScore", "PickStdDev"
+# ]
+# for col in int_cols:
+#     summary_display[col] = summary_num[col].apply(fmt_int)
 
-netreach_idx = summary_display.columns.get_loc("NetReach")
-extremeby_idx = summary_display.columns.get_loc("ExtremeBy")
+# netreach_idx = summary_display.columns.get_loc("NetReach")
+# extremeby_idx = summary_display.columns.get_loc("ExtremeBy")
 
-def summary_styles(row):
-    i = row.name
-    nr = summary_num.iloc[i]["NetReach"]
-    styles = [""] * len(summary_display.columns)
-    styles[netreach_idx] = style_diverging(nr, 50)
-    styles[extremeby_idx] = style_diverging(nr, 50)
-    return styles
+# def summary_styles(row):
+#     i = row.name
+#     nr = summary_num.iloc[i]["NetReach"]
+#     styles = [""] * len(summary_display.columns)
+#     styles[netreach_idx] = style_diverging(nr, 50)
+#     styles[extremeby_idx] = style_diverging(nr, 50)
+#     return styles
 
-styled_summary = summary_display.style.apply(summary_styles, axis=1)
-st.dataframe(styled_summary, use_container_width=True)
+# styled_summary = summary_display.style.apply(summary_styles, axis=1)
+# st.dataframe(styled_summary, use_container_width=True)
 
 st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
