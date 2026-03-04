@@ -221,4 +221,4 @@ st.dataframe(styled_grid, use_container_width=True)
 # styled_summary = summary_display.style.apply(summary_styles, axis=1)
 # st.dataframe(styled_summary, use_container_width=True)
 
-st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
+# st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
