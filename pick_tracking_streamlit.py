@@ -116,7 +116,7 @@ with c2:
     )
 
 view = df.copy()
-view = view[view["Sample"] >= 3]
+view = view[view["Sample"] >= 1]
 
 asc = sort_direction(sort_by)
 view = view.sort_values(sort_by, ascending=asc, na_position="last").reset_index(drop=True)
