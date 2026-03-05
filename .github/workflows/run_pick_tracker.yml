@@ -2,10 +2,15 @@ name: Update pick tracker CSVs
 
 on:
   schedule:
-    # 3x daily (UTC). This will shift by 1 hour when America/Chicago switches CST/CDT.
-    - cron: "0 12 * * *"
+    # every two hours daily (UTC). This will shift by 1 hour when America/Chicago switches CST/CDT.
+    - cron: "0 14 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
     - cron: "0 20 * * *"
+    - cron: "0 22 * * *"
+    - cron: "0 0 * * *"
     - cron: "0 2 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch: {}
 
 permissions:
