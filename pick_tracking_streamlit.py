@@ -31,10 +31,14 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
     for c in LEAGUE_COLS:
         df[c] = df[c].apply(safe_float) if c in df.columns else np.nan
 
-    for col in ["ADP", "Min", "Max", "Range"]:
+    # Rename CSV ADP → NFBC_ADP, compute TGFBI_ADP from actual picks
+    df["NFBC_ADP"] = df["ADP"].apply(safe_float) if "ADP" in df.columns else np.nan
+    df["TGFBI_ADP"] = df[LEAGUE_COLS].mean(axis=1, skipna=True)
+
+    for col in ["Min", "Max", "Range"]:
         df[col] = df[col].apply(safe_float) if col in df.columns else np.nan
 
-    # backfill Min/Max/Range if needed
+    # Backfill Min/Max/Range if needed
     if df["Min"].isna().all():
         df["Min"] = df[LEAGUE_COLS].min(axis=1, skipna=True)
     if df["Max"].isna().all():
@@ -42,12 +46,11 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
     if df["Range"].isna().all():
         df["Range"] = df["Max"] - df["Min"]
 
-    df["AvgPick"] = df[LEAGUE_COLS].mean(axis=1, skipna=True)
-
+    # Deltas vs TGFBI_ADP (your league's actual consensus)
     delta_cols = []
     for c in LEAGUE_COLS:
         dcol = f"d_{c}"
-        df[dcol] = df[c] - df["ADP"]
+        df[dcol] = df[c] - df["TGFBI_ADP"]
         delta_cols.append(dcol)
 
     df["WorstReach"] = df[delta_cols].min(axis=1, skipna=True)
@@ -64,7 +67,7 @@ def build_metrics(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def sort_direction(sort_by: str) -> bool:
-    return sort_by in {"ADP", "AvgPick", "Min", "Max"}
+    return sort_by in {"NFBC_ADP", "TGFBI_ADP", "Min", "Max"}
 
 def fmt_int(x):
     if pd.isna(x):
@@ -104,11 +107,11 @@ df = build_metrics(load_tracker(CSV_URL))
 c1, c2 = st.columns([1.2, 1.6])
 
 with c1:
-    show_mode = st.selectbox("Grid shows", ["Picks", "Delta vs ADP"], index=0)
+    show_mode = st.selectbox("Grid shows", ["Picks", "Delta vs TGFBI ADP"], index=0)
 with c2:
     sort_by = st.selectbox(
         "Sort by",
-        ["ADP", "DiscrepancyScore", "AvgPick", "Min", "Max", "Range", "PickStdDev", "BestValue", "WorstReach", "Sample"],
+        ["NFBC_ADP", "TGFBI_ADP", "DiscrepancyScore", "Min", "Max", "Range", "PickStdDev", "BestValue", "WorstReach", "Sample"],
         index=0
     )
 
@@ -123,19 +126,20 @@ view = view.sort_values(sort_by, ascending=asc, na_position="last").reset_index(
 # ===========================
 st.subheader("Per-league grid")
 
-base_cols = ["Player", "Pos", "ADP", "Min", "Max"]
+base_cols = ["Player", "Pos", "NFBC_ADP", "TGFBI_ADP", "Min", "Max"]
 grid_num = view[base_cols + LEAGUE_COLS].copy()
 
-# Precompute deltas ONCE (numeric), to avoid any string/object issues in styling
-delta_matrix = grid_num[LEAGUE_COLS].sub(grid_num["ADP"], axis=0)
+# Precompute deltas vs TGFBI_ADP (numeric), to avoid any string/object issues in styling
+delta_matrix = grid_num[LEAGUE_COLS].sub(grid_num["TGFBI_ADP"], axis=0)
 
 # Build display frame (strings)
 grid_display = grid_num.copy()
-grid_display["ADP"] = grid_num["ADP"].apply(fmt_adp)
+grid_display["NFBC_ADP"] = grid_num["NFBC_ADP"].apply(fmt_adp)
+grid_display["TGFBI_ADP"] = grid_num["TGFBI_ADP"].apply(fmt_adp)
 grid_display["Min"] = grid_num["Min"].apply(fmt_int)
 grid_display["Max"] = grid_num["Max"].apply(fmt_int)
 
-if show_mode == "Delta vs ADP":
+if show_mode == "Delta vs TGFBI ADP":
     for c in LEAGUE_COLS:
         grid_display[c] = delta_matrix[c].apply(fmt_int)
 else:
@@ -145,7 +149,7 @@ else:
 def grid_styles(row):
     i = row.name
     styles = [""] * len(grid_display.columns)
-    offset = 5
+    offset = 6  # Player, Pos, NFBC_ADP, TGFBI_ADP, Min, Max
     for j, c in enumerate(LEAGUE_COLS):
         styles[offset + j] = style_diverging(delta_matrix.iloc[i, j], 50)
     return styles
@@ -153,4 +157,4 @@ def grid_styles(row):
 styled_grid = grid_display.style.apply(grid_styles, axis=1)
 st.dataframe(styled_grid, use_container_width=True, height=800)
 
-st.caption("Coloring: red = drafted earlier than ADP (reach), green = drafted later than ADP (value).")
+st.caption("Coloring: red = drafted earlier than TGFBI ADP (reach), green = drafted later than TGFBI ADP (value).")
