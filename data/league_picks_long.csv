@@ -15515,6 +15515,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,9802,Mauricio Dubon,406.0,2B / 3B / SS / OF,437.85,ATL
 1068,11186,Will Vest,407.0,P,282.11,DET
 1068,11204,Garrett Mitchell,408.0,OF,440.44,MLW
+1068,11836,Slade Cecconi,409.0,P,392.51,CLE
+1068,9609,Luis Rengifo,410.0,2B / 3B,390.81,MLW
 1068,11131,Quinn Priester,,P,284.67,MLW
 1068,11887,Hurston Waldrep,,P,313.45,ATL
 1068,11610,Jordan Westburg,,3B,320.0,BAL
@@ -15548,9 +15550,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,10766,Jake Cronenworth,,2B,386.56,SD
 1068,9417,Andrew Benintendi,,OF,387.22,CWS
 1068,11625,Joey Ortiz,,SS,388.07,MLW
-1068,9609,Luis Rengifo,,2B / 3B,390.81,MLW
 1068,12010,Nasim Nunez,,SS,391.37,WAS
-1068,11836,Slade Cecconi,,P,392.51,CLE
 1068,11893,Jared Jones,,P,392.68,PIT
 1068,9791,Michael Soroka,,P,392.86,ARZ
 1068,12434,Luis Morales,,P,394.32,ATH
@@ -22981,6 +22981,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,10207,Grayson Rodriguez,318.0,P,307.77,LAA
 1071,8808,Kirby Yates,319.0,P,380.24,LAA
 1071,10236,Jesus Sanchez,320.0,OF,329.6,TOR
+1071,11844,Nolan Schanuel,321.0,1B,310.31,LAA
 1071,11060,Edwin Uceta,,P,279.83,TB
 1071,11186,Will Vest,,P,282.11,DET
 1071,11131,Quinn Priester,,P,284.67,MLW
@@ -22990,7 +22991,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,10925,Ernie Clement,,2B / 3B / SS,298.36,TOR
 1071,12148,Zebby Matthews,,P,305.01,MIN
 1071,12226,Dylan Beavers,,OF,307.45,BAL
-1071,11844,Nolan Schanuel,,1B,310.31,LAA
 1071,11887,Hurston Waldrep,,P,313.45,ATL
 1071,11420,Ian Seymour,,P,319.32,TB
 1071,7886,Jameson Taillon,,P,319.78,CHC
@@ -33068,6 +33068,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,9379,Zach Eflin,333.0,P,390.54,BAL
 1075,10438,Yusei Kikuchi,334.0,P,350.43,LAA
 1075,12266,Matt Svanson,335.0,P,423.0,STL
+1075,12202,Bryce Eldridge,336.0,UT,361.49,SF
 1075,11921,Matt Shaw,,3B,228.53,CHC
 1075,11940,Roki Sasaki,,P,230.7,LAD
 1075,11749,Jasson Dominguez,,OF,232.17,NYY
@@ -33111,7 +33112,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,8426,Michael Wacha,,P,358.58,KC
 1075,9742,Tyler Mahle,,P,359.15,SF
 1075,11934,Marcelo Mayer,,3B,360.54,BOS
-1075,12202,Bryce Eldridge,,UT,361.49,SF
 1075,11434,Spencer Horwitz,,1B,362.08,PIT
 1075,9772,Tanner Scott,,P,362.35,LAD
 1075,10204,Gavin Sheets,,OF,364.54,SD
@@ -38146,6 +38146,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,9312,Seth Lugo,375.0,P,350.46,KC
 1077,10717,Cristian Javier,376.0,P,372.65,HOU
 1077,11342,Kody Clemens,377.0,OF / 2B / 1B,377.97,MIN
+1077,12241,Denzel Clarke,378.0,OF,381.03,ATH
 1077,11749,Jasson Dominguez,,OF,232.17,NYY
 1077,11556,Spencer Steer,,1B,256.83,CIN
 1077,11060,Edwin Uceta,,P,279.83,TB
@@ -38183,7 +38184,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,8223,Nolan Arenado,,3B,380.06,ARZ
 1077,9262,Victor Caratini,,C,380.2,MIN
 1077,8808,Kirby Yates,,P,380.24,LAA
-1077,12241,Denzel Clarke,,OF,381.03,ATH
 1077,10327,Sean Murphy,,C,381.6,ATL
 1077,10350,Trevor Larnach,,OF,381.68,MIN
 1077,11594,Reese Olson,,P,382.72,DET
@@ -43194,8 +43194,11 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,11204,Garrett Mitchell,387.0,OF,440.44,MLW
 1079,10204,Gavin Sheets,388.0,OF,364.54,SD
 1079,9789,Tyler O`Neill,389.0,OF,376.98,BAL
+1079,11603,Connor Norby,390.0,3B,357.87,MIA
+1079,11105,Camilo Doval,391.0,P,434.8,NYY
+1079,11159,Bailey Ober,392.0,P,301.5,MIN
+1079,10438,Yusei Kikuchi,393.0,P,350.43,LAA
 1079,11060,Edwin Uceta,,P,279.83,TB
-1079,11159,Bailey Ober,,P,301.5,MIN
 1079,11887,Hurston Waldrep,,P,313.45,ATL
 1079,12430,Troy Melton,,P,320.29,DET
 1079,10792,Kyle Finnegan,,P,323.77,DET
@@ -43210,9 +43213,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,12344,Jonah Tong,,P,345.67,NYM
 1079,10146,Brandon Marsh,,OF,345.8,PHI
 1079,10335,Simeon Woods Richardson,,P,346.38,MIN
-1079,10438,Yusei Kikuchi,,P,350.43,LAA
 1079,9312,Seth Lugo,,P,350.46,KC
-1079,11603,Connor Norby,,3B,357.87,MIA
 1079,11434,Spencer Horwitz,,1B,362.08,PIT
 1079,9772,Tanner Scott,,P,362.35,LAD
 1079,9763,Austin Hays,,OF,367.13,CWS
@@ -43290,7 +43291,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,11297,Matt Brash,,P,431.89,SEA
 1079,12137,Michael McGreevy,,P,432.56,STL
 1079,10245,Joey Bart,,C,434.68,PIT
-1079,11105,Camilo Doval,,P,434.8,NYY
 1079,12046,Jacob Melton,,OF,434.98,TB
 1079,10200,Gabriel Arias,,2B / SS,435.41,CLE
 1079,11395,Calvin Faucher,,P,437.51,MIA
@@ -45692,6 +45692,9 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,10626,Mike Yastrzemski,367.0,OF,399.26,ATL
 1080,11934,Marcelo Mayer,368.0,3B,360.54,BOS
 1080,11105,Camilo Doval,369.0,P,434.8,NYY
+1080,12227,Chase Meidroth,370.0,2B / SS,339.95,CWS
+1080,12010,Nasim Nunez,371.0,SS,391.37,WAS
+1080,10662,Kevin Ginkel,372.0,P,471.38,ARZ
 1080,10038,Shane Bieber,,P,187.07,TOR
 1080,11749,Jasson Dominguez,,OF,232.17,NYY
 1080,11060,Edwin Uceta,,P,279.83,TB
@@ -45708,7 +45711,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,10236,Jesus Sanchez,,OF,329.6,TOR
 1080,11907,Robby Snelling,,P,331.49,MIA
 1080,12028,Jordan Leasure,,P,332.23,CWS
-1080,12227,Chase Meidroth,,2B / SS,339.95,CWS
 1080,11325,Anthony Volpe,,SS,341.34,NYY
 1080,9555,Clay Holmes,,P,343.07,NYM
 1080,9799,Mitch Keller,,P,344.01,PIT
@@ -45746,7 +45748,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,9417,Andrew Benintendi,,OF,387.22,CWS
 1080,11625,Joey Ortiz,,SS,388.07,MLW
 1080,9609,Luis Rengifo,,2B / 3B,390.81,MLW
-1080,12010,Nasim Nunez,,SS,391.37,WAS
 1080,11190,Garrett Whitlock,,P,392.41,BOS
 1080,11893,Jared Jones,,P,392.68,PIT
 1080,9791,Michael Soroka,,P,392.86,ARZ
@@ -45864,7 +45865,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,11822,Kyle Leahy,,P,469.39,STL
 1080,11637,Nathan Lukes,,OF,470.69,TOR
 1080,12592,Sung-mun Song,,3B,470.78,SD
-1080,10662,Kevin Ginkel,,P,471.38,ARZ
 1080,12250,Tim Tawa,,1B / OF / 2B,471.75,ARZ
 1080,11424,Louis Varland,,P,472.6,TOR
 1080,8688,Joc Pederson,,UT,474.58,TEX
