@@ -2514,6 +2514,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1062,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1062,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1062,12551,Walbert Urena,,P,999.9,LAA
 1062,8228,Jurickson Profar,,OF,1100.0,ATL
 1062,11371,Ronny Henriquez,,P,1200.0,MIA
 1062,9876,Pablo Lopez,,P,1200.0,MIN
@@ -2900,11 +2901,13 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,9523,Miguel Andujar,381.0,3B / OF,430.77,SD
 1063,9312,Seth Lugo,382.0,P,350.86,KC
 1063,12259,Chad Patrick,383.0,P,335.34,MLW
+1063,10477,Justin Steele,384.0,P,371.92,CHC
+1063,10145,Brady Singer,385.0,P,326.23,CIN
+1063,9763,Austin Hays,386.0,OF,366.21,CWS
 1063,11060,Edwin Uceta,,P,283.76,TB
 1063,11186,Will Vest,,P,285.5,DET
 1063,7886,Jameson Taillon,,P,320.43,CHC
 1063,11887,Hurston Waldrep,,P,322.39,ATL
-1063,10145,Brady Singer,,P,326.23,CIN
 1063,10569,Tommy Edman,,2B / OF,327.14,LAD
 1063,12430,Troy Melton,,P,328.62,DET
 1063,11147,Ha-Seong Kim,,SS,332.67,ATL
@@ -2924,10 +2927,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,11434,Spencer Horwitz,,1B,363.68,PIT
 1063,8879,Chris Bassitt,,P,363.73,BAL
 1063,9772,Tanner Scott,,P,365.38,LAD
-1063,9763,Austin Hays,,OF,366.21,CWS
 1063,12452,Payton Tolle,,P,368.17,BOS
 1063,11586,Brandon Pfaadt,,P,369.51,ARZ
-1063,10477,Justin Steele,,P,371.92,CHC
 1063,10717,Cristian Javier,,P,373.43,HOU
 1063,11225,Lars Nootbaar,,OF,375.18,STL
 1063,8694,J.P. Crawford,,SS,376.25,SEA
@@ -5032,6 +5033,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1063,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1063,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1063,12551,Walbert Urena,,P,999.9,LAA
 1063,8228,Jurickson Profar,,OF,1100.0,ATL
 1063,11371,Ronny Henriquez,,P,1200.0,MIA
 1063,9876,Pablo Lopez,,P,1200.0,MIN
@@ -7550,6 +7552,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1064,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1064,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1064,12551,Walbert Urena,,P,999.9,LAA
 1064,8228,Jurickson Profar,,OF,1100.0,ATL
 1064,11371,Ronny Henriquez,,P,1200.0,MIA
 1064,9876,Pablo Lopez,,P,1200.0,MIN
@@ -10068,6 +10071,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1065,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1065,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1065,12551,Walbert Urena,,P,999.9,LAA
 1065,8228,Jurickson Profar,,OF,1100.0,ATL
 1065,11371,Ronny Henriquez,,P,1200.0,MIA
 1065,9876,Pablo Lopez,,P,1200.0,MIN
@@ -12586,6 +12590,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1066,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1066,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1066,12551,Walbert Urena,,P,999.9,LAA
 1066,8228,Jurickson Profar,,OF,1100.0,ATL
 1066,11371,Ronny Henriquez,,P,1200.0,MIA
 1066,9876,Pablo Lopez,,P,1200.0,MIN
@@ -15104,6 +15109,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1067,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1067,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1067,12551,Walbert Urena,,P,999.9,LAA
 1067,8228,Jurickson Profar,,OF,1100.0,ATL
 1067,11371,Ronny Henriquez,,P,1200.0,MIA
 1067,9876,Pablo Lopez,,P,1200.0,MIN
@@ -17622,6 +17628,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1068,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1068,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1068,12551,Walbert Urena,,P,999.9,LAA
 1068,8228,Jurickson Profar,,OF,1100.0,ATL
 1068,11371,Ronny Henriquez,,P,1200.0,MIA
 1068,9876,Pablo Lopez,,P,1200.0,MIN
@@ -20140,6 +20147,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1069,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1069,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1069,12551,Walbert Urena,,P,999.9,LAA
 1069,8228,Jurickson Profar,,OF,1100.0,ATL
 1069,11371,Ronny Henriquez,,P,1200.0,MIA
 1069,9876,Pablo Lopez,,P,1200.0,MIN
@@ -22658,6 +22666,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1070,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1070,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1070,12551,Walbert Urena,,P,999.9,LAA
 1070,8228,Jurickson Profar,,OF,1100.0,ATL
 1070,11371,Ronny Henriquez,,P,1200.0,MIA
 1070,9876,Pablo Lopez,,P,1200.0,MIN
@@ -25176,6 +25185,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1071,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1071,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1071,12551,Walbert Urena,,P,999.9,LAA
 1071,8228,Jurickson Profar,,OF,1100.0,ATL
 1071,11371,Ronny Henriquez,,P,1200.0,MIA
 1071,9876,Pablo Lopez,,P,1200.0,MIN
@@ -27694,6 +27704,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1072,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1072,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1072,12551,Walbert Urena,,P,999.9,LAA
 1072,8228,Jurickson Profar,,OF,1100.0,ATL
 1072,9876,Pablo Lopez,,P,1200.0,MIN
 1072,11371,Ronny Henriquez,,P,1200.0,MIA
@@ -30212,6 +30223,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1073,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1073,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1073,12551,Walbert Urena,,P,999.9,LAA
 1073,8228,Jurickson Profar,,OF,1100.0,ATL
 1073,11371,Ronny Henriquez,,P,1200.0,MIA
 1073,9876,Pablo Lopez,,P,1200.0,MIN
@@ -32730,6 +32742,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1074,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1074,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1074,12551,Walbert Urena,,P,999.9,LAA
 1074,8228,Jurickson Profar,,OF,1100.0,ATL
 1074,11371,Ronny Henriquez,,P,1200.0,MIA
 1074,9876,Pablo Lopez,,P,1200.0,MIN
@@ -35248,6 +35261,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1075,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1075,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1075,12551,Walbert Urena,,P,999.9,LAA
 1075,8228,Jurickson Profar,,OF,1100.0,ATL
 1075,11371,Ronny Henriquez,,P,1200.0,MIA
 1075,9876,Pablo Lopez,,P,1200.0,MIN
@@ -37766,6 +37780,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1076,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1076,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1076,12551,Walbert Urena,,P,999.9,LAA
 1076,8228,Jurickson Profar,,OF,1100.0,ATL
 1076,11371,Ronny Henriquez,,P,1200.0,MIA
 1076,9876,Pablo Lopez,,P,1200.0,MIN
@@ -40284,6 +40299,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1077,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1077,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1077,12551,Walbert Urena,,P,999.9,LAA
 1077,8228,Jurickson Profar,,OF,1100.0,ATL
 1077,11371,Ronny Henriquez,,P,1200.0,MIA
 1077,9876,Pablo Lopez,,P,1200.0,MIN
@@ -42802,6 +42818,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1078,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1078,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1078,12551,Walbert Urena,,P,999.9,LAA
 1078,8228,Jurickson Profar,,OF,1100.0,ATL
 1078,11371,Ronny Henriquez,,P,1200.0,MIA
 1078,9876,Pablo Lopez,,P,1200.0,MIN
@@ -45320,6 +45337,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1079,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1079,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1079,12551,Walbert Urena,,P,999.9,LAA
 1079,8228,Jurickson Profar,,OF,1100.0,ATL
 1079,11371,Ronny Henriquez,,P,1200.0,MIA
 1079,9876,Pablo Lopez,,P,1200.0,MIN
@@ -45762,6 +45780,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,10290,Miguel Amaya,437.0,C,410.51,CHC
 1080,8223,Nolan Arenado,438.0,3B,379.68,ARZ
 1080,8694,J.P. Crawford,439.0,SS,376.25,SEA
+1080,11677,Randy Vasquez,440.0,P,539.78,SD
 1080,10038,Shane Bieber,,P,192.15,TOR
 1080,11749,Jasson Dominguez,,OF,235.69,NYY
 1080,11131,Quinn Priester,,P,286.47,MLW
@@ -45981,7 +46000,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,9764,Walker Buehler,,P,538.32,PHI
 1080,11412,Logan Allen,,P,538.84,CLE
 1080,8954,Michael Conforto,,OF,539.21,CHC
-1080,11677,Randy Vasquez,,P,539.78,SD
 1080,12484,Gage Jump,,P,539.81,ATH
 1080,11952,Joey Loperfido,,OF,539.82,HOU
 1080,12300,Alejandro Osuna,,OF,540.58,TEX
@@ -47838,6 +47856,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1080,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1080,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1080,12551,Walbert Urena,,P,999.9,LAA
 1080,8228,Jurickson Profar,,OF,1100.0,ATL
 1080,11371,Ronny Henriquez,,P,1200.0,MIA
 1080,9876,Pablo Lopez,,P,1200.0,MIN
@@ -48273,6 +48292,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,11325,Anthony Volpe,430.0,SS,342.73,NYY
 1081,11375,Ryan Weiss,431.0,P,503.44,HOU
 1081,10626,Mike Yastrzemski,432.0,OF,398.7,ATL
+1081,10468,Grant Holmes,433.0,P,434.68,ATL
 1081,11060,Edwin Uceta,,P,283.76,TB
 1081,11887,Hurston Waldrep,,P,322.39,ATL
 1081,10792,Kyle Finnegan,,P,326.46,DET
@@ -48332,7 +48352,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,5420,Justin Verlander,,P,431.97,DET
 1081,11297,Matt Brash,,P,433.84,SEA
 1081,12137,Michael McGreevy,,P,434.21,STL
-1081,10468,Grant Holmes,,P,434.68,ATL
 1081,12046,Jacob Melton,,OF,435.1,TB
 1081,11105,Camilo Doval,,P,435.74,NYY
 1081,10245,Joey Bart,,C,436.06,PIT
@@ -50356,6 +50375,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1081,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1081,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1081,12551,Walbert Urena,,P,999.9,LAA
 1081,8228,Jurickson Profar,,OF,1100.0,ATL
 1081,11371,Ronny Henriquez,,P,1200.0,MIA
 1081,9876,Pablo Lopez,,P,1200.0,MIN
@@ -52874,6 +52894,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1082,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1082,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1082,12551,Walbert Urena,,P,999.9,LAA
 1082,8228,Jurickson Profar,,OF,1100.0,ATL
 1082,11371,Ronny Henriquez,,P,1200.0,MIA
 1082,9876,Pablo Lopez,,P,1200.0,MIN
@@ -55392,6 +55413,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,7828,Place Holder28,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1083,7829,Place Holder29,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
 1083,7830,Place Holder30,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,NYY
+1083,12551,Walbert Urena,,P,999.9,LAA
 1083,8228,Jurickson Profar,,OF,1100.0,ATL
 1083,11371,Ronny Henriquez,,P,1200.0,MIA
 1083,9876,Pablo Lopez,,P,1200.0,MIN
