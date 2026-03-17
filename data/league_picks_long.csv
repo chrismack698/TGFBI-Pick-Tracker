@@ -1162,7 +1162,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,12585,Peyton Gray,,P,588.29,TEX
 1062,11198,Pedro Leon,,OF,588.29,PHI
 1062,12638,Luis Gastelum,,P,588.29,STL
-1062,12644,Trevor Kuncl,,P,588.3,CIN
 1062,12555,Jose Fernandez,,SS,588.3,ARZ
 1062,11716,J.P. France,,P,588.31,HOU
 1062,8222,Miguel Sano,,3B,588.31,LAA
@@ -2519,6 +2518,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,8228,Jurickson Profar,,OF,1100.0,ATL
 1062,9876,Pablo Lopez,,P,1200.0,MIN
 1062,11371,Ronny Henriquez,,P,1200.0,MIA
+1062,12644,Trevor Kuncl,,P,1200.0,CIN
 1063,8956,Aaron Judge,1.0,OF,2.06,NYY
 1063,9810,Shohei Ohtani,2.0,UT / P,1.31,LAD
 1063,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -2963,8 +2963,11 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,9800,Corbin Burnes,442.0,P,455.46,ARZ
 1063,10263,Keibert Ruiz,443.0,C,389.57,WAS
 1063,9262,Victor Caratini,444.0,C,379.11,MIN
+1063,10838,JJ Bleday,445.0,OF,479.95,CIN
+1063,9795,Danny Jansen,446.0,C,419.13,TEX
+1063,8748,Nick Martinez,447.0,P,455.66,TB
+1063,10569,Tommy Edman,448.0,2B / OF,333.11,LAD
 1063,11060,Edwin Uceta,,P,292.51,TB
-1063,10569,Tommy Edman,,2B / OF,333.11,LAD
 1063,11887,Hurston Waldrep,,P,335.2,ATL
 1063,11147,Ha-Seong Kim,,SS,339.81,ATL
 1063,12430,Troy Melton,,P,340.98,DET
@@ -3000,7 +3003,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,9860,Zack Littell,,P,415.33,WAS
 1063,11868,Joe Boyle,,P,418.31,TB
 1063,11276,Romy Gonzalez,,1B / 2B,419.01,BOS
-1063,9795,Danny Jansen,,C,419.13,TEX
 1063,12128,Brooks Baldwin,,OF,421.23,CWS
 1063,8951,Jose Berrios,,P,422.49,TOR
 1063,12482,Joe Mack,,C,422.98,MIA
@@ -3045,7 +3047,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,10203,Gavin Lux,,OF,454.76,TB
 1063,12047,Spencer Jones,,OF,455.55,NYY
 1063,11743,Casey Schmitt,,2B / 3B,455.58,SF
-1063,8748,Nick Martinez,,P,455.66,TB
 1063,11923,Jett Williams,,SS,456.58,MLW
 1063,12329,Elmer Rodriguez-Cruz,,P,460.55,NYY
 1063,11038,Nick Gonzales,,2B,460.85,PIT
@@ -3079,7 +3080,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,12592,Sung-mun Song,,3B,476.91,SD
 1063,8688,Joc Pederson,,UT,477.31,TEX
 1063,11742,Henry Davis,,C,479.34,PIT
-1063,10838,JJ Bleday,,OF,479.95,CIN
 1063,10764,Luke Raley,,1B / OF,480.08,SEA
 1063,11624,Zack Gelof,,2B,481.45,ATH
 1063,10296,Nathaniel Lowe,,1B,482.63,BOS
@@ -3682,7 +3682,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,12585,Peyton Gray,,P,588.29,TEX
 1063,11198,Pedro Leon,,OF,588.29,PHI
 1063,12638,Luis Gastelum,,P,588.29,STL
-1063,12644,Trevor Kuncl,,P,588.3,CIN
 1063,12555,Jose Fernandez,,SS,588.3,ARZ
 1063,11716,J.P. France,,P,588.31,HOU
 1063,8222,Miguel Sano,,3B,588.31,LAA
@@ -5039,6 +5038,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,8228,Jurickson Profar,,OF,1100.0,ATL
 1063,9876,Pablo Lopez,,P,1200.0,MIN
 1063,11371,Ronny Henriquez,,P,1200.0,MIA
+1063,12644,Trevor Kuncl,,P,1200.0,CIN
 1064,8956,Aaron Judge,1.0,OF,2.06,NYY
 1064,9810,Shohei Ohtani,2.0,UT / P,1.31,LAD
 1064,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -6202,7 +6202,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,12585,Peyton Gray,,P,588.29,TEX
 1064,11198,Pedro Leon,,OF,588.29,PHI
 1064,12638,Luis Gastelum,,P,588.29,STL
-1064,12644,Trevor Kuncl,,P,588.3,CIN
 1064,12555,Jose Fernandez,,SS,588.3,ARZ
 1064,11716,J.P. France,,P,588.31,HOU
 1064,8222,Miguel Sano,,3B,588.31,LAA
@@ -7559,6 +7558,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,8228,Jurickson Profar,,OF,1100.0,ATL
 1064,9876,Pablo Lopez,,P,1200.0,MIN
 1064,11371,Ronny Henriquez,,P,1200.0,MIA
+1064,12644,Trevor Kuncl,,P,1200.0,CIN
 1065,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1065,8956,Aaron Judge,2.0,OF,2.06,NYY
 1065,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -8722,7 +8722,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,12585,Peyton Gray,,P,588.29,TEX
 1065,11198,Pedro Leon,,OF,588.29,PHI
 1065,12638,Luis Gastelum,,P,588.29,STL
-1065,12644,Trevor Kuncl,,P,588.3,CIN
 1065,12555,Jose Fernandez,,SS,588.3,ARZ
 1065,11716,J.P. France,,P,588.31,HOU
 1065,8222,Miguel Sano,,3B,588.31,LAA
@@ -10079,6 +10078,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,8228,Jurickson Profar,,OF,1100.0,ATL
 1065,9876,Pablo Lopez,,P,1200.0,MIN
 1065,11371,Ronny Henriquez,,P,1200.0,MIA
+1065,12644,Trevor Kuncl,,P,1200.0,CIN
 1066,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1066,8956,Aaron Judge,2.0,OF,2.06,NYY
 1066,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -11242,7 +11242,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,12585,Peyton Gray,,P,588.29,TEX
 1066,11198,Pedro Leon,,OF,588.29,PHI
 1066,12638,Luis Gastelum,,P,588.29,STL
-1066,12644,Trevor Kuncl,,P,588.3,CIN
 1066,12555,Jose Fernandez,,SS,588.3,ARZ
 1066,11716,J.P. France,,P,588.31,HOU
 1066,8222,Miguel Sano,,3B,588.31,LAA
@@ -12599,6 +12598,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,8228,Jurickson Profar,,OF,1100.0,ATL
 1066,9876,Pablo Lopez,,P,1200.0,MIN
 1066,11371,Ronny Henriquez,,P,1200.0,MIA
+1066,12644,Trevor Kuncl,,P,1200.0,CIN
 1067,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1067,10932,Bobby Witt Jr.,2.0,SS,3.66,KC
 1067,10030,Juan Soto,3.0,OF,4.44,NYM
@@ -13762,7 +13762,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,12585,Peyton Gray,,P,588.29,TEX
 1067,11198,Pedro Leon,,OF,588.29,PHI
 1067,12638,Luis Gastelum,,P,588.29,STL
-1067,12644,Trevor Kuncl,,P,588.3,CIN
 1067,12555,Jose Fernandez,,SS,588.3,ARZ
 1067,11716,J.P. France,,P,588.31,HOU
 1067,8222,Miguel Sano,,3B,588.31,LAA
@@ -15119,6 +15118,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,8228,Jurickson Profar,,OF,1100.0,ATL
 1067,9876,Pablo Lopez,,P,1200.0,MIN
 1067,11371,Ronny Henriquez,,P,1200.0,MIA
+1067,12644,Trevor Kuncl,,P,1200.0,CIN
 1068,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1068,10932,Bobby Witt Jr.,2.0,SS,3.66,KC
 1068,9775,Ronald Acuna Jr.,3.0,OF,7.8,ATL
@@ -16282,7 +16282,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,12585,Peyton Gray,,P,588.29,TEX
 1068,11198,Pedro Leon,,OF,588.29,PHI
 1068,12638,Luis Gastelum,,P,588.29,STL
-1068,12644,Trevor Kuncl,,P,588.3,CIN
 1068,12555,Jose Fernandez,,SS,588.3,ARZ
 1068,11716,J.P. France,,P,588.31,HOU
 1068,8222,Miguel Sano,,3B,588.31,LAA
@@ -17639,6 +17638,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,8228,Jurickson Profar,,OF,1100.0,ATL
 1068,9876,Pablo Lopez,,P,1200.0,MIN
 1068,11371,Ronny Henriquez,,P,1200.0,MIA
+1068,12644,Trevor Kuncl,,P,1200.0,CIN
 1069,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1069,8956,Aaron Judge,2.0,OF,2.06,NYY
 1069,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -18802,7 +18802,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,12585,Peyton Gray,,P,588.29,TEX
 1069,11198,Pedro Leon,,OF,588.29,PHI
 1069,12638,Luis Gastelum,,P,588.29,STL
-1069,12644,Trevor Kuncl,,P,588.3,CIN
 1069,12555,Jose Fernandez,,SS,588.3,ARZ
 1069,11716,J.P. France,,P,588.31,HOU
 1069,8222,Miguel Sano,,3B,588.31,LAA
@@ -20159,6 +20158,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,8228,Jurickson Profar,,OF,1100.0,ATL
 1069,9876,Pablo Lopez,,P,1200.0,MIN
 1069,11371,Ronny Henriquez,,P,1200.0,MIA
+1069,12644,Trevor Kuncl,,P,1200.0,CIN
 1070,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1070,8956,Aaron Judge,2.0,OF,2.06,NYY
 1070,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -21322,7 +21322,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,12585,Peyton Gray,,P,588.29,TEX
 1070,11198,Pedro Leon,,OF,588.29,PHI
 1070,12638,Luis Gastelum,,P,588.29,STL
-1070,12644,Trevor Kuncl,,P,588.3,CIN
 1070,12555,Jose Fernandez,,SS,588.3,ARZ
 1070,11716,J.P. France,,P,588.31,HOU
 1070,8222,Miguel Sano,,3B,588.31,LAA
@@ -22679,6 +22678,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,8228,Jurickson Profar,,OF,1100.0,ATL
 1070,9876,Pablo Lopez,,P,1200.0,MIN
 1070,11371,Ronny Henriquez,,P,1200.0,MIA
+1070,12644,Trevor Kuncl,,P,1200.0,CIN
 1071,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1071,8956,Aaron Judge,2.0,OF,2.06,NYY
 1071,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -23842,7 +23842,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,12585,Peyton Gray,,P,588.29,TEX
 1071,11198,Pedro Leon,,OF,588.29,PHI
 1071,12638,Luis Gastelum,,P,588.29,STL
-1071,12644,Trevor Kuncl,,P,588.3,CIN
 1071,12555,Jose Fernandez,,SS,588.3,ARZ
 1071,11716,J.P. France,,P,588.31,HOU
 1071,8222,Miguel Sano,,3B,588.31,LAA
@@ -25199,6 +25198,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,8228,Jurickson Profar,,OF,1100.0,ATL
 1071,9876,Pablo Lopez,,P,1200.0,MIN
 1071,11371,Ronny Henriquez,,P,1200.0,MIA
+1071,12644,Trevor Kuncl,,P,1200.0,CIN
 1072,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1072,8956,Aaron Judge,2.0,OF,2.06,NYY
 1072,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -26362,7 +26362,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12585,Peyton Gray,,P,588.29,TEX
 1072,11198,Pedro Leon,,OF,588.29,PHI
 1072,12638,Luis Gastelum,,P,588.29,STL
-1072,12644,Trevor Kuncl,,P,588.3,CIN
 1072,12555,Jose Fernandez,,SS,588.3,ARZ
 1072,11716,J.P. France,,P,588.31,HOU
 1072,8222,Miguel Sano,,3B,588.31,LAA
@@ -27719,6 +27718,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,8228,Jurickson Profar,,OF,1100.0,ATL
 1072,9876,Pablo Lopez,,P,1200.0,MIN
 1072,11371,Ronny Henriquez,,P,1200.0,MIA
+1072,12644,Trevor Kuncl,,P,1200.0,CIN
 1073,10932,Bobby Witt Jr.,1.0,SS,3.66,KC
 1073,9810,Shohei Ohtani,2.0,UT / P,1.31,LAD
 1073,8956,Aaron Judge,3.0,OF,2.06,NYY
@@ -28156,6 +28156,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,10146,Brandon Marsh,435.0,OF,345.37,PHI
 1073,10518,Jordan Romano,436.0,P,518.15,LAA
 1073,10350,Trevor Larnach,437.0,OF,387.02,MIN
+1073,11926,Brady House,438.0,3B,428.78,WAS
 1073,8426,Michael Wacha,,P,360.3,KC
 1073,10204,Gavin Sheets,,OF,368.38,SD
 1073,9772,Tanner Scott,,P,370.31,LAD
@@ -28201,7 +28202,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,10356,Tyler Freeman,,OF,426.1,COL
 1073,9725,Rhys Hoskins,,1B,427.53,CLE
 1073,9677,Phil Maton,,P,427.65,CHC
-1073,11926,Brady House,,3B,428.78,WAS
 1073,9470,Kyle Higashioka,,C,429.68,TEX
 1073,12502,Joshua Baez,,OF,430.44,STL
 1073,9523,Miguel Andujar,,3B / OF,430.68,SD
@@ -28882,7 +28882,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,12585,Peyton Gray,,P,588.29,TEX
 1073,11198,Pedro Leon,,OF,588.29,PHI
 1073,12638,Luis Gastelum,,P,588.29,STL
-1073,12644,Trevor Kuncl,,P,588.3,CIN
 1073,12555,Jose Fernandez,,SS,588.3,ARZ
 1073,11716,J.P. France,,P,588.31,HOU
 1073,8222,Miguel Sano,,3B,588.31,LAA
@@ -30239,6 +30238,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,8228,Jurickson Profar,,OF,1100.0,ATL
 1073,9876,Pablo Lopez,,P,1200.0,MIN
 1073,11371,Ronny Henriquez,,P,1200.0,MIA
+1073,12644,Trevor Kuncl,,P,1200.0,CIN
 1074,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1074,8956,Aaron Judge,2.0,OF,2.06,NYY
 1074,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -31402,7 +31402,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,12585,Peyton Gray,,P,588.29,TEX
 1074,11198,Pedro Leon,,OF,588.29,PHI
 1074,12638,Luis Gastelum,,P,588.29,STL
-1074,12644,Trevor Kuncl,,P,588.3,CIN
 1074,12555,Jose Fernandez,,SS,588.3,ARZ
 1074,11716,J.P. France,,P,588.31,HOU
 1074,8222,Miguel Sano,,3B,588.31,LAA
@@ -32759,6 +32758,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,8228,Jurickson Profar,,OF,1100.0,ATL
 1074,9876,Pablo Lopez,,P,1200.0,MIN
 1074,11371,Ronny Henriquez,,P,1200.0,MIA
+1074,12644,Trevor Kuncl,,P,1200.0,CIN
 1075,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1075,8956,Aaron Judge,2.0,OF,2.06,NYY
 1075,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -33922,7 +33922,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,12585,Peyton Gray,,P,588.29,TEX
 1075,11198,Pedro Leon,,OF,588.29,PHI
 1075,12638,Luis Gastelum,,P,588.29,STL
-1075,12644,Trevor Kuncl,,P,588.3,CIN
 1075,12555,Jose Fernandez,,SS,588.3,ARZ
 1075,11716,J.P. France,,P,588.31,HOU
 1075,8222,Miguel Sano,,3B,588.31,LAA
@@ -35279,6 +35278,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,8228,Jurickson Profar,,OF,1100.0,ATL
 1075,9876,Pablo Lopez,,P,1200.0,MIN
 1075,11371,Ronny Henriquez,,P,1200.0,MIA
+1075,12644,Trevor Kuncl,,P,1200.0,CIN
 1076,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1076,8956,Aaron Judge,2.0,OF,2.06,NYY
 1076,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -35723,6 +35723,11 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,10792,Kyle Finnegan,442.0,P,332.26,DET
 1076,11634,Landen Roupp,443.0,P,399.87,SF
 1076,12124,Justin Wrobleski,444.0,P,482.24,LAD
+1076,10347,Tony Santillan,445.0,P,411.14,CIN
+1076,12502,Joshua Baez,446.0,OF,430.44,STL
+1076,11926,Brady House,447.0,3B,428.78,WAS
+1076,10263,Keibert Ruiz,448.0,C,389.57,WAS
+1076,11592,Edouard Julien,449.0,1B / 2B,505.34,COL
 1076,11131,Quinn Priester,,P,293.46,MLW
 1076,10282,Mark Vientos,,3B,298.47,NYM
 1076,11420,Ian Seymour,,P,323.68,TB
@@ -35742,7 +35747,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,10350,Trevor Larnach,,OF,387.02,MIN
 1076,9726,Ryan McMahon,,3B,387.12,NYY
 1076,10327,Sean Murphy,,C,387.93,ATL
-1076,10263,Keibert Ruiz,,C,389.57,WAS
 1076,11625,Joey Ortiz,,SS,391.05,MLW
 1076,8724,Lucas Giolito,,P,391.35,BOS
 1076,10307,Parker Meadows,,OF,393.16,DET
@@ -35755,7 +35759,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,12478,Thomas White,,P,405.56,MIA
 1076,10183,Dean Kremer,,P,406.1,BAL
 1076,12190,Dalton Rushing,,C,408.39,LAD
-1076,10347,Tony Santillan,,P,411.14,CIN
 1076,10290,Miguel Amaya,,C,411.89,CHC
 1076,10999,Jake Meyers,,OF,412.56,HOU
 1076,10355,Triston Casas,,1B,413.18,BOS
@@ -35771,10 +35774,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,11266,Jacob Latz,,P,425.72,TEX
 1076,10356,Tyler Freeman,,OF,426.1,COL
 1076,9677,Phil Maton,,P,427.65,CHC
-1076,11926,Brady House,,3B,428.78,WAS
 1076,12214,Hyeseong Kim,,2B,428.81,LAD
 1076,9470,Kyle Higashioka,,C,429.68,TEX
-1076,12502,Joshua Baez,,OF,430.44,STL
 1076,11905,Troy Johnston,,OF,430.9,COL
 1076,10262,Ke`Bryan Hayes,,3B,432.59,CIN
 1076,12461,Zach Cole,,OF,434.21,HOU
@@ -35873,7 +35874,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,11675,Angel Martinez,,2B / OF,501.58,CLE
 1076,11986,Trevor McDonald,,P,504.19,SF
 1076,12026,Hayden Birdsong,,P,505.33,SF
-1076,11592,Edouard Julien,,1B / 2B,505.34,COL
 1076,11736,Christian Encarnacion-Strand,,1B,506.25,CIN
 1076,11046,Robert Hassell III,,OF,506.58,WAS
 1076,11681,Jonny DeLuca,,OF,507.62,TB
@@ -36442,7 +36442,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,12585,Peyton Gray,,P,588.29,TEX
 1076,11198,Pedro Leon,,OF,588.29,PHI
 1076,12638,Luis Gastelum,,P,588.29,STL
-1076,12644,Trevor Kuncl,,P,588.3,CIN
 1076,12555,Jose Fernandez,,SS,588.3,ARZ
 1076,11716,J.P. France,,P,588.31,HOU
 1076,8222,Miguel Sano,,3B,588.31,LAA
@@ -37799,6 +37798,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,8228,Jurickson Profar,,OF,1100.0,ATL
 1076,9876,Pablo Lopez,,P,1200.0,MIN
 1076,11371,Ronny Henriquez,,P,1200.0,MIA
+1076,12644,Trevor Kuncl,,P,1200.0,CIN
 1077,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1077,8956,Aaron Judge,2.0,OF,2.06,NYY
 1077,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -38962,7 +38962,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,12585,Peyton Gray,,P,588.29,TEX
 1077,11198,Pedro Leon,,OF,588.29,PHI
 1077,12638,Luis Gastelum,,P,588.29,STL
-1077,12644,Trevor Kuncl,,P,588.3,CIN
 1077,12555,Jose Fernandez,,SS,588.3,ARZ
 1077,11716,J.P. France,,P,588.31,HOU
 1077,8222,Miguel Sano,,3B,588.31,LAA
@@ -40319,6 +40318,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,8228,Jurickson Profar,,OF,1100.0,ATL
 1077,9876,Pablo Lopez,,P,1200.0,MIN
 1077,11371,Ronny Henriquez,,P,1200.0,MIA
+1077,12644,Trevor Kuncl,,P,1200.0,CIN
 1078,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1078,8956,Aaron Judge,2.0,OF,2.06,NYY
 1078,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -41482,7 +41482,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,12585,Peyton Gray,,P,588.29,TEX
 1078,11198,Pedro Leon,,OF,588.29,PHI
 1078,12638,Luis Gastelum,,P,588.29,STL
-1078,12644,Trevor Kuncl,,P,588.3,CIN
 1078,12555,Jose Fernandez,,SS,588.3,ARZ
 1078,11716,J.P. France,,P,588.31,HOU
 1078,8222,Miguel Sano,,3B,588.31,LAA
@@ -42839,6 +42838,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,8228,Jurickson Profar,,OF,1100.0,ATL
 1078,9876,Pablo Lopez,,P,1200.0,MIN
 1078,11371,Ronny Henriquez,,P,1200.0,MIA
+1078,12644,Trevor Kuncl,,P,1200.0,CIN
 1079,10932,Bobby Witt Jr.,1.0,SS,3.66,KC
 1079,8956,Aaron Judge,2.0,OF,2.06,NYY
 1079,9810,Shohei Ohtani,3.0,UT / P,1.31,LAD
@@ -44003,7 +44003,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,12585,Peyton Gray,,P,588.29,TEX
 1079,11198,Pedro Leon,,OF,588.29,PHI
 1079,12638,Luis Gastelum,,P,588.29,STL
-1079,12644,Trevor Kuncl,,P,588.3,CIN
 1079,12555,Jose Fernandez,,SS,588.3,ARZ
 1079,11716,J.P. France,,P,588.31,HOU
 1079,8222,Miguel Sano,,3B,588.31,LAA
@@ -45359,6 +45358,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,8228,Jurickson Profar,,OF,1100.0,ATL
 1079,9876,Pablo Lopez,,P,1200.0,MIN
 1079,11371,Ronny Henriquez,,P,1200.0,MIA
+1079,12644,Trevor Kuncl,,P,1200.0,CIN
 1080,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1080,8956,Aaron Judge,2.0,OF,2.06,NYY
 1080,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -46522,7 +46522,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,12585,Peyton Gray,,P,588.29,TEX
 1080,11198,Pedro Leon,,OF,588.29,PHI
 1080,12638,Luis Gastelum,,P,588.29,STL
-1080,12644,Trevor Kuncl,,P,588.3,CIN
 1080,12555,Jose Fernandez,,SS,588.3,ARZ
 1080,11716,J.P. France,,P,588.31,HOU
 1080,8222,Miguel Sano,,3B,588.31,LAA
@@ -47879,6 +47878,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,8228,Jurickson Profar,,OF,1100.0,ATL
 1080,9876,Pablo Lopez,,P,1200.0,MIN
 1080,11371,Ronny Henriquez,,P,1200.0,MIA
+1080,12644,Trevor Kuncl,,P,1200.0,CIN
 1081,8956,Aaron Judge,1.0,OF,2.06,NYY
 1081,9810,Shohei Ohtani,2.0,UT / P,1.31,LAD
 1081,10030,Juan Soto,3.0,OF,4.44,NYM
@@ -49042,7 +49042,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,12585,Peyton Gray,,P,588.29,TEX
 1081,11198,Pedro Leon,,OF,588.29,PHI
 1081,12638,Luis Gastelum,,P,588.29,STL
-1081,12644,Trevor Kuncl,,P,588.3,CIN
 1081,12555,Jose Fernandez,,SS,588.3,ARZ
 1081,11716,J.P. France,,P,588.31,HOU
 1081,8222,Miguel Sano,,3B,588.31,LAA
@@ -50399,6 +50398,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,8228,Jurickson Profar,,OF,1100.0,ATL
 1081,9876,Pablo Lopez,,P,1200.0,MIN
 1081,11371,Ronny Henriquez,,P,1200.0,MIA
+1081,12644,Trevor Kuncl,,P,1200.0,CIN
 1082,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1082,8956,Aaron Judge,2.0,OF,2.06,NYY
 1082,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -51562,7 +51562,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,12585,Peyton Gray,,P,588.29,TEX
 1082,11198,Pedro Leon,,OF,588.29,PHI
 1082,12638,Luis Gastelum,,P,588.29,STL
-1082,12644,Trevor Kuncl,,P,588.3,CIN
 1082,12555,Jose Fernandez,,SS,588.3,ARZ
 1082,11716,J.P. France,,P,588.31,HOU
 1082,8222,Miguel Sano,,3B,588.31,LAA
@@ -52919,6 +52918,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,8228,Jurickson Profar,,OF,1100.0,ATL
 1082,9876,Pablo Lopez,,P,1200.0,MIN
 1082,11371,Ronny Henriquez,,P,1200.0,MIA
+1082,12644,Trevor Kuncl,,P,1200.0,CIN
 1083,9810,Shohei Ohtani,1.0,UT / P,1.31,LAD
 1083,8956,Aaron Judge,2.0,OF,2.06,NYY
 1083,10932,Bobby Witt Jr.,3.0,SS,3.66,KC
@@ -54082,7 +54082,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,12585,Peyton Gray,,P,588.29,TEX
 1083,11198,Pedro Leon,,OF,588.29,PHI
 1083,12638,Luis Gastelum,,P,588.29,STL
-1083,12644,Trevor Kuncl,,P,588.3,CIN
 1083,12555,Jose Fernandez,,SS,588.3,ARZ
 1083,11716,J.P. France,,P,588.31,HOU
 1083,8222,Miguel Sano,,3B,588.31,LAA
@@ -55439,3 +55438,4 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,8228,Jurickson Profar,,OF,1100.0,ATL
 1083,9876,Pablo Lopez,,P,1200.0,MIN
 1083,11371,Ronny Henriquez,,P,1200.0,MIA
+1083,12644,Trevor Kuncl,,P,1200.0,CIN
