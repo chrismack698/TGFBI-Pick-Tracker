@@ -25656,13 +25656,16 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,10748,Foster Griffin,435.0,P,466.21,WAS
 1072,9791,Michael Soroka,436.0,P,398.46,ARZ
 1072,10307,Parker Meadows,437.0,OF,394.35,DET
-1072,12028,Jordan Leasure,,P,348.03,CWS
+1072,10766,Jake Cronenworth,438.0,2B,390.39,SD
+1072,12028,Jordan Leasure,439.0,P,348.03,CWS
+1072,12452,Payton Tolle,440.0,P,372.89,BOS
+1072,10290,Miguel Amaya,441.0,C,412.92,CHC
+1072,10694,Anthony Kay,442.0,P,493.44,CWS
 1072,12344,Jonah Tong,,P,356.0,NYM
 1072,9765,Victor Robles,,OF,356.26,SEA
 1072,12067,Jake Mangum,,OF,360.84,PIT
 1072,11434,Spencer Horwitz,,1B,367.56,PIT
 1072,9772,Tanner Scott,,P,372.75,LAD
-1072,12452,Payton Tolle,,P,372.89,BOS
 1072,11610,Jordan Westburg,,3B,375.0,BAL
 1072,8694,J.P. Crawford,,SS,379.45,SEA
 1072,12241,Denzel Clarke,,OF,384.8,ATH
@@ -25673,7 +25676,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,10350,Trevor Larnach,,OF,388.31,MIN
 1072,11668,Jared Triolo,,1B / 3B / SS,388.53,PIT
 1072,10327,Sean Murphy,,C,389.32,ATL
-1072,10766,Jake Cronenworth,,2B,390.39,SD
 1072,9417,Andrew Benintendi,,OF,391.05,CWS
 1072,8724,Lucas Giolito,,P,392.76,BOS
 1072,12472,Aidan Miller,,SS,398.76,PHI
@@ -25685,7 +25687,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,10379,Brayan Rocchio,,2B / SS,409.19,CLE
 1072,12190,Dalton Rushing,,C,409.52,LAD
 1072,10999,Jake Meyers,,OF,412.86,HOU
-1072,10290,Miguel Amaya,,C,412.92,CHC
 1072,10347,Tony Santillan,,P,413.0,CIN
 1072,10355,Triston Casas,,1B,415.3,BOS
 1072,9860,Zack Littell,,P,415.85,WAS
@@ -25793,7 +25794,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12389,AJ Blubaugh,,P,492.56,HOU
 1072,11810,Carmen Mlodzinski,,P,492.88,PIT
 1072,12473,JR Ritchie,,P,493.43,ATL
-1072,10694,Anthony Kay,,P,493.44,CWS
 1072,11838,Davis Schneider,,2B / OF,494.21,TOR
 1072,11528,Hunter Gaddis,,P,495.59,CLE
 1072,9205,Matt Strahm,,P,495.59,KC
