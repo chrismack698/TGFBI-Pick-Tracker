@@ -20612,13 +20612,16 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11926,Brady House,435.0,3B,429.15,WAS
 1070,10350,Trevor Larnach,436.0,OF,388.31,MIN
 1070,11105,Camilo Doval,437.0,P,437.62,NYY
+1070,12415,Didier Fuentes,438.0,P,550.13,ATL
+1070,11634,Landen Roupp,439.0,P,400.37,SF
+1070,12301,Max Muncy,440.0,2B / 3B,442.69,ATH
+1070,12202,Bryce Eldridge,441.0,UT,362.25,SF
 1070,11131,Quinn Priester,,P,295.47,MLW
 1070,10792,Kyle Finnegan,,P,333.7,DET
 1070,11887,Hurston Waldrep,,P,339.63,ATL
 1070,12430,Troy Melton,,P,345.82,DET
 1070,12344,Jonah Tong,,P,356.0,NYM
 1070,9765,Victor Robles,,OF,356.26,SEA
-1070,12202,Bryce Eldridge,,UT,362.25,SF
 1070,9772,Tanner Scott,,P,372.75,LAD
 1070,12217,Moises Ballesteros,,UT,374.44,CHC
 1070,11610,Jordan Westburg,,3B,375.0,BAL
@@ -20634,7 +20637,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11893,Jared Jones,,P,398.05,PIT
 1070,12472,Aidan Miller,,SS,398.76,PHI
 1070,12434,Luis Morales,,P,400.26,ATH
-1070,11634,Landen Roupp,,P,400.37,SF
 1070,12194,Christian Moore,,2B,404.26,LAA
 1070,10434,Wenceel Perez,,OF,404.57,DET
 1070,11594,Reese Olson,,P,405.17,DET
@@ -20671,7 +20673,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,10245,Joey Bart,,C,438.53,PIT
 1070,12477,Ryan Waldschmidt,,OF,439.62,ARZ
 1070,10200,Gabriel Arias,,2B / SS,439.63,CLE
-1070,12301,Max Muncy,,2B / 3B,442.69,ATH
 1070,10309,Pavin Smith,,1B,443.11,ARZ
 1070,9175,Adrian Houser,,P,444.67,SF
 1070,11395,Calvin Faucher,,P,445.31,MIA
@@ -20860,7 +20861,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11587,Gavin Stone,,P,549.28,LAD
 1070,9524,Jorge Mateo,,SS,549.51,ATL
 1070,8895,Yimi Garcia,,P,549.99,TOR
-1070,12415,Didier Fuentes,,P,550.13,ATL
 1070,11956,Carson Whisenhunt,,P,550.89,SF
 1070,10444,Dylan Moore,,2B / OF,551.01,TEX
 1070,12486,Trey Gibson,,P,551.22,BAL
