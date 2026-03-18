@@ -28164,8 +28164,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,8748,Nick Martinez,443.0,P,455.66,TB
 1073,11893,Jared Jones,444.0,P,397.04,PIT
 1073,12345,Jack Perkins,445.0,P,486.51,ATH
+1073,12190,Dalton Rushing,446.0,C,408.39,LAD
+1073,8768,Chris Martin,447.0,P,500.38,TEX
+1073,10204,Gavin Sheets,448.0,OF,368.38,SD
+1073,12479,Colt Emerson,449.0,SS,401.31,SEA
+1073,9475,Lourdes Gurriel Jr.,450.0,OF,456.76,ARZ
 1073,8426,Michael Wacha,,P,360.3,KC
-1073,10204,Gavin Sheets,,OF,368.38,SD
 1073,9772,Tanner Scott,,P,370.31,LAD
 1073,11586,Brandon Pfaadt,,P,370.69,ARZ
 1073,12452,Payton Tolle,,P,371.76,BOS
@@ -28182,13 +28186,11 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,10626,Mike Yastrzemski,,OF,397.43,ATL
 1073,11634,Landen Roupp,,P,399.87,SF
 1073,11594,Reese Olson,,P,400.69,DET
-1073,12479,Colt Emerson,,SS,401.31,SEA
 1073,12194,Christian Moore,,2B,403.05,LAA
 1073,10434,Wenceel Perez,,OF,403.51,DET
 1073,12478,Thomas White,,P,405.56,MIA
 1073,10183,Dean Kremer,,P,406.1,BAL
 1073,10379,Brayan Rocchio,,2B / SS,408.23,CLE
-1073,12190,Dalton Rushing,,C,408.39,LAD
 1073,10347,Tony Santillan,,P,411.14,CIN
 1073,10290,Miguel Amaya,,C,411.89,CHC
 1073,10999,Jake Meyers,,OF,412.56,HOU
@@ -28242,7 +28244,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,12047,Spencer Jones,,OF,455.55,NYY
 1073,11743,Casey Schmitt,,2B / 3B,455.58,SF
 1073,11923,Jett Williams,,SS,456.58,MLW
-1073,9475,Lourdes Gurriel Jr.,,OF,456.76,ARZ
 1073,12329,Elmer Rodriguez-Cruz,,P,460.55,NYY
 1073,11038,Nick Gonzales,,2B,460.85,PIT
 1073,10318,Ronny Mauricio,,3B,461.61,NYM
@@ -28306,7 +28307,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,11375,Ryan Weiss,,P,498.46,HOU
 1073,11990,Emmanuel Rodriguez,,OF,499.02,MIN
 1073,12450,Jimmy Crooks,,C,499.59,STL
-1073,8768,Chris Martin,,P,500.38,TEX
 1073,11401,JP Sears,,P,500.58,SD
 1073,12288,Ryan Bergert,,P,500.59,KC
 1073,11675,Angel Martinez,,2B / OF,501.58,CLE
