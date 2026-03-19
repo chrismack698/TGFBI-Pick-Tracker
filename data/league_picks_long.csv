@@ -20621,6 +20621,10 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11225,Lars Nootbaar,444.0,OF,382.25,STL
 1070,9800,Corbin Burnes,445.0,P,455.93,ARZ
 1070,9726,Ryan McMahon,446.0,3B,387.71,NYY
+1070,12217,Moises Ballesteros,447.0,UT,374.44,CHC
+1070,11629,Masataka Yoshida,448.0,UT,497.91,BOS
+1070,12249,Cole Young,449.0,2B,463.77,SEA
+1070,12198,Brandon Sproat,450.0,P,423.57,MLW
 1070,11131,Quinn Priester,,P,295.47,MLW
 1070,10792,Kyle Finnegan,,P,333.7,DET
 1070,11887,Hurston Waldrep,,P,339.63,ATL
@@ -20628,7 +20632,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,12344,Jonah Tong,,P,356.0,NYM
 1070,9765,Victor Robles,,OF,356.26,SEA
 1070,9772,Tanner Scott,,P,372.75,LAD
-1070,12217,Moises Ballesteros,,UT,374.44,CHC
 1070,11610,Jordan Westburg,,3B,375.0,BAL
 1070,12241,Denzel Clarke,,OF,384.8,ATH
 1070,8650,Robert Stephenson,,P,385.5,LAA
@@ -20655,7 +20658,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11276,Romy Gonzalez,,1B / 2B,422.14,BOS
 1070,12128,Brooks Baldwin,,OF,423.16,CWS
 1070,10123,Adrian Morejon,,P,423.43,SD
-1070,12198,Brandon Sproat,,P,423.57,MLW
 1070,12482,Joe Mack,,C,424.02,MIA
 1070,9430,Luke Weaver,,P,424.27,NYM
 1070,8951,Jose Berrios,,P,424.44,TOR
@@ -20702,7 +20704,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11331,Zac Veen,,OF,462.7,COL
 1070,10318,Ronny Mauricio,,3B,462.79,NYM
 1070,10210,Griffin Conine,,OF,463.28,MIA
-1070,12249,Cole Young,,2B,463.77,SEA
 1070,11912,Christian Scott,,P,463.95,NYM
 1070,11754,Ben Joyce,,P,464.93,LAA
 1070,10142,Blaze Alexander,,3B,465.57,BAL
@@ -20756,7 +20757,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,9557,Edmundo Sosa,,2B / 3B,496.08,PHI
 1070,11375,Ryan Weiss,,P,497.34,HOU
 1070,9648,Mark Leiter Jr.,,P,497.74,ATH
-1070,11629,Masataka Yoshida,,UT,497.91,BOS
 1070,12192,Quinn Mathews,,P,498.24,STL
 1070,11965,Adael Amador,,2B,498.62,COL
 1070,8768,Chris Martin,,P,499.48,TEX
@@ -25667,12 +25667,13 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12137,Michael McGreevy,446.0,P,435.39,STL
 1072,8189,Drew Pomeranz,447.0,P,538.03,LAA
 1072,11105,Camilo Doval,448.0,P,437.62,NYY
+1072,11610,Jordan Westburg,449.0,3B,375.0,BAL
+1072,10662,Kevin Ginkel,450.0,P,460.88,ARZ
 1072,12344,Jonah Tong,,P,356.0,NYM
 1072,9765,Victor Robles,,OF,356.26,SEA
 1072,12067,Jake Mangum,,OF,360.84,PIT
 1072,11434,Spencer Horwitz,,1B,367.56,PIT
 1072,9772,Tanner Scott,,P,372.75,LAD
-1072,11610,Jordan Westburg,,3B,375.0,BAL
 1072,8694,J.P. Crawford,,SS,379.45,SEA
 1072,12241,Denzel Clarke,,OF,384.8,ATH
 1072,8650,Robert Stephenson,,P,385.5,LAA
@@ -25742,7 +25743,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,9800,Corbin Burnes,,P,455.93,ARZ
 1072,11743,Casey Schmitt,,2B / 3B,456.42,SF
 1072,12047,Spencer Jones,,OF,456.55,NYY
-1072,10662,Kevin Ginkel,,P,460.88,ARZ
 1072,11038,Nick Gonzales,,2B,461.98,PIT
 1072,12329,Elmer Rodriguez-Cruz,,P,462.05,NYY
 1072,11331,Zac Veen,,OF,462.7,COL
