@@ -638,7 +638,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,8189,Drew Pomeranz,,P,531.72,LAA
 1062,11855,Connor Phillips,,P,533.04,CIN
 1062,10853,Bryan Baker,,P,533.05,TB
-1062,11678,Luis Matos,,OF,533.74,SF
+1062,11678,Luis Matos,,OF,533.74,MLW
 1062,12346,Sebastian Walcott,,SS,534.28,TEX
 1062,11621,Mason Montgomery,,P,534.35,PIT
 1062,12369,Brad Lord,,P,534.41,WAS
@@ -1302,7 +1302,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,11770,Justin Foscue,,1B,588.8,TEX
 1062,11909,Chayce McDermott,,P,588.8,BAL
 1062,12649,Blaze Jordan,,1B,588.8,STL
-1062,12599,Matt Pushard,,P,588.81,STL
 1062,11141,Seth Johnson,,P,588.81,PHI
 1062,6968,Johnny Cueto,,P,588.81,LAA
 1062,7037,Adam Ottavino,,P,588.81,NYY
@@ -1927,7 +1926,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,10898,Zack Thompson,,P,588.81,STL
 1062,10901,Codi Heuer,,P,588.81,CLE
 1062,10906,Rodolfo Castro,,2B,588.81,PHI
-1062,10908,Cody Bolton,,P,588.81,CLE
+1062,10908,Cody Bolton,,P,588.81,HOU
 1062,10909,Max Kranick,,P,588.81,NYM
 1062,10917,P.J. Higgins,,1B,588.81,CHC
 1062,10924,Mike Baumann,,P,588.81,NYM
@@ -2462,7 +2461,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,12400,John Rave,,OF,588.81,KC
 1062,12401,Andrew Hoffmann,,P,588.81,ARZ
 1062,12402,Jack Winkler,,2B,588.81,MIA
-1062,12404,Dylan Smith,,P,588.81,DET
+1062,12404,Dylan Smith,,P,588.81,SF
 1062,12407,Kyle Backhus,,P,588.81,PHI
 1062,12408,Brian Van Belle,,P,588.81,TB
 1062,12409,Will Robertson,,OF,588.81,BAL
@@ -2493,6 +2492,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,12601,Peyton Pallette,,P,588.81,CLE
 1062,12605,Spencer Miles,,P,588.81,TOR
 1062,12606,Ryan Watson,,P,588.81,BOS
+1062,12599,Matt Pushard,,P,588.81,STL
 1062,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1062,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1062,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -3167,7 +3167,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,8189,Drew Pomeranz,,P,531.72,LAA
 1063,11855,Connor Phillips,,P,533.04,CIN
 1063,10853,Bryan Baker,,P,533.05,TB
-1063,11678,Luis Matos,,OF,533.74,SF
+1063,11678,Luis Matos,,OF,533.74,MLW
 1063,12346,Sebastian Walcott,,SS,534.28,TEX
 1063,11621,Mason Montgomery,,P,534.35,PIT
 1063,12369,Brad Lord,,P,534.41,WAS
@@ -3830,7 +3830,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,11770,Justin Foscue,,1B,588.8,TEX
 1063,11909,Chayce McDermott,,P,588.8,BAL
 1063,12649,Blaze Jordan,,1B,588.8,STL
-1063,12599,Matt Pushard,,P,588.81,STL
 1063,11141,Seth Johnson,,P,588.81,PHI
 1063,6968,Johnny Cueto,,P,588.81,LAA
 1063,7037,Adam Ottavino,,P,588.81,NYY
@@ -4455,7 +4454,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,10898,Zack Thompson,,P,588.81,STL
 1063,10901,Codi Heuer,,P,588.81,CLE
 1063,10906,Rodolfo Castro,,2B,588.81,PHI
-1063,10908,Cody Bolton,,P,588.81,CLE
+1063,10908,Cody Bolton,,P,588.81,HOU
 1063,10909,Max Kranick,,P,588.81,NYM
 1063,10917,P.J. Higgins,,1B,588.81,CHC
 1063,10924,Mike Baumann,,P,588.81,NYM
@@ -4990,7 +4989,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,12400,John Rave,,OF,588.81,KC
 1063,12401,Andrew Hoffmann,,P,588.81,ARZ
 1063,12402,Jack Winkler,,2B,588.81,MIA
-1063,12404,Dylan Smith,,P,588.81,DET
+1063,12404,Dylan Smith,,P,588.81,SF
 1063,12407,Kyle Backhus,,P,588.81,PHI
 1063,12408,Brian Van Belle,,P,588.81,TB
 1063,12409,Will Robertson,,OF,588.81,BAL
@@ -5021,6 +5020,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,12601,Peyton Pallette,,P,588.81,CLE
 1063,12605,Spencer Miles,,P,588.81,TOR
 1063,12606,Ryan Watson,,P,588.81,BOS
+1063,12599,Matt Pushard,,P,588.81,STL
 1063,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1063,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1063,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -5699,7 +5699,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,11470,Davis Martin,,P,531.43,CWS
 1064,11855,Connor Phillips,,P,533.04,CIN
 1064,10853,Bryan Baker,,P,533.05,TB
-1064,11678,Luis Matos,,OF,533.74,SF
+1064,11678,Luis Matos,,OF,533.74,MLW
 1064,12346,Sebastian Walcott,,SS,534.28,TEX
 1064,11621,Mason Montgomery,,P,534.35,PIT
 1064,12369,Brad Lord,,P,534.41,WAS
@@ -6358,7 +6358,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,11770,Justin Foscue,,1B,588.8,TEX
 1064,11909,Chayce McDermott,,P,588.8,BAL
 1064,12649,Blaze Jordan,,1B,588.8,STL
-1064,12599,Matt Pushard,,P,588.81,STL
 1064,11141,Seth Johnson,,P,588.81,PHI
 1064,6968,Johnny Cueto,,P,588.81,LAA
 1064,7037,Adam Ottavino,,P,588.81,NYY
@@ -6983,7 +6982,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,10898,Zack Thompson,,P,588.81,STL
 1064,10901,Codi Heuer,,P,588.81,CLE
 1064,10906,Rodolfo Castro,,2B,588.81,PHI
-1064,10908,Cody Bolton,,P,588.81,CLE
+1064,10908,Cody Bolton,,P,588.81,HOU
 1064,10909,Max Kranick,,P,588.81,NYM
 1064,10917,P.J. Higgins,,1B,588.81,CHC
 1064,10924,Mike Baumann,,P,588.81,NYM
@@ -7518,7 +7517,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,12400,John Rave,,OF,588.81,KC
 1064,12401,Andrew Hoffmann,,P,588.81,ARZ
 1064,12402,Jack Winkler,,2B,588.81,MIA
-1064,12404,Dylan Smith,,P,588.81,DET
+1064,12404,Dylan Smith,,P,588.81,SF
 1064,12407,Kyle Backhus,,P,588.81,PHI
 1064,12408,Brian Van Belle,,P,588.81,TB
 1064,12409,Will Robertson,,OF,588.81,BAL
@@ -7549,6 +7548,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,12601,Peyton Pallette,,P,588.81,CLE
 1064,12605,Spencer Miles,,P,588.81,TOR
 1064,12606,Ryan Watson,,P,588.81,BOS
+1064,12599,Matt Pushard,,P,588.81,STL
 1064,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1064,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1064,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -8222,7 +8222,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,8189,Drew Pomeranz,,P,531.72,LAA
 1065,11855,Connor Phillips,,P,533.04,CIN
 1065,10853,Bryan Baker,,P,533.05,TB
-1065,11678,Luis Matos,,OF,533.74,SF
+1065,11678,Luis Matos,,OF,533.74,MLW
 1065,12346,Sebastian Walcott,,SS,534.28,TEX
 1065,11621,Mason Montgomery,,P,534.35,PIT
 1065,12369,Brad Lord,,P,534.41,WAS
@@ -8886,7 +8886,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,11770,Justin Foscue,,1B,588.8,TEX
 1065,11909,Chayce McDermott,,P,588.8,BAL
 1065,12649,Blaze Jordan,,1B,588.8,STL
-1065,12599,Matt Pushard,,P,588.81,STL
 1065,11141,Seth Johnson,,P,588.81,PHI
 1065,6968,Johnny Cueto,,P,588.81,LAA
 1065,7037,Adam Ottavino,,P,588.81,NYY
@@ -9511,7 +9510,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,10898,Zack Thompson,,P,588.81,STL
 1065,10901,Codi Heuer,,P,588.81,CLE
 1065,10906,Rodolfo Castro,,2B,588.81,PHI
-1065,10908,Cody Bolton,,P,588.81,CLE
+1065,10908,Cody Bolton,,P,588.81,HOU
 1065,10909,Max Kranick,,P,588.81,NYM
 1065,10917,P.J. Higgins,,1B,588.81,CHC
 1065,10924,Mike Baumann,,P,588.81,NYM
@@ -10046,7 +10045,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,12400,John Rave,,OF,588.81,KC
 1065,12401,Andrew Hoffmann,,P,588.81,ARZ
 1065,12402,Jack Winkler,,2B,588.81,MIA
-1065,12404,Dylan Smith,,P,588.81,DET
+1065,12404,Dylan Smith,,P,588.81,SF
 1065,12407,Kyle Backhus,,P,588.81,PHI
 1065,12408,Brian Van Belle,,P,588.81,TB
 1065,12409,Will Robertson,,OF,588.81,BAL
@@ -10077,6 +10076,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,12601,Peyton Pallette,,P,588.81,CLE
 1065,12605,Spencer Miles,,P,588.81,TOR
 1065,12606,Ryan Watson,,P,588.81,BOS
+1065,12599,Matt Pushard,,P,588.81,STL
 1065,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1065,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1065,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -10753,7 +10753,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,8189,Drew Pomeranz,,P,531.72,LAA
 1066,11855,Connor Phillips,,P,533.04,CIN
 1066,10853,Bryan Baker,,P,533.05,TB
-1066,11678,Luis Matos,,OF,533.74,SF
+1066,11678,Luis Matos,,OF,533.74,MLW
 1066,12346,Sebastian Walcott,,SS,534.28,TEX
 1066,11621,Mason Montgomery,,P,534.35,PIT
 1066,12369,Brad Lord,,P,534.41,WAS
@@ -11414,7 +11414,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,11770,Justin Foscue,,1B,588.8,TEX
 1066,11909,Chayce McDermott,,P,588.8,BAL
 1066,12649,Blaze Jordan,,1B,588.8,STL
-1066,12599,Matt Pushard,,P,588.81,STL
 1066,11141,Seth Johnson,,P,588.81,PHI
 1066,6968,Johnny Cueto,,P,588.81,LAA
 1066,7037,Adam Ottavino,,P,588.81,NYY
@@ -12039,7 +12038,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,10898,Zack Thompson,,P,588.81,STL
 1066,10901,Codi Heuer,,P,588.81,CLE
 1066,10906,Rodolfo Castro,,2B,588.81,PHI
-1066,10908,Cody Bolton,,P,588.81,CLE
+1066,10908,Cody Bolton,,P,588.81,HOU
 1066,10909,Max Kranick,,P,588.81,NYM
 1066,10917,P.J. Higgins,,1B,588.81,CHC
 1066,10924,Mike Baumann,,P,588.81,NYM
@@ -12574,7 +12573,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,12400,John Rave,,OF,588.81,KC
 1066,12401,Andrew Hoffmann,,P,588.81,ARZ
 1066,12402,Jack Winkler,,2B,588.81,MIA
-1066,12404,Dylan Smith,,P,588.81,DET
+1066,12404,Dylan Smith,,P,588.81,SF
 1066,12407,Kyle Backhus,,P,588.81,PHI
 1066,12408,Brian Van Belle,,P,588.81,TB
 1066,12409,Will Robertson,,OF,588.81,BAL
@@ -12605,6 +12604,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,12601,Peyton Pallette,,P,588.81,CLE
 1066,12605,Spencer Miles,,P,588.81,TOR
 1066,12606,Ryan Watson,,P,588.81,BOS
+1066,12599,Matt Pushard,,P,588.81,STL
 1066,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1066,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1066,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -13278,7 +13278,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,8189,Drew Pomeranz,,P,531.72,LAA
 1067,11855,Connor Phillips,,P,533.04,CIN
 1067,10853,Bryan Baker,,P,533.05,TB
-1067,11678,Luis Matos,,OF,533.74,SF
+1067,11678,Luis Matos,,OF,533.74,MLW
 1067,12346,Sebastian Walcott,,SS,534.28,TEX
 1067,11621,Mason Montgomery,,P,534.35,PIT
 1067,12369,Brad Lord,,P,534.41,WAS
@@ -13942,7 +13942,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,11770,Justin Foscue,,1B,588.8,TEX
 1067,11909,Chayce McDermott,,P,588.8,BAL
 1067,12649,Blaze Jordan,,1B,588.8,STL
-1067,12599,Matt Pushard,,P,588.81,STL
 1067,11141,Seth Johnson,,P,588.81,PHI
 1067,6968,Johnny Cueto,,P,588.81,LAA
 1067,7037,Adam Ottavino,,P,588.81,NYY
@@ -14567,7 +14566,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,10898,Zack Thompson,,P,588.81,STL
 1067,10901,Codi Heuer,,P,588.81,CLE
 1067,10906,Rodolfo Castro,,2B,588.81,PHI
-1067,10908,Cody Bolton,,P,588.81,CLE
+1067,10908,Cody Bolton,,P,588.81,HOU
 1067,10909,Max Kranick,,P,588.81,NYM
 1067,10917,P.J. Higgins,,1B,588.81,CHC
 1067,10924,Mike Baumann,,P,588.81,NYM
@@ -15102,7 +15101,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,12400,John Rave,,OF,588.81,KC
 1067,12401,Andrew Hoffmann,,P,588.81,ARZ
 1067,12402,Jack Winkler,,2B,588.81,MIA
-1067,12404,Dylan Smith,,P,588.81,DET
+1067,12404,Dylan Smith,,P,588.81,SF
 1067,12407,Kyle Backhus,,P,588.81,PHI
 1067,12408,Brian Van Belle,,P,588.81,TB
 1067,12409,Will Robertson,,OF,588.81,BAL
@@ -15133,6 +15132,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,12601,Peyton Pallette,,P,588.81,CLE
 1067,12605,Spencer Miles,,P,588.81,TOR
 1067,12606,Ryan Watson,,P,588.81,BOS
+1067,12599,Matt Pushard,,P,588.81,STL
 1067,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1067,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1067,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -15809,7 +15809,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,8189,Drew Pomeranz,,P,531.72,LAA
 1068,11855,Connor Phillips,,P,533.04,CIN
 1068,10853,Bryan Baker,,P,533.05,TB
-1068,11678,Luis Matos,,OF,533.74,SF
+1068,11678,Luis Matos,,OF,533.74,MLW
 1068,12346,Sebastian Walcott,,SS,534.28,TEX
 1068,11621,Mason Montgomery,,P,534.35,PIT
 1068,12369,Brad Lord,,P,534.41,WAS
@@ -16470,7 +16470,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,11770,Justin Foscue,,1B,588.8,TEX
 1068,11909,Chayce McDermott,,P,588.8,BAL
 1068,12649,Blaze Jordan,,1B,588.8,STL
-1068,12599,Matt Pushard,,P,588.81,STL
 1068,11141,Seth Johnson,,P,588.81,PHI
 1068,6968,Johnny Cueto,,P,588.81,LAA
 1068,7037,Adam Ottavino,,P,588.81,NYY
@@ -17095,7 +17094,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,10898,Zack Thompson,,P,588.81,STL
 1068,10901,Codi Heuer,,P,588.81,CLE
 1068,10906,Rodolfo Castro,,2B,588.81,PHI
-1068,10908,Cody Bolton,,P,588.81,CLE
+1068,10908,Cody Bolton,,P,588.81,HOU
 1068,10909,Max Kranick,,P,588.81,NYM
 1068,10917,P.J. Higgins,,1B,588.81,CHC
 1068,10924,Mike Baumann,,P,588.81,NYM
@@ -17630,7 +17629,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,12400,John Rave,,OF,588.81,KC
 1068,12401,Andrew Hoffmann,,P,588.81,ARZ
 1068,12402,Jack Winkler,,2B,588.81,MIA
-1068,12404,Dylan Smith,,P,588.81,DET
+1068,12404,Dylan Smith,,P,588.81,SF
 1068,12407,Kyle Backhus,,P,588.81,PHI
 1068,12408,Brian Van Belle,,P,588.81,TB
 1068,12409,Will Robertson,,OF,588.81,BAL
@@ -17661,6 +17660,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,12601,Peyton Pallette,,P,588.81,CLE
 1068,12605,Spencer Miles,,P,588.81,TOR
 1068,12606,Ryan Watson,,P,588.81,BOS
+1068,12599,Matt Pushard,,P,588.81,STL
 1068,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1068,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1068,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -18338,7 +18338,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,8189,Drew Pomeranz,,P,531.72,LAA
 1069,11855,Connor Phillips,,P,533.04,CIN
 1069,10853,Bryan Baker,,P,533.05,TB
-1069,11678,Luis Matos,,OF,533.74,SF
+1069,11678,Luis Matos,,OF,533.74,MLW
 1069,12346,Sebastian Walcott,,SS,534.28,TEX
 1069,11621,Mason Montgomery,,P,534.35,PIT
 1069,12369,Brad Lord,,P,534.41,WAS
@@ -18998,7 +18998,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,11770,Justin Foscue,,1B,588.8,TEX
 1069,11909,Chayce McDermott,,P,588.8,BAL
 1069,12649,Blaze Jordan,,1B,588.8,STL
-1069,12599,Matt Pushard,,P,588.81,STL
 1069,11141,Seth Johnson,,P,588.81,PHI
 1069,6968,Johnny Cueto,,P,588.81,LAA
 1069,7037,Adam Ottavino,,P,588.81,NYY
@@ -19623,7 +19622,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,10898,Zack Thompson,,P,588.81,STL
 1069,10901,Codi Heuer,,P,588.81,CLE
 1069,10906,Rodolfo Castro,,2B,588.81,PHI
-1069,10908,Cody Bolton,,P,588.81,CLE
+1069,10908,Cody Bolton,,P,588.81,HOU
 1069,10909,Max Kranick,,P,588.81,NYM
 1069,10917,P.J. Higgins,,1B,588.81,CHC
 1069,10924,Mike Baumann,,P,588.81,NYM
@@ -20158,7 +20157,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,12400,John Rave,,OF,588.81,KC
 1069,12401,Andrew Hoffmann,,P,588.81,ARZ
 1069,12402,Jack Winkler,,2B,588.81,MIA
-1069,12404,Dylan Smith,,P,588.81,DET
+1069,12404,Dylan Smith,,P,588.81,SF
 1069,12407,Kyle Backhus,,P,588.81,PHI
 1069,12408,Brian Van Belle,,P,588.81,TB
 1069,12409,Will Robertson,,OF,588.81,BAL
@@ -20189,6 +20188,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,12601,Peyton Pallette,,P,588.81,CLE
 1069,12605,Spencer Miles,,P,588.81,TOR
 1069,12606,Ryan Watson,,P,588.81,BOS
+1069,12599,Matt Pushard,,P,588.81,STL
 1069,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1069,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1069,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -20862,7 +20862,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,8189,Drew Pomeranz,,P,531.72,LAA
 1070,11855,Connor Phillips,,P,533.04,CIN
 1070,10853,Bryan Baker,,P,533.05,TB
-1070,11678,Luis Matos,,OF,533.74,SF
+1070,11678,Luis Matos,,OF,533.74,MLW
 1070,12346,Sebastian Walcott,,SS,534.28,TEX
 1070,11621,Mason Montgomery,,P,534.35,PIT
 1070,12369,Brad Lord,,P,534.41,WAS
@@ -21526,7 +21526,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11770,Justin Foscue,,1B,588.8,TEX
 1070,11909,Chayce McDermott,,P,588.8,BAL
 1070,12649,Blaze Jordan,,1B,588.8,STL
-1070,12599,Matt Pushard,,P,588.81,STL
 1070,11141,Seth Johnson,,P,588.81,PHI
 1070,6968,Johnny Cueto,,P,588.81,LAA
 1070,7037,Adam Ottavino,,P,588.81,NYY
@@ -22151,7 +22150,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,10898,Zack Thompson,,P,588.81,STL
 1070,10901,Codi Heuer,,P,588.81,CLE
 1070,10906,Rodolfo Castro,,2B,588.81,PHI
-1070,10908,Cody Bolton,,P,588.81,CLE
+1070,10908,Cody Bolton,,P,588.81,HOU
 1070,10909,Max Kranick,,P,588.81,NYM
 1070,10917,P.J. Higgins,,1B,588.81,CHC
 1070,10924,Mike Baumann,,P,588.81,NYM
@@ -22686,7 +22685,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,12400,John Rave,,OF,588.81,KC
 1070,12401,Andrew Hoffmann,,P,588.81,ARZ
 1070,12402,Jack Winkler,,2B,588.81,MIA
-1070,12404,Dylan Smith,,P,588.81,DET
+1070,12404,Dylan Smith,,P,588.81,SF
 1070,12407,Kyle Backhus,,P,588.81,PHI
 1070,12408,Brian Van Belle,,P,588.81,TB
 1070,12409,Will Robertson,,OF,588.81,BAL
@@ -22717,6 +22716,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,12601,Peyton Pallette,,P,588.81,CLE
 1070,12605,Spencer Miles,,P,588.81,TOR
 1070,12606,Ryan Watson,,P,588.81,BOS
+1070,12599,Matt Pushard,,P,588.81,STL
 1070,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1070,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1070,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -23392,7 +23392,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,8189,Drew Pomeranz,,P,531.72,LAA
 1071,11855,Connor Phillips,,P,533.04,CIN
 1071,10853,Bryan Baker,,P,533.05,TB
-1071,11678,Luis Matos,,OF,533.74,SF
+1071,11678,Luis Matos,,OF,533.74,MLW
 1071,12346,Sebastian Walcott,,SS,534.28,TEX
 1071,11621,Mason Montgomery,,P,534.35,PIT
 1071,12369,Brad Lord,,P,534.41,WAS
@@ -24054,7 +24054,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,11770,Justin Foscue,,1B,588.8,TEX
 1071,11909,Chayce McDermott,,P,588.8,BAL
 1071,12649,Blaze Jordan,,1B,588.8,STL
-1071,12599,Matt Pushard,,P,588.81,STL
 1071,11141,Seth Johnson,,P,588.81,PHI
 1071,6968,Johnny Cueto,,P,588.81,LAA
 1071,7037,Adam Ottavino,,P,588.81,NYY
@@ -24679,7 +24678,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,10898,Zack Thompson,,P,588.81,STL
 1071,10901,Codi Heuer,,P,588.81,CLE
 1071,10906,Rodolfo Castro,,2B,588.81,PHI
-1071,10908,Cody Bolton,,P,588.81,CLE
+1071,10908,Cody Bolton,,P,588.81,HOU
 1071,10909,Max Kranick,,P,588.81,NYM
 1071,10917,P.J. Higgins,,1B,588.81,CHC
 1071,10924,Mike Baumann,,P,588.81,NYM
@@ -25214,7 +25213,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,12400,John Rave,,OF,588.81,KC
 1071,12401,Andrew Hoffmann,,P,588.81,ARZ
 1071,12402,Jack Winkler,,2B,588.81,MIA
-1071,12404,Dylan Smith,,P,588.81,DET
+1071,12404,Dylan Smith,,P,588.81,SF
 1071,12407,Kyle Backhus,,P,588.81,PHI
 1071,12408,Brian Van Belle,,P,588.81,TB
 1071,12409,Will Robertson,,OF,588.81,BAL
@@ -25245,6 +25244,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,12601,Peyton Pallette,,P,588.81,CLE
 1071,12605,Spencer Miles,,P,588.81,TOR
 1071,12606,Ryan Watson,,P,588.81,BOS
+1071,12599,Matt Pushard,,P,588.81,STL
 1071,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1071,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1071,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -25918,7 +25918,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,11470,Davis Martin,,P,531.43,CWS
 1072,11855,Connor Phillips,,P,533.04,CIN
 1072,10853,Bryan Baker,,P,533.05,TB
-1072,11678,Luis Matos,,OF,533.74,SF
+1072,11678,Luis Matos,,OF,533.74,MLW
 1072,12346,Sebastian Walcott,,SS,534.28,TEX
 1072,11621,Mason Montgomery,,P,534.35,PIT
 1072,12369,Brad Lord,,P,534.41,WAS
@@ -26582,7 +26582,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,11770,Justin Foscue,,1B,588.8,TEX
 1072,11909,Chayce McDermott,,P,588.8,BAL
 1072,12649,Blaze Jordan,,1B,588.8,STL
-1072,12599,Matt Pushard,,P,588.81,STL
 1072,11141,Seth Johnson,,P,588.81,PHI
 1072,6968,Johnny Cueto,,P,588.81,LAA
 1072,7037,Adam Ottavino,,P,588.81,NYY
@@ -27207,7 +27206,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,10898,Zack Thompson,,P,588.81,STL
 1072,10901,Codi Heuer,,P,588.81,CLE
 1072,10906,Rodolfo Castro,,2B,588.81,PHI
-1072,10908,Cody Bolton,,P,588.81,CLE
+1072,10908,Cody Bolton,,P,588.81,HOU
 1072,10909,Max Kranick,,P,588.81,NYM
 1072,10917,P.J. Higgins,,1B,588.81,CHC
 1072,10924,Mike Baumann,,P,588.81,NYM
@@ -27742,7 +27741,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12400,John Rave,,OF,588.81,KC
 1072,12401,Andrew Hoffmann,,P,588.81,ARZ
 1072,12402,Jack Winkler,,2B,588.81,MIA
-1072,12404,Dylan Smith,,P,588.81,DET
+1072,12404,Dylan Smith,,P,588.81,SF
 1072,12407,Kyle Backhus,,P,588.81,PHI
 1072,12408,Brian Van Belle,,P,588.81,TB
 1072,12409,Will Robertson,,OF,588.81,BAL
@@ -27773,6 +27772,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12601,Peyton Pallette,,P,588.81,CLE
 1072,12605,Spencer Miles,,P,588.81,TOR
 1072,12606,Ryan Watson,,P,588.81,BOS
+1072,12599,Matt Pushard,,P,588.81,STL
 1072,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1072,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1072,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -28448,7 +28448,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,8189,Drew Pomeranz,,P,531.72,LAA
 1073,11855,Connor Phillips,,P,533.04,CIN
 1073,10853,Bryan Baker,,P,533.05,TB
-1073,11678,Luis Matos,,OF,533.74,SF
+1073,11678,Luis Matos,,OF,533.74,MLW
 1073,12346,Sebastian Walcott,,SS,534.28,TEX
 1073,11621,Mason Montgomery,,P,534.35,PIT
 1073,12369,Brad Lord,,P,534.41,WAS
@@ -29110,7 +29110,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,11770,Justin Foscue,,1B,588.8,TEX
 1073,11909,Chayce McDermott,,P,588.8,BAL
 1073,12649,Blaze Jordan,,1B,588.8,STL
-1073,12599,Matt Pushard,,P,588.81,STL
 1073,11141,Seth Johnson,,P,588.81,PHI
 1073,6968,Johnny Cueto,,P,588.81,LAA
 1073,7037,Adam Ottavino,,P,588.81,NYY
@@ -29735,7 +29734,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,10898,Zack Thompson,,P,588.81,STL
 1073,10901,Codi Heuer,,P,588.81,CLE
 1073,10906,Rodolfo Castro,,2B,588.81,PHI
-1073,10908,Cody Bolton,,P,588.81,CLE
+1073,10908,Cody Bolton,,P,588.81,HOU
 1073,10909,Max Kranick,,P,588.81,NYM
 1073,10917,P.J. Higgins,,1B,588.81,CHC
 1073,10924,Mike Baumann,,P,588.81,NYM
@@ -30270,7 +30269,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,12400,John Rave,,OF,588.81,KC
 1073,12401,Andrew Hoffmann,,P,588.81,ARZ
 1073,12402,Jack Winkler,,2B,588.81,MIA
-1073,12404,Dylan Smith,,P,588.81,DET
+1073,12404,Dylan Smith,,P,588.81,SF
 1073,12407,Kyle Backhus,,P,588.81,PHI
 1073,12408,Brian Van Belle,,P,588.81,TB
 1073,12409,Will Robertson,,OF,588.81,BAL
@@ -30301,6 +30300,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,12601,Peyton Pallette,,P,588.81,CLE
 1073,12605,Spencer Miles,,P,588.81,TOR
 1073,12606,Ryan Watson,,P,588.81,BOS
+1073,12599,Matt Pushard,,P,588.81,STL
 1073,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1073,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1073,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -30977,7 +30977,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,8189,Drew Pomeranz,,P,531.72,LAA
 1074,11855,Connor Phillips,,P,533.04,CIN
 1074,10853,Bryan Baker,,P,533.05,TB
-1074,11678,Luis Matos,,OF,533.74,SF
+1074,11678,Luis Matos,,OF,533.74,MLW
 1074,12346,Sebastian Walcott,,SS,534.28,TEX
 1074,11621,Mason Montgomery,,P,534.35,PIT
 1074,12369,Brad Lord,,P,534.41,WAS
@@ -31638,7 +31638,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,11770,Justin Foscue,,1B,588.8,TEX
 1074,11909,Chayce McDermott,,P,588.8,BAL
 1074,12649,Blaze Jordan,,1B,588.8,STL
-1074,12599,Matt Pushard,,P,588.81,STL
 1074,11141,Seth Johnson,,P,588.81,PHI
 1074,6968,Johnny Cueto,,P,588.81,LAA
 1074,7037,Adam Ottavino,,P,588.81,NYY
@@ -32263,7 +32262,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,10898,Zack Thompson,,P,588.81,STL
 1074,10901,Codi Heuer,,P,588.81,CLE
 1074,10906,Rodolfo Castro,,2B,588.81,PHI
-1074,10908,Cody Bolton,,P,588.81,CLE
+1074,10908,Cody Bolton,,P,588.81,HOU
 1074,10909,Max Kranick,,P,588.81,NYM
 1074,10917,P.J. Higgins,,1B,588.81,CHC
 1074,10924,Mike Baumann,,P,588.81,NYM
@@ -32798,7 +32797,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,12400,John Rave,,OF,588.81,KC
 1074,12401,Andrew Hoffmann,,P,588.81,ARZ
 1074,12402,Jack Winkler,,2B,588.81,MIA
-1074,12404,Dylan Smith,,P,588.81,DET
+1074,12404,Dylan Smith,,P,588.81,SF
 1074,12407,Kyle Backhus,,P,588.81,PHI
 1074,12408,Brian Van Belle,,P,588.81,TB
 1074,12409,Will Robertson,,OF,588.81,BAL
@@ -32829,6 +32828,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,12601,Peyton Pallette,,P,588.81,CLE
 1074,12605,Spencer Miles,,P,588.81,TOR
 1074,12606,Ryan Watson,,P,588.81,BOS
+1074,12599,Matt Pushard,,P,588.81,STL
 1074,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1074,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1074,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -33504,7 +33504,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,8189,Drew Pomeranz,,P,531.72,LAA
 1075,11855,Connor Phillips,,P,533.04,CIN
 1075,10853,Bryan Baker,,P,533.05,TB
-1075,11678,Luis Matos,,OF,533.74,SF
+1075,11678,Luis Matos,,OF,533.74,MLW
 1075,12346,Sebastian Walcott,,SS,534.28,TEX
 1075,11621,Mason Montgomery,,P,534.35,PIT
 1075,12369,Brad Lord,,P,534.41,WAS
@@ -34166,7 +34166,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,11770,Justin Foscue,,1B,588.8,TEX
 1075,11909,Chayce McDermott,,P,588.8,BAL
 1075,12649,Blaze Jordan,,1B,588.8,STL
-1075,12599,Matt Pushard,,P,588.81,STL
 1075,11141,Seth Johnson,,P,588.81,PHI
 1075,6968,Johnny Cueto,,P,588.81,LAA
 1075,7037,Adam Ottavino,,P,588.81,NYY
@@ -34791,7 +34790,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,10898,Zack Thompson,,P,588.81,STL
 1075,10901,Codi Heuer,,P,588.81,CLE
 1075,10906,Rodolfo Castro,,2B,588.81,PHI
-1075,10908,Cody Bolton,,P,588.81,CLE
+1075,10908,Cody Bolton,,P,588.81,HOU
 1075,10909,Max Kranick,,P,588.81,NYM
 1075,10917,P.J. Higgins,,1B,588.81,CHC
 1075,10924,Mike Baumann,,P,588.81,NYM
@@ -35326,7 +35325,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,12400,John Rave,,OF,588.81,KC
 1075,12401,Andrew Hoffmann,,P,588.81,ARZ
 1075,12402,Jack Winkler,,2B,588.81,MIA
-1075,12404,Dylan Smith,,P,588.81,DET
+1075,12404,Dylan Smith,,P,588.81,SF
 1075,12407,Kyle Backhus,,P,588.81,PHI
 1075,12408,Brian Van Belle,,P,588.81,TB
 1075,12409,Will Robertson,,OF,588.81,BAL
@@ -35357,6 +35356,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,12601,Peyton Pallette,,P,588.81,CLE
 1075,12605,Spencer Miles,,P,588.81,TOR
 1075,12606,Ryan Watson,,P,588.81,BOS
+1075,12599,Matt Pushard,,P,588.81,STL
 1075,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1075,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1075,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -36031,7 +36031,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,8189,Drew Pomeranz,,P,531.72,LAA
 1076,11855,Connor Phillips,,P,533.04,CIN
 1076,10853,Bryan Baker,,P,533.05,TB
-1076,11678,Luis Matos,,OF,533.74,SF
+1076,11678,Luis Matos,,OF,533.74,MLW
 1076,12346,Sebastian Walcott,,SS,534.28,TEX
 1076,11621,Mason Montgomery,,P,534.35,PIT
 1076,12369,Brad Lord,,P,534.41,WAS
@@ -36694,7 +36694,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,11770,Justin Foscue,,1B,588.8,TEX
 1076,11909,Chayce McDermott,,P,588.8,BAL
 1076,12649,Blaze Jordan,,1B,588.8,STL
-1076,12599,Matt Pushard,,P,588.81,STL
 1076,11141,Seth Johnson,,P,588.81,PHI
 1076,6968,Johnny Cueto,,P,588.81,LAA
 1076,7037,Adam Ottavino,,P,588.81,NYY
@@ -37319,7 +37318,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,10898,Zack Thompson,,P,588.81,STL
 1076,10901,Codi Heuer,,P,588.81,CLE
 1076,10906,Rodolfo Castro,,2B,588.81,PHI
-1076,10908,Cody Bolton,,P,588.81,CLE
+1076,10908,Cody Bolton,,P,588.81,HOU
 1076,10909,Max Kranick,,P,588.81,NYM
 1076,10917,P.J. Higgins,,1B,588.81,CHC
 1076,10924,Mike Baumann,,P,588.81,NYM
@@ -37854,7 +37853,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,12400,John Rave,,OF,588.81,KC
 1076,12401,Andrew Hoffmann,,P,588.81,ARZ
 1076,12402,Jack Winkler,,2B,588.81,MIA
-1076,12404,Dylan Smith,,P,588.81,DET
+1076,12404,Dylan Smith,,P,588.81,SF
 1076,12407,Kyle Backhus,,P,588.81,PHI
 1076,12408,Brian Van Belle,,P,588.81,TB
 1076,12409,Will Robertson,,OF,588.81,BAL
@@ -37885,6 +37884,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,12601,Peyton Pallette,,P,588.81,CLE
 1076,12605,Spencer Miles,,P,588.81,TOR
 1076,12606,Ryan Watson,,P,588.81,BOS
+1076,12599,Matt Pushard,,P,588.81,STL
 1076,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1076,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1076,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -38560,7 +38560,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,8189,Drew Pomeranz,,P,531.72,LAA
 1077,11855,Connor Phillips,,P,533.04,CIN
 1077,10853,Bryan Baker,,P,533.05,TB
-1077,11678,Luis Matos,,OF,533.74,SF
+1077,11678,Luis Matos,,OF,533.74,MLW
 1077,12346,Sebastian Walcott,,SS,534.28,TEX
 1077,11621,Mason Montgomery,,P,534.35,PIT
 1077,12369,Brad Lord,,P,534.41,WAS
@@ -39222,7 +39222,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,11770,Justin Foscue,,1B,588.8,TEX
 1077,11909,Chayce McDermott,,P,588.8,BAL
 1077,12649,Blaze Jordan,,1B,588.8,STL
-1077,12599,Matt Pushard,,P,588.81,STL
 1077,11141,Seth Johnson,,P,588.81,PHI
 1077,6968,Johnny Cueto,,P,588.81,LAA
 1077,7037,Adam Ottavino,,P,588.81,NYY
@@ -39847,7 +39846,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,10898,Zack Thompson,,P,588.81,STL
 1077,10901,Codi Heuer,,P,588.81,CLE
 1077,10906,Rodolfo Castro,,2B,588.81,PHI
-1077,10908,Cody Bolton,,P,588.81,CLE
+1077,10908,Cody Bolton,,P,588.81,HOU
 1077,10909,Max Kranick,,P,588.81,NYM
 1077,10917,P.J. Higgins,,1B,588.81,CHC
 1077,10924,Mike Baumann,,P,588.81,NYM
@@ -40382,7 +40381,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,12400,John Rave,,OF,588.81,KC
 1077,12401,Andrew Hoffmann,,P,588.81,ARZ
 1077,12402,Jack Winkler,,2B,588.81,MIA
-1077,12404,Dylan Smith,,P,588.81,DET
+1077,12404,Dylan Smith,,P,588.81,SF
 1077,12407,Kyle Backhus,,P,588.81,PHI
 1077,12408,Brian Van Belle,,P,588.81,TB
 1077,12409,Will Robertson,,OF,588.81,BAL
@@ -40413,6 +40412,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,12601,Peyton Pallette,,P,588.81,CLE
 1077,12605,Spencer Miles,,P,588.81,TOR
 1077,12606,Ryan Watson,,P,588.81,BOS
+1077,12599,Matt Pushard,,P,588.81,STL
 1077,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1077,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1077,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -41087,7 +41087,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,8189,Drew Pomeranz,,P,531.72,LAA
 1078,11855,Connor Phillips,,P,533.04,CIN
 1078,10853,Bryan Baker,,P,533.05,TB
-1078,11678,Luis Matos,,OF,533.74,SF
+1078,11678,Luis Matos,,OF,533.74,MLW
 1078,12346,Sebastian Walcott,,SS,534.28,TEX
 1078,11621,Mason Montgomery,,P,534.35,PIT
 1078,12369,Brad Lord,,P,534.41,WAS
@@ -41750,7 +41750,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,11770,Justin Foscue,,1B,588.8,TEX
 1078,11909,Chayce McDermott,,P,588.8,BAL
 1078,12649,Blaze Jordan,,1B,588.8,STL
-1078,12599,Matt Pushard,,P,588.81,STL
 1078,11141,Seth Johnson,,P,588.81,PHI
 1078,6968,Johnny Cueto,,P,588.81,LAA
 1078,7037,Adam Ottavino,,P,588.81,NYY
@@ -42375,7 +42374,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,10898,Zack Thompson,,P,588.81,STL
 1078,10901,Codi Heuer,,P,588.81,CLE
 1078,10906,Rodolfo Castro,,2B,588.81,PHI
-1078,10908,Cody Bolton,,P,588.81,CLE
+1078,10908,Cody Bolton,,P,588.81,HOU
 1078,10909,Max Kranick,,P,588.81,NYM
 1078,10917,P.J. Higgins,,1B,588.81,CHC
 1078,10924,Mike Baumann,,P,588.81,NYM
@@ -42910,7 +42909,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,12400,John Rave,,OF,588.81,KC
 1078,12401,Andrew Hoffmann,,P,588.81,ARZ
 1078,12402,Jack Winkler,,2B,588.81,MIA
-1078,12404,Dylan Smith,,P,588.81,DET
+1078,12404,Dylan Smith,,P,588.81,SF
 1078,12407,Kyle Backhus,,P,588.81,PHI
 1078,12408,Brian Van Belle,,P,588.81,TB
 1078,12409,Will Robertson,,OF,588.81,BAL
@@ -42941,6 +42940,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,12601,Peyton Pallette,,P,588.81,CLE
 1078,12605,Spencer Miles,,P,588.81,TOR
 1078,12606,Ryan Watson,,P,588.81,BOS
+1078,12599,Matt Pushard,,P,588.81,STL
 1078,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1078,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1078,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -43616,7 +43616,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,8189,Drew Pomeranz,,P,531.72,LAA
 1079,11855,Connor Phillips,,P,533.04,CIN
 1079,10853,Bryan Baker,,P,533.05,TB
-1079,11678,Luis Matos,,OF,533.74,SF
+1079,11678,Luis Matos,,OF,533.74,MLW
 1079,12346,Sebastian Walcott,,SS,534.28,TEX
 1079,11621,Mason Montgomery,,P,534.35,PIT
 1079,12369,Brad Lord,,P,534.41,WAS
@@ -44278,7 +44278,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,11770,Justin Foscue,,1B,588.8,TEX
 1079,11909,Chayce McDermott,,P,588.8,BAL
 1079,12649,Blaze Jordan,,1B,588.8,STL
-1079,12599,Matt Pushard,,P,588.81,STL
 1079,11141,Seth Johnson,,P,588.81,PHI
 1079,6968,Johnny Cueto,,P,588.81,LAA
 1079,7037,Adam Ottavino,,P,588.81,NYY
@@ -44903,7 +44902,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,10898,Zack Thompson,,P,588.81,STL
 1079,10901,Codi Heuer,,P,588.81,CLE
 1079,10906,Rodolfo Castro,,2B,588.81,PHI
-1079,10908,Cody Bolton,,P,588.81,CLE
+1079,10908,Cody Bolton,,P,588.81,HOU
 1079,10909,Max Kranick,,P,588.81,NYM
 1079,10917,P.J. Higgins,,1B,588.81,CHC
 1079,10924,Mike Baumann,,P,588.81,NYM
@@ -45438,7 +45437,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,12400,John Rave,,OF,588.81,KC
 1079,12401,Andrew Hoffmann,,P,588.81,ARZ
 1079,12402,Jack Winkler,,2B,588.81,MIA
-1079,12404,Dylan Smith,,P,588.81,DET
+1079,12404,Dylan Smith,,P,588.81,SF
 1079,12407,Kyle Backhus,,P,588.81,PHI
 1079,12408,Brian Van Belle,,P,588.81,TB
 1079,12409,Will Robertson,,OF,588.81,BAL
@@ -45469,6 +45468,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,12601,Peyton Pallette,,P,588.81,CLE
 1079,12605,Spencer Miles,,P,588.81,TOR
 1079,12606,Ryan Watson,,P,588.81,BOS
+1079,12599,Matt Pushard,,P,588.81,STL
 1079,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1079,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1079,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -46145,7 +46145,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,8189,Drew Pomeranz,,P,531.72,LAA
 1080,11855,Connor Phillips,,P,533.04,CIN
 1080,10853,Bryan Baker,,P,533.05,TB
-1080,11678,Luis Matos,,OF,533.74,SF
+1080,11678,Luis Matos,,OF,533.74,MLW
 1080,12346,Sebastian Walcott,,SS,534.28,TEX
 1080,12369,Brad Lord,,P,534.41,WAS
 1080,8954,Michael Conforto,,OF,535.46,CHC
@@ -46806,7 +46806,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,11770,Justin Foscue,,1B,588.8,TEX
 1080,11909,Chayce McDermott,,P,588.8,BAL
 1080,12649,Blaze Jordan,,1B,588.8,STL
-1080,12599,Matt Pushard,,P,588.81,STL
 1080,11141,Seth Johnson,,P,588.81,PHI
 1080,6968,Johnny Cueto,,P,588.81,LAA
 1080,7037,Adam Ottavino,,P,588.81,NYY
@@ -47431,7 +47430,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,10898,Zack Thompson,,P,588.81,STL
 1080,10901,Codi Heuer,,P,588.81,CLE
 1080,10906,Rodolfo Castro,,2B,588.81,PHI
-1080,10908,Cody Bolton,,P,588.81,CLE
+1080,10908,Cody Bolton,,P,588.81,HOU
 1080,10909,Max Kranick,,P,588.81,NYM
 1080,10917,P.J. Higgins,,1B,588.81,CHC
 1080,10924,Mike Baumann,,P,588.81,NYM
@@ -47966,7 +47965,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,12400,John Rave,,OF,588.81,KC
 1080,12401,Andrew Hoffmann,,P,588.81,ARZ
 1080,12402,Jack Winkler,,2B,588.81,MIA
-1080,12404,Dylan Smith,,P,588.81,DET
+1080,12404,Dylan Smith,,P,588.81,SF
 1080,12407,Kyle Backhus,,P,588.81,PHI
 1080,12408,Brian Van Belle,,P,588.81,TB
 1080,12409,Will Robertson,,OF,588.81,BAL
@@ -47997,6 +47996,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,12601,Peyton Pallette,,P,588.81,CLE
 1080,12605,Spencer Miles,,P,588.81,TOR
 1080,12606,Ryan Watson,,P,588.81,BOS
+1080,12599,Matt Pushard,,P,588.81,STL
 1080,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1080,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1080,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -48672,7 +48672,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,8189,Drew Pomeranz,,P,531.72,LAA
 1081,11855,Connor Phillips,,P,533.04,CIN
 1081,10853,Bryan Baker,,P,533.05,TB
-1081,11678,Luis Matos,,OF,533.74,SF
+1081,11678,Luis Matos,,OF,533.74,MLW
 1081,12346,Sebastian Walcott,,SS,534.28,TEX
 1081,11621,Mason Montgomery,,P,534.35,PIT
 1081,12369,Brad Lord,,P,534.41,WAS
@@ -49334,7 +49334,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,11770,Justin Foscue,,1B,588.8,TEX
 1081,11909,Chayce McDermott,,P,588.8,BAL
 1081,12649,Blaze Jordan,,1B,588.8,STL
-1081,12599,Matt Pushard,,P,588.81,STL
 1081,11141,Seth Johnson,,P,588.81,PHI
 1081,6968,Johnny Cueto,,P,588.81,LAA
 1081,7037,Adam Ottavino,,P,588.81,NYY
@@ -49959,7 +49958,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,10898,Zack Thompson,,P,588.81,STL
 1081,10901,Codi Heuer,,P,588.81,CLE
 1081,10906,Rodolfo Castro,,2B,588.81,PHI
-1081,10908,Cody Bolton,,P,588.81,CLE
+1081,10908,Cody Bolton,,P,588.81,HOU
 1081,10909,Max Kranick,,P,588.81,NYM
 1081,10917,P.J. Higgins,,1B,588.81,CHC
 1081,10924,Mike Baumann,,P,588.81,NYM
@@ -50494,7 +50493,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,12400,John Rave,,OF,588.81,KC
 1081,12401,Andrew Hoffmann,,P,588.81,ARZ
 1081,12402,Jack Winkler,,2B,588.81,MIA
-1081,12404,Dylan Smith,,P,588.81,DET
+1081,12404,Dylan Smith,,P,588.81,SF
 1081,12407,Kyle Backhus,,P,588.81,PHI
 1081,12408,Brian Van Belle,,P,588.81,TB
 1081,12409,Will Robertson,,OF,588.81,BAL
@@ -50525,6 +50524,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,12601,Peyton Pallette,,P,588.81,CLE
 1081,12605,Spencer Miles,,P,588.81,TOR
 1081,12606,Ryan Watson,,P,588.81,BOS
+1081,12599,Matt Pushard,,P,588.81,STL
 1081,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1081,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1081,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -51202,7 +51202,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,8189,Drew Pomeranz,,P,531.72,LAA
 1082,11855,Connor Phillips,,P,533.04,CIN
 1082,10853,Bryan Baker,,P,533.05,TB
-1082,11678,Luis Matos,,OF,533.74,SF
+1082,11678,Luis Matos,,OF,533.74,MLW
 1082,12346,Sebastian Walcott,,SS,534.28,TEX
 1082,11621,Mason Montgomery,,P,534.35,PIT
 1082,12369,Brad Lord,,P,534.41,WAS
@@ -51862,7 +51862,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,11770,Justin Foscue,,1B,588.8,TEX
 1082,11909,Chayce McDermott,,P,588.8,BAL
 1082,12649,Blaze Jordan,,1B,588.8,STL
-1082,12599,Matt Pushard,,P,588.81,STL
 1082,11141,Seth Johnson,,P,588.81,PHI
 1082,6968,Johnny Cueto,,P,588.81,LAA
 1082,7037,Adam Ottavino,,P,588.81,NYY
@@ -52487,7 +52486,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,10898,Zack Thompson,,P,588.81,STL
 1082,10901,Codi Heuer,,P,588.81,CLE
 1082,10906,Rodolfo Castro,,2B,588.81,PHI
-1082,10908,Cody Bolton,,P,588.81,CLE
+1082,10908,Cody Bolton,,P,588.81,HOU
 1082,10909,Max Kranick,,P,588.81,NYM
 1082,10917,P.J. Higgins,,1B,588.81,CHC
 1082,10924,Mike Baumann,,P,588.81,NYM
@@ -53022,7 +53021,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,12400,John Rave,,OF,588.81,KC
 1082,12401,Andrew Hoffmann,,P,588.81,ARZ
 1082,12402,Jack Winkler,,2B,588.81,MIA
-1082,12404,Dylan Smith,,P,588.81,DET
+1082,12404,Dylan Smith,,P,588.81,SF
 1082,12407,Kyle Backhus,,P,588.81,PHI
 1082,12408,Brian Van Belle,,P,588.81,TB
 1082,12409,Will Robertson,,OF,588.81,BAL
@@ -53053,6 +53052,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,12601,Peyton Pallette,,P,588.81,CLE
 1082,12605,Spencer Miles,,P,588.81,TOR
 1082,12606,Ryan Watson,,P,588.81,BOS
+1082,12599,Matt Pushard,,P,588.81,STL
 1082,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1082,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1082,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -53730,7 +53730,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,11470,Davis Martin,,P,531.43,CWS
 1083,11855,Connor Phillips,,P,533.04,CIN
 1083,10853,Bryan Baker,,P,533.05,TB
-1083,11678,Luis Matos,,OF,533.74,SF
+1083,11678,Luis Matos,,OF,533.74,MLW
 1083,12346,Sebastian Walcott,,SS,534.28,TEX
 1083,12369,Brad Lord,,P,534.41,WAS
 1083,8954,Michael Conforto,,OF,535.46,CHC
@@ -54390,7 +54390,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,11770,Justin Foscue,,1B,588.8,TEX
 1083,11909,Chayce McDermott,,P,588.8,BAL
 1083,12649,Blaze Jordan,,1B,588.8,STL
-1083,12599,Matt Pushard,,P,588.81,STL
 1083,11141,Seth Johnson,,P,588.81,PHI
 1083,6968,Johnny Cueto,,P,588.81,LAA
 1083,7037,Adam Ottavino,,P,588.81,NYY
@@ -55015,7 +55014,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,10898,Zack Thompson,,P,588.81,STL
 1083,10901,Codi Heuer,,P,588.81,CLE
 1083,10906,Rodolfo Castro,,2B,588.81,PHI
-1083,10908,Cody Bolton,,P,588.81,CLE
+1083,10908,Cody Bolton,,P,588.81,HOU
 1083,10909,Max Kranick,,P,588.81,NYM
 1083,10917,P.J. Higgins,,1B,588.81,CHC
 1083,10924,Mike Baumann,,P,588.81,NYM
@@ -55550,7 +55549,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,12400,John Rave,,OF,588.81,KC
 1083,12401,Andrew Hoffmann,,P,588.81,ARZ
 1083,12402,Jack Winkler,,2B,588.81,MIA
-1083,12404,Dylan Smith,,P,588.81,DET
+1083,12404,Dylan Smith,,P,588.81,SF
 1083,12407,Kyle Backhus,,P,588.81,PHI
 1083,12408,Brian Van Belle,,P,588.81,TB
 1083,12409,Will Robertson,,OF,588.81,BAL
@@ -55581,6 +55580,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,12601,Peyton Pallette,,P,588.81,CLE
 1083,12605,Spencer Miles,,P,588.81,TOR
 1083,12606,Ryan Watson,,P,588.81,BOS
+1083,12599,Matt Pushard,,P,588.81,STL
 1083,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1083,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1083,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
