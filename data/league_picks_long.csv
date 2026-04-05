@@ -806,7 +806,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,12348,Jarlin Susana,,P,580.27,WAS
 1062,11172,Angel Zerpa,,P,580.59,MLW
 1062,12536,Jack Wenninger,,P,580.65,NYM
-1062,11874,Tyler Fitzgerald,,2B,580.79,SF
+1062,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1062,11400,Jose Butto,,P,580.91,SF
 1062,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1062,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -1529,12 +1529,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,9436,Brent Suter,,P,588.81,LAA
 1062,9440,Dan Altavilla,,P,588.81,CWS
 1062,9446,Matt Dermody,,P,588.81,BOS
-1062,9450,Joe Mantiply,,P,588.81,ARZ
+1062,9450,Joe Mantiply,,P,588.81,TOR
 1062,9453,Jose De Leon,,P,588.81,BOS
 1062,9460,Joely Rodriguez,,P,588.81,BOS
 1062,9464,Juniel Querecuto,,SS,588.81,STL
 1062,9480,Johan Camargo,,SS,588.81,SF
-1062,9484,Austin Voth,,P,588.81,SEA
+1062,9484,Austin Voth,,P,588.81,TOR
 1062,9486,Aristides Aquino,,OF,588.81,CIN
 1062,9488,Jackson Stephens,,P,588.81,ATL
 1062,9491,Brett Phillips,,OF,588.81,CWS
@@ -2258,7 +2258,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,11783,McKinley Moore,,P,588.81,NYY
 1062,11785,Braden Bristo,,P,588.81,DET
 1062,11788,Zach Muckenhirn,,P,588.81,SEA
-1062,11790,Sammy Peralta,,P,588.81,MLW
+1062,11790,Sammy Peralta,,P,588.81,COL
 1062,11793,Josh Walker,,P,588.81,BAL
 1062,11795,Eduardo Salazar,,P,588.81,WAS
 1062,11798,Joe La Sorsa,,P,588.81,CIN
@@ -3334,7 +3334,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,12348,Jarlin Susana,,P,580.27,WAS
 1063,11172,Angel Zerpa,,P,580.59,MLW
 1063,12536,Jack Wenninger,,P,580.65,NYM
-1063,11874,Tyler Fitzgerald,,2B,580.79,SF
+1063,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1063,11400,Jose Butto,,P,580.91,SF
 1063,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1063,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -4057,12 +4057,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,9436,Brent Suter,,P,588.81,LAA
 1063,9440,Dan Altavilla,,P,588.81,CWS
 1063,9446,Matt Dermody,,P,588.81,BOS
-1063,9450,Joe Mantiply,,P,588.81,ARZ
+1063,9450,Joe Mantiply,,P,588.81,TOR
 1063,9453,Jose De Leon,,P,588.81,BOS
 1063,9460,Joely Rodriguez,,P,588.81,BOS
 1063,9464,Juniel Querecuto,,SS,588.81,STL
 1063,9480,Johan Camargo,,SS,588.81,SF
-1063,9484,Austin Voth,,P,588.81,SEA
+1063,9484,Austin Voth,,P,588.81,TOR
 1063,9486,Aristides Aquino,,OF,588.81,CIN
 1063,9488,Jackson Stephens,,P,588.81,ATL
 1063,9491,Brett Phillips,,OF,588.81,CWS
@@ -4786,7 +4786,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,11783,McKinley Moore,,P,588.81,NYY
 1063,11785,Braden Bristo,,P,588.81,DET
 1063,11788,Zach Muckenhirn,,P,588.81,SEA
-1063,11790,Sammy Peralta,,P,588.81,MLW
+1063,11790,Sammy Peralta,,P,588.81,COL
 1063,11793,Josh Walker,,P,588.81,BAL
 1063,11795,Eduardo Salazar,,P,588.81,WAS
 1063,11798,Joe La Sorsa,,P,588.81,CIN
@@ -5862,7 +5862,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,12348,Jarlin Susana,,P,580.27,WAS
 1064,11172,Angel Zerpa,,P,580.59,MLW
 1064,12536,Jack Wenninger,,P,580.65,NYM
-1064,11874,Tyler Fitzgerald,,2B,580.79,SF
+1064,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1064,11400,Jose Butto,,P,580.91,SF
 1064,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1064,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -6585,12 +6585,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,9436,Brent Suter,,P,588.81,LAA
 1064,9440,Dan Altavilla,,P,588.81,CWS
 1064,9446,Matt Dermody,,P,588.81,BOS
-1064,9450,Joe Mantiply,,P,588.81,ARZ
+1064,9450,Joe Mantiply,,P,588.81,TOR
 1064,9453,Jose De Leon,,P,588.81,BOS
 1064,9460,Joely Rodriguez,,P,588.81,BOS
 1064,9464,Juniel Querecuto,,SS,588.81,STL
 1064,9480,Johan Camargo,,SS,588.81,SF
-1064,9484,Austin Voth,,P,588.81,SEA
+1064,9484,Austin Voth,,P,588.81,TOR
 1064,9486,Aristides Aquino,,OF,588.81,CIN
 1064,9488,Jackson Stephens,,P,588.81,ATL
 1064,9491,Brett Phillips,,OF,588.81,CWS
@@ -7314,7 +7314,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,11783,McKinley Moore,,P,588.81,NYY
 1064,11785,Braden Bristo,,P,588.81,DET
 1064,11788,Zach Muckenhirn,,P,588.81,SEA
-1064,11790,Sammy Peralta,,P,588.81,MLW
+1064,11790,Sammy Peralta,,P,588.81,COL
 1064,11793,Josh Walker,,P,588.81,BAL
 1064,11795,Eduardo Salazar,,P,588.81,WAS
 1064,11798,Joe La Sorsa,,P,588.81,CIN
@@ -8390,7 +8390,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,12348,Jarlin Susana,,P,580.27,WAS
 1065,11172,Angel Zerpa,,P,580.59,MLW
 1065,12536,Jack Wenninger,,P,580.65,NYM
-1065,11874,Tyler Fitzgerald,,2B,580.79,SF
+1065,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1065,11400,Jose Butto,,P,580.91,SF
 1065,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1065,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -9113,12 +9113,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,9436,Brent Suter,,P,588.81,LAA
 1065,9440,Dan Altavilla,,P,588.81,CWS
 1065,9446,Matt Dermody,,P,588.81,BOS
-1065,9450,Joe Mantiply,,P,588.81,ARZ
+1065,9450,Joe Mantiply,,P,588.81,TOR
 1065,9453,Jose De Leon,,P,588.81,BOS
 1065,9460,Joely Rodriguez,,P,588.81,BOS
 1065,9464,Juniel Querecuto,,SS,588.81,STL
 1065,9480,Johan Camargo,,SS,588.81,SF
-1065,9484,Austin Voth,,P,588.81,SEA
+1065,9484,Austin Voth,,P,588.81,TOR
 1065,9486,Aristides Aquino,,OF,588.81,CIN
 1065,9488,Jackson Stephens,,P,588.81,ATL
 1065,9491,Brett Phillips,,OF,588.81,CWS
@@ -9842,7 +9842,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,11783,McKinley Moore,,P,588.81,NYY
 1065,11785,Braden Bristo,,P,588.81,DET
 1065,11788,Zach Muckenhirn,,P,588.81,SEA
-1065,11790,Sammy Peralta,,P,588.81,MLW
+1065,11790,Sammy Peralta,,P,588.81,COL
 1065,11793,Josh Walker,,P,588.81,BAL
 1065,11795,Eduardo Salazar,,P,588.81,WAS
 1065,11798,Joe La Sorsa,,P,588.81,CIN
@@ -10920,7 +10920,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,12348,Jarlin Susana,,P,580.27,WAS
 1066,11172,Angel Zerpa,,P,580.59,MLW
 1066,12536,Jack Wenninger,,P,580.65,NYM
-1066,11874,Tyler Fitzgerald,,2B,580.79,SF
+1066,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1066,11400,Jose Butto,,P,580.91,SF
 1066,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1066,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -11641,12 +11641,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,9436,Brent Suter,,P,588.81,LAA
 1066,9440,Dan Altavilla,,P,588.81,CWS
 1066,9446,Matt Dermody,,P,588.81,BOS
-1066,9450,Joe Mantiply,,P,588.81,ARZ
+1066,9450,Joe Mantiply,,P,588.81,TOR
 1066,9453,Jose De Leon,,P,588.81,BOS
 1066,9460,Joely Rodriguez,,P,588.81,BOS
 1066,9464,Juniel Querecuto,,SS,588.81,STL
 1066,9480,Johan Camargo,,SS,588.81,SF
-1066,9484,Austin Voth,,P,588.81,SEA
+1066,9484,Austin Voth,,P,588.81,TOR
 1066,9486,Aristides Aquino,,OF,588.81,CIN
 1066,9488,Jackson Stephens,,P,588.81,ATL
 1066,9491,Brett Phillips,,OF,588.81,CWS
@@ -12370,7 +12370,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,11783,McKinley Moore,,P,588.81,NYY
 1066,11785,Braden Bristo,,P,588.81,DET
 1066,11788,Zach Muckenhirn,,P,588.81,SEA
-1066,11790,Sammy Peralta,,P,588.81,MLW
+1066,11790,Sammy Peralta,,P,588.81,COL
 1066,11793,Josh Walker,,P,588.81,BAL
 1066,11795,Eduardo Salazar,,P,588.81,WAS
 1066,11798,Joe La Sorsa,,P,588.81,CIN
@@ -13446,7 +13446,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,12348,Jarlin Susana,,P,580.27,WAS
 1067,11172,Angel Zerpa,,P,580.59,MLW
 1067,12536,Jack Wenninger,,P,580.65,NYM
-1067,11874,Tyler Fitzgerald,,2B,580.79,SF
+1067,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1067,11400,Jose Butto,,P,580.91,SF
 1067,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1067,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -14169,12 +14169,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,9436,Brent Suter,,P,588.81,LAA
 1067,9440,Dan Altavilla,,P,588.81,CWS
 1067,9446,Matt Dermody,,P,588.81,BOS
-1067,9450,Joe Mantiply,,P,588.81,ARZ
+1067,9450,Joe Mantiply,,P,588.81,TOR
 1067,9453,Jose De Leon,,P,588.81,BOS
 1067,9460,Joely Rodriguez,,P,588.81,BOS
 1067,9464,Juniel Querecuto,,SS,588.81,STL
 1067,9480,Johan Camargo,,SS,588.81,SF
-1067,9484,Austin Voth,,P,588.81,SEA
+1067,9484,Austin Voth,,P,588.81,TOR
 1067,9486,Aristides Aquino,,OF,588.81,CIN
 1067,9488,Jackson Stephens,,P,588.81,ATL
 1067,9491,Brett Phillips,,OF,588.81,CWS
@@ -14898,7 +14898,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,11783,McKinley Moore,,P,588.81,NYY
 1067,11785,Braden Bristo,,P,588.81,DET
 1067,11788,Zach Muckenhirn,,P,588.81,SEA
-1067,11790,Sammy Peralta,,P,588.81,MLW
+1067,11790,Sammy Peralta,,P,588.81,COL
 1067,11793,Josh Walker,,P,588.81,BAL
 1067,11795,Eduardo Salazar,,P,588.81,WAS
 1067,11798,Joe La Sorsa,,P,588.81,CIN
@@ -15974,7 +15974,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,12348,Jarlin Susana,,P,580.27,WAS
 1068,11172,Angel Zerpa,,P,580.59,MLW
 1068,12536,Jack Wenninger,,P,580.65,NYM
-1068,11874,Tyler Fitzgerald,,2B,580.79,SF
+1068,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1068,11400,Jose Butto,,P,580.91,SF
 1068,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1068,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -16697,12 +16697,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,9436,Brent Suter,,P,588.81,LAA
 1068,9440,Dan Altavilla,,P,588.81,CWS
 1068,9446,Matt Dermody,,P,588.81,BOS
-1068,9450,Joe Mantiply,,P,588.81,ARZ
+1068,9450,Joe Mantiply,,P,588.81,TOR
 1068,9453,Jose De Leon,,P,588.81,BOS
 1068,9460,Joely Rodriguez,,P,588.81,BOS
 1068,9464,Juniel Querecuto,,SS,588.81,STL
 1068,9480,Johan Camargo,,SS,588.81,SF
-1068,9484,Austin Voth,,P,588.81,SEA
+1068,9484,Austin Voth,,P,588.81,TOR
 1068,9486,Aristides Aquino,,OF,588.81,CIN
 1068,9488,Jackson Stephens,,P,588.81,ATL
 1068,9491,Brett Phillips,,OF,588.81,CWS
@@ -17426,7 +17426,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,11783,McKinley Moore,,P,588.81,NYY
 1068,11785,Braden Bristo,,P,588.81,DET
 1068,11788,Zach Muckenhirn,,P,588.81,SEA
-1068,11790,Sammy Peralta,,P,588.81,MLW
+1068,11790,Sammy Peralta,,P,588.81,COL
 1068,11793,Josh Walker,,P,588.81,BAL
 1068,11795,Eduardo Salazar,,P,588.81,WAS
 1068,11798,Joe La Sorsa,,P,588.81,CIN
@@ -18502,7 +18502,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,12348,Jarlin Susana,,P,580.27,WAS
 1069,11172,Angel Zerpa,,P,580.59,MLW
 1069,12536,Jack Wenninger,,P,580.65,NYM
-1069,11874,Tyler Fitzgerald,,2B,580.79,SF
+1069,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1069,11400,Jose Butto,,P,580.91,SF
 1069,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1069,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -19225,12 +19225,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,9436,Brent Suter,,P,588.81,LAA
 1069,9440,Dan Altavilla,,P,588.81,CWS
 1069,9446,Matt Dermody,,P,588.81,BOS
-1069,9450,Joe Mantiply,,P,588.81,ARZ
+1069,9450,Joe Mantiply,,P,588.81,TOR
 1069,9453,Jose De Leon,,P,588.81,BOS
 1069,9460,Joely Rodriguez,,P,588.81,BOS
 1069,9464,Juniel Querecuto,,SS,588.81,STL
 1069,9480,Johan Camargo,,SS,588.81,SF
-1069,9484,Austin Voth,,P,588.81,SEA
+1069,9484,Austin Voth,,P,588.81,TOR
 1069,9486,Aristides Aquino,,OF,588.81,CIN
 1069,9488,Jackson Stephens,,P,588.81,ATL
 1069,9491,Brett Phillips,,OF,588.81,CWS
@@ -19954,7 +19954,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,11783,McKinley Moore,,P,588.81,NYY
 1069,11785,Braden Bristo,,P,588.81,DET
 1069,11788,Zach Muckenhirn,,P,588.81,SEA
-1069,11790,Sammy Peralta,,P,588.81,MLW
+1069,11790,Sammy Peralta,,P,588.81,COL
 1069,11793,Josh Walker,,P,588.81,BAL
 1069,11795,Eduardo Salazar,,P,588.81,WAS
 1069,11798,Joe La Sorsa,,P,588.81,CIN
@@ -21030,7 +21030,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,12348,Jarlin Susana,,P,580.27,WAS
 1070,11172,Angel Zerpa,,P,580.59,MLW
 1070,12536,Jack Wenninger,,P,580.65,NYM
-1070,11874,Tyler Fitzgerald,,2B,580.79,SF
+1070,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1070,11400,Jose Butto,,P,580.91,SF
 1070,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1070,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -21753,12 +21753,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,9436,Brent Suter,,P,588.81,LAA
 1070,9440,Dan Altavilla,,P,588.81,CWS
 1070,9446,Matt Dermody,,P,588.81,BOS
-1070,9450,Joe Mantiply,,P,588.81,ARZ
+1070,9450,Joe Mantiply,,P,588.81,TOR
 1070,9453,Jose De Leon,,P,588.81,BOS
 1070,9460,Joely Rodriguez,,P,588.81,BOS
 1070,9464,Juniel Querecuto,,SS,588.81,STL
 1070,9480,Johan Camargo,,SS,588.81,SF
-1070,9484,Austin Voth,,P,588.81,SEA
+1070,9484,Austin Voth,,P,588.81,TOR
 1070,9486,Aristides Aquino,,OF,588.81,CIN
 1070,9488,Jackson Stephens,,P,588.81,ATL
 1070,9491,Brett Phillips,,OF,588.81,CWS
@@ -22482,7 +22482,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11783,McKinley Moore,,P,588.81,NYY
 1070,11785,Braden Bristo,,P,588.81,DET
 1070,11788,Zach Muckenhirn,,P,588.81,SEA
-1070,11790,Sammy Peralta,,P,588.81,MLW
+1070,11790,Sammy Peralta,,P,588.81,COL
 1070,11793,Josh Walker,,P,588.81,BAL
 1070,11795,Eduardo Salazar,,P,588.81,WAS
 1070,11798,Joe La Sorsa,,P,588.81,CIN
@@ -23559,7 +23559,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,12348,Jarlin Susana,,P,580.27,WAS
 1071,11172,Angel Zerpa,,P,580.59,MLW
 1071,12536,Jack Wenninger,,P,580.65,NYM
-1071,11874,Tyler Fitzgerald,,2B,580.79,SF
+1071,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1071,11400,Jose Butto,,P,580.91,SF
 1071,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1071,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -24281,12 +24281,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,9436,Brent Suter,,P,588.81,LAA
 1071,9440,Dan Altavilla,,P,588.81,CWS
 1071,9446,Matt Dermody,,P,588.81,BOS
-1071,9450,Joe Mantiply,,P,588.81,ARZ
+1071,9450,Joe Mantiply,,P,588.81,TOR
 1071,9453,Jose De Leon,,P,588.81,BOS
 1071,9460,Joely Rodriguez,,P,588.81,BOS
 1071,9464,Juniel Querecuto,,SS,588.81,STL
 1071,9480,Johan Camargo,,SS,588.81,SF
-1071,9484,Austin Voth,,P,588.81,SEA
+1071,9484,Austin Voth,,P,588.81,TOR
 1071,9486,Aristides Aquino,,OF,588.81,CIN
 1071,9488,Jackson Stephens,,P,588.81,ATL
 1071,9491,Brett Phillips,,OF,588.81,CWS
@@ -25010,7 +25010,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,11783,McKinley Moore,,P,588.81,NYY
 1071,11785,Braden Bristo,,P,588.81,DET
 1071,11788,Zach Muckenhirn,,P,588.81,SEA
-1071,11790,Sammy Peralta,,P,588.81,MLW
+1071,11790,Sammy Peralta,,P,588.81,COL
 1071,11793,Josh Walker,,P,588.81,BAL
 1071,11795,Eduardo Salazar,,P,588.81,WAS
 1071,11798,Joe La Sorsa,,P,588.81,CIN
@@ -26086,7 +26086,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12348,Jarlin Susana,,P,580.27,WAS
 1072,11172,Angel Zerpa,,P,580.59,MLW
 1072,12536,Jack Wenninger,,P,580.65,NYM
-1072,11874,Tyler Fitzgerald,,2B,580.79,SF
+1072,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1072,11400,Jose Butto,,P,580.91,SF
 1072,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1072,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -26809,12 +26809,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,9436,Brent Suter,,P,588.81,LAA
 1072,9440,Dan Altavilla,,P,588.81,CWS
 1072,9446,Matt Dermody,,P,588.81,BOS
-1072,9450,Joe Mantiply,,P,588.81,ARZ
+1072,9450,Joe Mantiply,,P,588.81,TOR
 1072,9453,Jose De Leon,,P,588.81,BOS
 1072,9460,Joely Rodriguez,,P,588.81,BOS
 1072,9464,Juniel Querecuto,,SS,588.81,STL
 1072,9480,Johan Camargo,,SS,588.81,SF
-1072,9484,Austin Voth,,P,588.81,SEA
+1072,9484,Austin Voth,,P,588.81,TOR
 1072,9486,Aristides Aquino,,OF,588.81,CIN
 1072,9488,Jackson Stephens,,P,588.81,ATL
 1072,9491,Brett Phillips,,OF,588.81,CWS
@@ -27538,7 +27538,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,11783,McKinley Moore,,P,588.81,NYY
 1072,11785,Braden Bristo,,P,588.81,DET
 1072,11788,Zach Muckenhirn,,P,588.81,SEA
-1072,11790,Sammy Peralta,,P,588.81,MLW
+1072,11790,Sammy Peralta,,P,588.81,COL
 1072,11793,Josh Walker,,P,588.81,BAL
 1072,11795,Eduardo Salazar,,P,588.81,WAS
 1072,11798,Joe La Sorsa,,P,588.81,CIN
@@ -28614,7 +28614,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,12348,Jarlin Susana,,P,580.27,WAS
 1073,11172,Angel Zerpa,,P,580.59,MLW
 1073,12536,Jack Wenninger,,P,580.65,NYM
-1073,11874,Tyler Fitzgerald,,2B,580.79,SF
+1073,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1073,11400,Jose Butto,,P,580.91,SF
 1073,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1073,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -29337,12 +29337,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,9436,Brent Suter,,P,588.81,LAA
 1073,9440,Dan Altavilla,,P,588.81,CWS
 1073,9446,Matt Dermody,,P,588.81,BOS
-1073,9450,Joe Mantiply,,P,588.81,ARZ
+1073,9450,Joe Mantiply,,P,588.81,TOR
 1073,9453,Jose De Leon,,P,588.81,BOS
 1073,9460,Joely Rodriguez,,P,588.81,BOS
 1073,9464,Juniel Querecuto,,SS,588.81,STL
 1073,9480,Johan Camargo,,SS,588.81,SF
-1073,9484,Austin Voth,,P,588.81,SEA
+1073,9484,Austin Voth,,P,588.81,TOR
 1073,9486,Aristides Aquino,,OF,588.81,CIN
 1073,9488,Jackson Stephens,,P,588.81,ATL
 1073,9491,Brett Phillips,,OF,588.81,CWS
@@ -30066,7 +30066,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,11783,McKinley Moore,,P,588.81,NYY
 1073,11785,Braden Bristo,,P,588.81,DET
 1073,11788,Zach Muckenhirn,,P,588.81,SEA
-1073,11790,Sammy Peralta,,P,588.81,MLW
+1073,11790,Sammy Peralta,,P,588.81,COL
 1073,11793,Josh Walker,,P,588.81,BAL
 1073,11795,Eduardo Salazar,,P,588.81,WAS
 1073,11798,Joe La Sorsa,,P,588.81,CIN
@@ -31142,7 +31142,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,12348,Jarlin Susana,,P,580.27,WAS
 1074,11172,Angel Zerpa,,P,580.59,MLW
 1074,12536,Jack Wenninger,,P,580.65,NYM
-1074,11874,Tyler Fitzgerald,,2B,580.79,SF
+1074,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1074,11400,Jose Butto,,P,580.91,SF
 1074,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1074,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -31865,12 +31865,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,9436,Brent Suter,,P,588.81,LAA
 1074,9440,Dan Altavilla,,P,588.81,CWS
 1074,9446,Matt Dermody,,P,588.81,BOS
-1074,9450,Joe Mantiply,,P,588.81,ARZ
+1074,9450,Joe Mantiply,,P,588.81,TOR
 1074,9453,Jose De Leon,,P,588.81,BOS
 1074,9460,Joely Rodriguez,,P,588.81,BOS
 1074,9464,Juniel Querecuto,,SS,588.81,STL
 1074,9480,Johan Camargo,,SS,588.81,SF
-1074,9484,Austin Voth,,P,588.81,SEA
+1074,9484,Austin Voth,,P,588.81,TOR
 1074,9486,Aristides Aquino,,OF,588.81,CIN
 1074,9488,Jackson Stephens,,P,588.81,ATL
 1074,9491,Brett Phillips,,OF,588.81,CWS
@@ -32594,7 +32594,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,11783,McKinley Moore,,P,588.81,NYY
 1074,11785,Braden Bristo,,P,588.81,DET
 1074,11788,Zach Muckenhirn,,P,588.81,SEA
-1074,11790,Sammy Peralta,,P,588.81,MLW
+1074,11790,Sammy Peralta,,P,588.81,COL
 1074,11793,Josh Walker,,P,588.81,BAL
 1074,11795,Eduardo Salazar,,P,588.81,WAS
 1074,11798,Joe La Sorsa,,P,588.81,CIN
@@ -33670,7 +33670,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,12348,Jarlin Susana,,P,580.27,WAS
 1075,11172,Angel Zerpa,,P,580.59,MLW
 1075,12536,Jack Wenninger,,P,580.65,NYM
-1075,11874,Tyler Fitzgerald,,2B,580.79,SF
+1075,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1075,11400,Jose Butto,,P,580.91,SF
 1075,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1075,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -34393,12 +34393,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,9436,Brent Suter,,P,588.81,LAA
 1075,9440,Dan Altavilla,,P,588.81,CWS
 1075,9446,Matt Dermody,,P,588.81,BOS
-1075,9450,Joe Mantiply,,P,588.81,ARZ
+1075,9450,Joe Mantiply,,P,588.81,TOR
 1075,9453,Jose De Leon,,P,588.81,BOS
 1075,9460,Joely Rodriguez,,P,588.81,BOS
 1075,9464,Juniel Querecuto,,SS,588.81,STL
 1075,9480,Johan Camargo,,SS,588.81,SF
-1075,9484,Austin Voth,,P,588.81,SEA
+1075,9484,Austin Voth,,P,588.81,TOR
 1075,9486,Aristides Aquino,,OF,588.81,CIN
 1075,9488,Jackson Stephens,,P,588.81,ATL
 1075,9491,Brett Phillips,,OF,588.81,CWS
@@ -35122,7 +35122,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,11783,McKinley Moore,,P,588.81,NYY
 1075,11785,Braden Bristo,,P,588.81,DET
 1075,11788,Zach Muckenhirn,,P,588.81,SEA
-1075,11790,Sammy Peralta,,P,588.81,MLW
+1075,11790,Sammy Peralta,,P,588.81,COL
 1075,11793,Josh Walker,,P,588.81,BAL
 1075,11795,Eduardo Salazar,,P,588.81,WAS
 1075,11798,Joe La Sorsa,,P,588.81,CIN
@@ -36198,7 +36198,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,12348,Jarlin Susana,,P,580.27,WAS
 1076,11172,Angel Zerpa,,P,580.59,MLW
 1076,12536,Jack Wenninger,,P,580.65,NYM
-1076,11874,Tyler Fitzgerald,,2B,580.79,SF
+1076,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1076,11400,Jose Butto,,P,580.91,SF
 1076,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1076,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -36921,12 +36921,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,9436,Brent Suter,,P,588.81,LAA
 1076,9440,Dan Altavilla,,P,588.81,CWS
 1076,9446,Matt Dermody,,P,588.81,BOS
-1076,9450,Joe Mantiply,,P,588.81,ARZ
+1076,9450,Joe Mantiply,,P,588.81,TOR
 1076,9453,Jose De Leon,,P,588.81,BOS
 1076,9460,Joely Rodriguez,,P,588.81,BOS
 1076,9464,Juniel Querecuto,,SS,588.81,STL
 1076,9480,Johan Camargo,,SS,588.81,SF
-1076,9484,Austin Voth,,P,588.81,SEA
+1076,9484,Austin Voth,,P,588.81,TOR
 1076,9486,Aristides Aquino,,OF,588.81,CIN
 1076,9488,Jackson Stephens,,P,588.81,ATL
 1076,9491,Brett Phillips,,OF,588.81,CWS
@@ -37650,7 +37650,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,11783,McKinley Moore,,P,588.81,NYY
 1076,11785,Braden Bristo,,P,588.81,DET
 1076,11788,Zach Muckenhirn,,P,588.81,SEA
-1076,11790,Sammy Peralta,,P,588.81,MLW
+1076,11790,Sammy Peralta,,P,588.81,COL
 1076,11793,Josh Walker,,P,588.81,BAL
 1076,11795,Eduardo Salazar,,P,588.81,WAS
 1076,11798,Joe La Sorsa,,P,588.81,CIN
@@ -38726,7 +38726,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,12348,Jarlin Susana,,P,580.27,WAS
 1077,11172,Angel Zerpa,,P,580.59,MLW
 1077,12536,Jack Wenninger,,P,580.65,NYM
-1077,11874,Tyler Fitzgerald,,2B,580.79,SF
+1077,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1077,11400,Jose Butto,,P,580.91,SF
 1077,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1077,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -39449,12 +39449,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,9436,Brent Suter,,P,588.81,LAA
 1077,9440,Dan Altavilla,,P,588.81,CWS
 1077,9446,Matt Dermody,,P,588.81,BOS
-1077,9450,Joe Mantiply,,P,588.81,ARZ
+1077,9450,Joe Mantiply,,P,588.81,TOR
 1077,9453,Jose De Leon,,P,588.81,BOS
 1077,9460,Joely Rodriguez,,P,588.81,BOS
 1077,9464,Juniel Querecuto,,SS,588.81,STL
 1077,9480,Johan Camargo,,SS,588.81,SF
-1077,9484,Austin Voth,,P,588.81,SEA
+1077,9484,Austin Voth,,P,588.81,TOR
 1077,9486,Aristides Aquino,,OF,588.81,CIN
 1077,9488,Jackson Stephens,,P,588.81,ATL
 1077,9491,Brett Phillips,,OF,588.81,CWS
@@ -40178,7 +40178,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,11783,McKinley Moore,,P,588.81,NYY
 1077,11785,Braden Bristo,,P,588.81,DET
 1077,11788,Zach Muckenhirn,,P,588.81,SEA
-1077,11790,Sammy Peralta,,P,588.81,MLW
+1077,11790,Sammy Peralta,,P,588.81,COL
 1077,11793,Josh Walker,,P,588.81,BAL
 1077,11795,Eduardo Salazar,,P,588.81,WAS
 1077,11798,Joe La Sorsa,,P,588.81,CIN
@@ -41254,7 +41254,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,12348,Jarlin Susana,,P,580.27,WAS
 1078,11172,Angel Zerpa,,P,580.59,MLW
 1078,12536,Jack Wenninger,,P,580.65,NYM
-1078,11874,Tyler Fitzgerald,,2B,580.79,SF
+1078,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1078,11400,Jose Butto,,P,580.91,SF
 1078,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1078,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -41977,12 +41977,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,9436,Brent Suter,,P,588.81,LAA
 1078,9440,Dan Altavilla,,P,588.81,CWS
 1078,9446,Matt Dermody,,P,588.81,BOS
-1078,9450,Joe Mantiply,,P,588.81,ARZ
+1078,9450,Joe Mantiply,,P,588.81,TOR
 1078,9453,Jose De Leon,,P,588.81,BOS
 1078,9460,Joely Rodriguez,,P,588.81,BOS
 1078,9464,Juniel Querecuto,,SS,588.81,STL
 1078,9480,Johan Camargo,,SS,588.81,SF
-1078,9484,Austin Voth,,P,588.81,SEA
+1078,9484,Austin Voth,,P,588.81,TOR
 1078,9486,Aristides Aquino,,OF,588.81,CIN
 1078,9488,Jackson Stephens,,P,588.81,ATL
 1078,9491,Brett Phillips,,OF,588.81,CWS
@@ -42706,7 +42706,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,11783,McKinley Moore,,P,588.81,NYY
 1078,11785,Braden Bristo,,P,588.81,DET
 1078,11788,Zach Muckenhirn,,P,588.81,SEA
-1078,11790,Sammy Peralta,,P,588.81,MLW
+1078,11790,Sammy Peralta,,P,588.81,COL
 1078,11793,Josh Walker,,P,588.81,BAL
 1078,11795,Eduardo Salazar,,P,588.81,WAS
 1078,11798,Joe La Sorsa,,P,588.81,CIN
@@ -43783,7 +43783,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,12348,Jarlin Susana,,P,580.27,WAS
 1079,11172,Angel Zerpa,,P,580.59,MLW
 1079,12536,Jack Wenninger,,P,580.65,NYM
-1079,11874,Tyler Fitzgerald,,2B,580.79,SF
+1079,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1079,11400,Jose Butto,,P,580.91,SF
 1079,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1079,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -44505,12 +44505,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,9436,Brent Suter,,P,588.81,LAA
 1079,9440,Dan Altavilla,,P,588.81,CWS
 1079,9446,Matt Dermody,,P,588.81,BOS
-1079,9450,Joe Mantiply,,P,588.81,ARZ
+1079,9450,Joe Mantiply,,P,588.81,TOR
 1079,9453,Jose De Leon,,P,588.81,BOS
 1079,9460,Joely Rodriguez,,P,588.81,BOS
 1079,9464,Juniel Querecuto,,SS,588.81,STL
 1079,9480,Johan Camargo,,SS,588.81,SF
-1079,9484,Austin Voth,,P,588.81,SEA
+1079,9484,Austin Voth,,P,588.81,TOR
 1079,9486,Aristides Aquino,,OF,588.81,CIN
 1079,9488,Jackson Stephens,,P,588.81,ATL
 1079,9491,Brett Phillips,,OF,588.81,CWS
@@ -45234,7 +45234,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,11783,McKinley Moore,,P,588.81,NYY
 1079,11785,Braden Bristo,,P,588.81,DET
 1079,11788,Zach Muckenhirn,,P,588.81,SEA
-1079,11790,Sammy Peralta,,P,588.81,MLW
+1079,11790,Sammy Peralta,,P,588.81,COL
 1079,11793,Josh Walker,,P,588.81,BAL
 1079,11795,Eduardo Salazar,,P,588.81,WAS
 1079,11798,Joe La Sorsa,,P,588.81,CIN
@@ -46310,7 +46310,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,12348,Jarlin Susana,,P,580.27,WAS
 1080,11172,Angel Zerpa,,P,580.59,MLW
 1080,12536,Jack Wenninger,,P,580.65,NYM
-1080,11874,Tyler Fitzgerald,,2B,580.79,SF
+1080,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1080,11400,Jose Butto,,P,580.91,SF
 1080,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1080,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -47033,12 +47033,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,9436,Brent Suter,,P,588.81,LAA
 1080,9440,Dan Altavilla,,P,588.81,CWS
 1080,9446,Matt Dermody,,P,588.81,BOS
-1080,9450,Joe Mantiply,,P,588.81,ARZ
+1080,9450,Joe Mantiply,,P,588.81,TOR
 1080,9453,Jose De Leon,,P,588.81,BOS
 1080,9460,Joely Rodriguez,,P,588.81,BOS
 1080,9464,Juniel Querecuto,,SS,588.81,STL
 1080,9480,Johan Camargo,,SS,588.81,SF
-1080,9484,Austin Voth,,P,588.81,SEA
+1080,9484,Austin Voth,,P,588.81,TOR
 1080,9486,Aristides Aquino,,OF,588.81,CIN
 1080,9488,Jackson Stephens,,P,588.81,ATL
 1080,9491,Brett Phillips,,OF,588.81,CWS
@@ -47762,7 +47762,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,11783,McKinley Moore,,P,588.81,NYY
 1080,11785,Braden Bristo,,P,588.81,DET
 1080,11788,Zach Muckenhirn,,P,588.81,SEA
-1080,11790,Sammy Peralta,,P,588.81,MLW
+1080,11790,Sammy Peralta,,P,588.81,COL
 1080,11793,Josh Walker,,P,588.81,BAL
 1080,11795,Eduardo Salazar,,P,588.81,WAS
 1080,11798,Joe La Sorsa,,P,588.81,CIN
@@ -48838,7 +48838,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,12348,Jarlin Susana,,P,580.27,WAS
 1081,11172,Angel Zerpa,,P,580.59,MLW
 1081,12536,Jack Wenninger,,P,580.65,NYM
-1081,11874,Tyler Fitzgerald,,2B,580.79,SF
+1081,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1081,11400,Jose Butto,,P,580.91,SF
 1081,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1081,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -49561,12 +49561,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,9436,Brent Suter,,P,588.81,LAA
 1081,9440,Dan Altavilla,,P,588.81,CWS
 1081,9446,Matt Dermody,,P,588.81,BOS
-1081,9450,Joe Mantiply,,P,588.81,ARZ
+1081,9450,Joe Mantiply,,P,588.81,TOR
 1081,9453,Jose De Leon,,P,588.81,BOS
 1081,9460,Joely Rodriguez,,P,588.81,BOS
 1081,9464,Juniel Querecuto,,SS,588.81,STL
 1081,9480,Johan Camargo,,SS,588.81,SF
-1081,9484,Austin Voth,,P,588.81,SEA
+1081,9484,Austin Voth,,P,588.81,TOR
 1081,9486,Aristides Aquino,,OF,588.81,CIN
 1081,9488,Jackson Stephens,,P,588.81,ATL
 1081,9491,Brett Phillips,,OF,588.81,CWS
@@ -50290,7 +50290,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,11783,McKinley Moore,,P,588.81,NYY
 1081,11785,Braden Bristo,,P,588.81,DET
 1081,11788,Zach Muckenhirn,,P,588.81,SEA
-1081,11790,Sammy Peralta,,P,588.81,MLW
+1081,11790,Sammy Peralta,,P,588.81,COL
 1081,11793,Josh Walker,,P,588.81,BAL
 1081,11795,Eduardo Salazar,,P,588.81,WAS
 1081,11798,Joe La Sorsa,,P,588.81,CIN
@@ -51367,7 +51367,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,12348,Jarlin Susana,,P,580.27,WAS
 1082,11172,Angel Zerpa,,P,580.59,MLW
 1082,12536,Jack Wenninger,,P,580.65,NYM
-1082,11874,Tyler Fitzgerald,,2B,580.79,SF
+1082,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1082,11400,Jose Butto,,P,580.91,SF
 1082,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1082,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -52089,12 +52089,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,9436,Brent Suter,,P,588.81,LAA
 1082,9440,Dan Altavilla,,P,588.81,CWS
 1082,9446,Matt Dermody,,P,588.81,BOS
-1082,9450,Joe Mantiply,,P,588.81,ARZ
+1082,9450,Joe Mantiply,,P,588.81,TOR
 1082,9453,Jose De Leon,,P,588.81,BOS
 1082,9460,Joely Rodriguez,,P,588.81,BOS
 1082,9464,Juniel Querecuto,,SS,588.81,STL
 1082,9480,Johan Camargo,,SS,588.81,SF
-1082,9484,Austin Voth,,P,588.81,SEA
+1082,9484,Austin Voth,,P,588.81,TOR
 1082,9486,Aristides Aquino,,OF,588.81,CIN
 1082,9488,Jackson Stephens,,P,588.81,ATL
 1082,9491,Brett Phillips,,OF,588.81,CWS
@@ -52818,7 +52818,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,11783,McKinley Moore,,P,588.81,NYY
 1082,11785,Braden Bristo,,P,588.81,DET
 1082,11788,Zach Muckenhirn,,P,588.81,SEA
-1082,11790,Sammy Peralta,,P,588.81,MLW
+1082,11790,Sammy Peralta,,P,588.81,COL
 1082,11793,Josh Walker,,P,588.81,BAL
 1082,11795,Eduardo Salazar,,P,588.81,WAS
 1082,11798,Joe La Sorsa,,P,588.81,CIN
@@ -53894,7 +53894,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,12348,Jarlin Susana,,P,580.27,WAS
 1083,11172,Angel Zerpa,,P,580.59,MLW
 1083,12536,Jack Wenninger,,P,580.65,NYM
-1083,11874,Tyler Fitzgerald,,2B,580.79,SF
+1083,11874,Tyler Fitzgerald,,2B,580.79,TOR
 1083,11400,Jose Butto,,P,580.91,SF
 1083,12514,Esmerlyn Valdez,,OF,581.0,PIT
 1083,12030,Hector Rodriguez,,OF,581.0,CIN
@@ -54617,12 +54617,12 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,9436,Brent Suter,,P,588.81,LAA
 1083,9440,Dan Altavilla,,P,588.81,CWS
 1083,9446,Matt Dermody,,P,588.81,BOS
-1083,9450,Joe Mantiply,,P,588.81,ARZ
+1083,9450,Joe Mantiply,,P,588.81,TOR
 1083,9453,Jose De Leon,,P,588.81,BOS
 1083,9460,Joely Rodriguez,,P,588.81,BOS
 1083,9464,Juniel Querecuto,,SS,588.81,STL
 1083,9480,Johan Camargo,,SS,588.81,SF
-1083,9484,Austin Voth,,P,588.81,SEA
+1083,9484,Austin Voth,,P,588.81,TOR
 1083,9486,Aristides Aquino,,OF,588.81,CIN
 1083,9488,Jackson Stephens,,P,588.81,ATL
 1083,9491,Brett Phillips,,OF,588.81,CWS
@@ -55346,7 +55346,7 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,11783,McKinley Moore,,P,588.81,NYY
 1083,11785,Braden Bristo,,P,588.81,DET
 1083,11788,Zach Muckenhirn,,P,588.81,SEA
-1083,11790,Sammy Peralta,,P,588.81,MLW
+1083,11790,Sammy Peralta,,P,588.81,COL
 1083,11793,Josh Walker,,P,588.81,BAL
 1083,11795,Eduardo Salazar,,P,588.81,WAS
 1083,11798,Joe La Sorsa,,P,588.81,CIN
