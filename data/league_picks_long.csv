@@ -1302,8 +1302,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,11770,Justin Foscue,,1B,588.8,TEX
 1062,11909,Chayce McDermott,,P,588.8,BAL
 1062,12649,Blaze Jordan,,1B,588.8,STL
-1062,12550,Tyler Samaniego,,P,588.81,BOS
-1062,12651,Tyler Schweitzer,,P,588.81,CWS
 1062,11141,Seth Johnson,,P,588.81,PHI
 1062,6968,Johnny Cueto,,P,588.81,LAA
 1062,7037,Adam Ottavino,,P,588.81,NYY
@@ -2499,6 +2497,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1062,12579,Tyler Uberstine,,P,588.81,BOS
 1062,12590,Tanner Murray,,SS,588.81,CWS
 1062,12577,Riley Martin,,P,588.81,CHC
+1062,12550,Tyler Samaniego,,P,588.81,BOS
+1062,12651,Tyler Schweitzer,,P,588.81,CWS
 1062,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1062,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1062,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -3836,8 +3836,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,11770,Justin Foscue,,1B,588.8,TEX
 1063,11909,Chayce McDermott,,P,588.8,BAL
 1063,12649,Blaze Jordan,,1B,588.8,STL
-1063,12550,Tyler Samaniego,,P,588.81,BOS
-1063,12651,Tyler Schweitzer,,P,588.81,CWS
 1063,11141,Seth Johnson,,P,588.81,PHI
 1063,6968,Johnny Cueto,,P,588.81,LAA
 1063,7037,Adam Ottavino,,P,588.81,NYY
@@ -5033,6 +5031,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1063,12579,Tyler Uberstine,,P,588.81,BOS
 1063,12590,Tanner Murray,,SS,588.81,CWS
 1063,12577,Riley Martin,,P,588.81,CHC
+1063,12550,Tyler Samaniego,,P,588.81,BOS
+1063,12651,Tyler Schweitzer,,P,588.81,CWS
 1063,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1063,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1063,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -6370,8 +6370,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,11770,Justin Foscue,,1B,588.8,TEX
 1064,11909,Chayce McDermott,,P,588.8,BAL
 1064,12649,Blaze Jordan,,1B,588.8,STL
-1064,12550,Tyler Samaniego,,P,588.81,BOS
-1064,12651,Tyler Schweitzer,,P,588.81,CWS
 1064,11141,Seth Johnson,,P,588.81,PHI
 1064,6968,Johnny Cueto,,P,588.81,LAA
 1064,7037,Adam Ottavino,,P,588.81,NYY
@@ -7567,6 +7565,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1064,12579,Tyler Uberstine,,P,588.81,BOS
 1064,12590,Tanner Murray,,SS,588.81,CWS
 1064,12577,Riley Martin,,P,588.81,CHC
+1064,12550,Tyler Samaniego,,P,588.81,BOS
+1064,12651,Tyler Schweitzer,,P,588.81,CWS
 1064,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1064,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1064,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -8904,8 +8904,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,11770,Justin Foscue,,1B,588.8,TEX
 1065,11909,Chayce McDermott,,P,588.8,BAL
 1065,12649,Blaze Jordan,,1B,588.8,STL
-1065,12550,Tyler Samaniego,,P,588.81,BOS
-1065,12651,Tyler Schweitzer,,P,588.81,CWS
 1065,11141,Seth Johnson,,P,588.81,PHI
 1065,6968,Johnny Cueto,,P,588.81,LAA
 1065,7037,Adam Ottavino,,P,588.81,NYY
@@ -10101,6 +10099,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1065,12579,Tyler Uberstine,,P,588.81,BOS
 1065,12590,Tanner Murray,,SS,588.81,CWS
 1065,12577,Riley Martin,,P,588.81,CHC
+1065,12550,Tyler Samaniego,,P,588.81,BOS
+1065,12651,Tyler Schweitzer,,P,588.81,CWS
 1065,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1065,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1065,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -11438,8 +11438,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,11770,Justin Foscue,,1B,588.8,TEX
 1066,11909,Chayce McDermott,,P,588.8,BAL
 1066,12649,Blaze Jordan,,1B,588.8,STL
-1066,12550,Tyler Samaniego,,P,588.81,BOS
-1066,12651,Tyler Schweitzer,,P,588.81,CWS
 1066,11141,Seth Johnson,,P,588.81,PHI
 1066,6968,Johnny Cueto,,P,588.81,LAA
 1066,7037,Adam Ottavino,,P,588.81,NYY
@@ -12635,6 +12633,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1066,12579,Tyler Uberstine,,P,588.81,BOS
 1066,12590,Tanner Murray,,SS,588.81,CWS
 1066,12577,Riley Martin,,P,588.81,CHC
+1066,12550,Tyler Samaniego,,P,588.81,BOS
+1066,12651,Tyler Schweitzer,,P,588.81,CWS
 1066,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1066,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1066,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -13972,8 +13972,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,11770,Justin Foscue,,1B,588.8,TEX
 1067,11909,Chayce McDermott,,P,588.8,BAL
 1067,12649,Blaze Jordan,,1B,588.8,STL
-1067,12550,Tyler Samaniego,,P,588.81,BOS
-1067,12651,Tyler Schweitzer,,P,588.81,CWS
 1067,11141,Seth Johnson,,P,588.81,PHI
 1067,6968,Johnny Cueto,,P,588.81,LAA
 1067,7037,Adam Ottavino,,P,588.81,NYY
@@ -15169,6 +15167,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1067,12579,Tyler Uberstine,,P,588.81,BOS
 1067,12590,Tanner Murray,,SS,588.81,CWS
 1067,12577,Riley Martin,,P,588.81,CHC
+1067,12550,Tyler Samaniego,,P,588.81,BOS
+1067,12651,Tyler Schweitzer,,P,588.81,CWS
 1067,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1067,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1067,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -16506,8 +16506,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,11770,Justin Foscue,,1B,588.8,TEX
 1068,11909,Chayce McDermott,,P,588.8,BAL
 1068,12649,Blaze Jordan,,1B,588.8,STL
-1068,12550,Tyler Samaniego,,P,588.81,BOS
-1068,12651,Tyler Schweitzer,,P,588.81,CWS
 1068,11141,Seth Johnson,,P,588.81,PHI
 1068,6968,Johnny Cueto,,P,588.81,LAA
 1068,7037,Adam Ottavino,,P,588.81,NYY
@@ -17703,6 +17701,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1068,12579,Tyler Uberstine,,P,588.81,BOS
 1068,12590,Tanner Murray,,SS,588.81,CWS
 1068,12577,Riley Martin,,P,588.81,CHC
+1068,12550,Tyler Samaniego,,P,588.81,BOS
+1068,12651,Tyler Schweitzer,,P,588.81,CWS
 1068,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1068,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1068,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -19040,8 +19040,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,11770,Justin Foscue,,1B,588.8,TEX
 1069,11909,Chayce McDermott,,P,588.8,BAL
 1069,12649,Blaze Jordan,,1B,588.8,STL
-1069,12550,Tyler Samaniego,,P,588.81,BOS
-1069,12651,Tyler Schweitzer,,P,588.81,CWS
 1069,11141,Seth Johnson,,P,588.81,PHI
 1069,6968,Johnny Cueto,,P,588.81,LAA
 1069,7037,Adam Ottavino,,P,588.81,NYY
@@ -20237,6 +20235,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1069,12579,Tyler Uberstine,,P,588.81,BOS
 1069,12590,Tanner Murray,,SS,588.81,CWS
 1069,12577,Riley Martin,,P,588.81,CHC
+1069,12550,Tyler Samaniego,,P,588.81,BOS
+1069,12651,Tyler Schweitzer,,P,588.81,CWS
 1069,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1069,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1069,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -21574,8 +21574,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,11770,Justin Foscue,,1B,588.8,TEX
 1070,11909,Chayce McDermott,,P,588.8,BAL
 1070,12649,Blaze Jordan,,1B,588.8,STL
-1070,12550,Tyler Samaniego,,P,588.81,BOS
-1070,12651,Tyler Schweitzer,,P,588.81,CWS
 1070,11141,Seth Johnson,,P,588.81,PHI
 1070,6968,Johnny Cueto,,P,588.81,LAA
 1070,7037,Adam Ottavino,,P,588.81,NYY
@@ -22771,6 +22769,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1070,12579,Tyler Uberstine,,P,588.81,BOS
 1070,12590,Tanner Murray,,SS,588.81,CWS
 1070,12577,Riley Martin,,P,588.81,CHC
+1070,12550,Tyler Samaniego,,P,588.81,BOS
+1070,12651,Tyler Schweitzer,,P,588.81,CWS
 1070,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1070,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1070,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -24108,8 +24108,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,11770,Justin Foscue,,1B,588.8,TEX
 1071,11909,Chayce McDermott,,P,588.8,BAL
 1071,12649,Blaze Jordan,,1B,588.8,STL
-1071,12550,Tyler Samaniego,,P,588.81,BOS
-1071,12651,Tyler Schweitzer,,P,588.81,CWS
 1071,11141,Seth Johnson,,P,588.81,PHI
 1071,6968,Johnny Cueto,,P,588.81,LAA
 1071,7037,Adam Ottavino,,P,588.81,NYY
@@ -25305,6 +25303,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1071,12579,Tyler Uberstine,,P,588.81,BOS
 1071,12590,Tanner Murray,,SS,588.81,CWS
 1071,12577,Riley Martin,,P,588.81,CHC
+1071,12550,Tyler Samaniego,,P,588.81,BOS
+1071,12651,Tyler Schweitzer,,P,588.81,CWS
 1071,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1071,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1071,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -26642,8 +26642,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,11770,Justin Foscue,,1B,588.8,TEX
 1072,11909,Chayce McDermott,,P,588.8,BAL
 1072,12649,Blaze Jordan,,1B,588.8,STL
-1072,12550,Tyler Samaniego,,P,588.81,BOS
-1072,12651,Tyler Schweitzer,,P,588.81,CWS
 1072,11141,Seth Johnson,,P,588.81,PHI
 1072,6968,Johnny Cueto,,P,588.81,LAA
 1072,7037,Adam Ottavino,,P,588.81,NYY
@@ -27839,6 +27837,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1072,12579,Tyler Uberstine,,P,588.81,BOS
 1072,12590,Tanner Murray,,SS,588.81,CWS
 1072,12577,Riley Martin,,P,588.81,CHC
+1072,12550,Tyler Samaniego,,P,588.81,BOS
+1072,12651,Tyler Schweitzer,,P,588.81,CWS
 1072,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1072,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1072,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -29176,8 +29176,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,11770,Justin Foscue,,1B,588.8,TEX
 1073,11909,Chayce McDermott,,P,588.8,BAL
 1073,12649,Blaze Jordan,,1B,588.8,STL
-1073,12550,Tyler Samaniego,,P,588.81,BOS
-1073,12651,Tyler Schweitzer,,P,588.81,CWS
 1073,11141,Seth Johnson,,P,588.81,PHI
 1073,6968,Johnny Cueto,,P,588.81,LAA
 1073,7037,Adam Ottavino,,P,588.81,NYY
@@ -30373,6 +30371,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1073,12579,Tyler Uberstine,,P,588.81,BOS
 1073,12590,Tanner Murray,,SS,588.81,CWS
 1073,12577,Riley Martin,,P,588.81,CHC
+1073,12550,Tyler Samaniego,,P,588.81,BOS
+1073,12651,Tyler Schweitzer,,P,588.81,CWS
 1073,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1073,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1073,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -31710,8 +31710,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,11770,Justin Foscue,,1B,588.8,TEX
 1074,11909,Chayce McDermott,,P,588.8,BAL
 1074,12649,Blaze Jordan,,1B,588.8,STL
-1074,12550,Tyler Samaniego,,P,588.81,BOS
-1074,12651,Tyler Schweitzer,,P,588.81,CWS
 1074,11141,Seth Johnson,,P,588.81,PHI
 1074,6968,Johnny Cueto,,P,588.81,LAA
 1074,7037,Adam Ottavino,,P,588.81,NYY
@@ -32907,6 +32905,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1074,12579,Tyler Uberstine,,P,588.81,BOS
 1074,12590,Tanner Murray,,SS,588.81,CWS
 1074,12577,Riley Martin,,P,588.81,CHC
+1074,12550,Tyler Samaniego,,P,588.81,BOS
+1074,12651,Tyler Schweitzer,,P,588.81,CWS
 1074,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1074,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1074,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -34244,8 +34244,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,11770,Justin Foscue,,1B,588.8,TEX
 1075,11909,Chayce McDermott,,P,588.8,BAL
 1075,12649,Blaze Jordan,,1B,588.8,STL
-1075,12550,Tyler Samaniego,,P,588.81,BOS
-1075,12651,Tyler Schweitzer,,P,588.81,CWS
 1075,11141,Seth Johnson,,P,588.81,PHI
 1075,6968,Johnny Cueto,,P,588.81,LAA
 1075,7037,Adam Ottavino,,P,588.81,NYY
@@ -35441,6 +35439,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1075,12579,Tyler Uberstine,,P,588.81,BOS
 1075,12590,Tanner Murray,,SS,588.81,CWS
 1075,12577,Riley Martin,,P,588.81,CHC
+1075,12550,Tyler Samaniego,,P,588.81,BOS
+1075,12651,Tyler Schweitzer,,P,588.81,CWS
 1075,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1075,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1075,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -36778,8 +36778,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,11770,Justin Foscue,,1B,588.8,TEX
 1076,11909,Chayce McDermott,,P,588.8,BAL
 1076,12649,Blaze Jordan,,1B,588.8,STL
-1076,12550,Tyler Samaniego,,P,588.81,BOS
-1076,12651,Tyler Schweitzer,,P,588.81,CWS
 1076,11141,Seth Johnson,,P,588.81,PHI
 1076,6968,Johnny Cueto,,P,588.81,LAA
 1076,7037,Adam Ottavino,,P,588.81,NYY
@@ -37975,6 +37973,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1076,12579,Tyler Uberstine,,P,588.81,BOS
 1076,12590,Tanner Murray,,SS,588.81,CWS
 1076,12577,Riley Martin,,P,588.81,CHC
+1076,12550,Tyler Samaniego,,P,588.81,BOS
+1076,12651,Tyler Schweitzer,,P,588.81,CWS
 1076,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1076,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1076,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -39312,8 +39312,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,11770,Justin Foscue,,1B,588.8,TEX
 1077,11909,Chayce McDermott,,P,588.8,BAL
 1077,12649,Blaze Jordan,,1B,588.8,STL
-1077,12550,Tyler Samaniego,,P,588.81,BOS
-1077,12651,Tyler Schweitzer,,P,588.81,CWS
 1077,11141,Seth Johnson,,P,588.81,PHI
 1077,6968,Johnny Cueto,,P,588.81,LAA
 1077,7037,Adam Ottavino,,P,588.81,NYY
@@ -40509,6 +40507,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1077,12579,Tyler Uberstine,,P,588.81,BOS
 1077,12590,Tanner Murray,,SS,588.81,CWS
 1077,12577,Riley Martin,,P,588.81,CHC
+1077,12550,Tyler Samaniego,,P,588.81,BOS
+1077,12651,Tyler Schweitzer,,P,588.81,CWS
 1077,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1077,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1077,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -41846,8 +41846,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,11770,Justin Foscue,,1B,588.8,TEX
 1078,11909,Chayce McDermott,,P,588.8,BAL
 1078,12649,Blaze Jordan,,1B,588.8,STL
-1078,12550,Tyler Samaniego,,P,588.81,BOS
-1078,12651,Tyler Schweitzer,,P,588.81,CWS
 1078,11141,Seth Johnson,,P,588.81,PHI
 1078,6968,Johnny Cueto,,P,588.81,LAA
 1078,7037,Adam Ottavino,,P,588.81,NYY
@@ -43043,6 +43041,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1078,12579,Tyler Uberstine,,P,588.81,BOS
 1078,12590,Tanner Murray,,SS,588.81,CWS
 1078,12577,Riley Martin,,P,588.81,CHC
+1078,12550,Tyler Samaniego,,P,588.81,BOS
+1078,12651,Tyler Schweitzer,,P,588.81,CWS
 1078,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1078,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1078,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -44380,8 +44380,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,11770,Justin Foscue,,1B,588.8,TEX
 1079,11909,Chayce McDermott,,P,588.8,BAL
 1079,12649,Blaze Jordan,,1B,588.8,STL
-1079,12550,Tyler Samaniego,,P,588.81,BOS
-1079,12651,Tyler Schweitzer,,P,588.81,CWS
 1079,11141,Seth Johnson,,P,588.81,PHI
 1079,6968,Johnny Cueto,,P,588.81,LAA
 1079,7037,Adam Ottavino,,P,588.81,NYY
@@ -45577,6 +45575,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1079,12579,Tyler Uberstine,,P,588.81,BOS
 1079,12590,Tanner Murray,,SS,588.81,CWS
 1079,12577,Riley Martin,,P,588.81,CHC
+1079,12550,Tyler Samaniego,,P,588.81,BOS
+1079,12651,Tyler Schweitzer,,P,588.81,CWS
 1079,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1079,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1079,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -46914,8 +46914,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,11770,Justin Foscue,,1B,588.8,TEX
 1080,11909,Chayce McDermott,,P,588.8,BAL
 1080,12649,Blaze Jordan,,1B,588.8,STL
-1080,12550,Tyler Samaniego,,P,588.81,BOS
-1080,12651,Tyler Schweitzer,,P,588.81,CWS
 1080,11141,Seth Johnson,,P,588.81,PHI
 1080,6968,Johnny Cueto,,P,588.81,LAA
 1080,7037,Adam Ottavino,,P,588.81,NYY
@@ -48111,6 +48109,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1080,12579,Tyler Uberstine,,P,588.81,BOS
 1080,12590,Tanner Murray,,SS,588.81,CWS
 1080,12577,Riley Martin,,P,588.81,CHC
+1080,12550,Tyler Samaniego,,P,588.81,BOS
+1080,12651,Tyler Schweitzer,,P,588.81,CWS
 1080,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1080,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1080,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -49448,8 +49448,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,11770,Justin Foscue,,1B,588.8,TEX
 1081,11909,Chayce McDermott,,P,588.8,BAL
 1081,12649,Blaze Jordan,,1B,588.8,STL
-1081,12550,Tyler Samaniego,,P,588.81,BOS
-1081,12651,Tyler Schweitzer,,P,588.81,CWS
 1081,11141,Seth Johnson,,P,588.81,PHI
 1081,6968,Johnny Cueto,,P,588.81,LAA
 1081,7037,Adam Ottavino,,P,588.81,NYY
@@ -50645,6 +50643,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1081,12579,Tyler Uberstine,,P,588.81,BOS
 1081,12590,Tanner Murray,,SS,588.81,CWS
 1081,12577,Riley Martin,,P,588.81,CHC
+1081,12550,Tyler Samaniego,,P,588.81,BOS
+1081,12651,Tyler Schweitzer,,P,588.81,CWS
 1081,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1081,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1081,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -51982,8 +51982,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,11770,Justin Foscue,,1B,588.8,TEX
 1082,11909,Chayce McDermott,,P,588.8,BAL
 1082,12649,Blaze Jordan,,1B,588.8,STL
-1082,12550,Tyler Samaniego,,P,588.81,BOS
-1082,12651,Tyler Schweitzer,,P,588.81,CWS
 1082,11141,Seth Johnson,,P,588.81,PHI
 1082,6968,Johnny Cueto,,P,588.81,LAA
 1082,7037,Adam Ottavino,,P,588.81,NYY
@@ -53179,6 +53177,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1082,12579,Tyler Uberstine,,P,588.81,BOS
 1082,12590,Tanner Murray,,SS,588.81,CWS
 1082,12577,Riley Martin,,P,588.81,CHC
+1082,12550,Tyler Samaniego,,P,588.81,BOS
+1082,12651,Tyler Schweitzer,,P,588.81,CWS
 1082,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1082,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1082,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
@@ -54516,8 +54516,6 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,11770,Justin Foscue,,1B,588.8,TEX
 1083,11909,Chayce McDermott,,P,588.8,BAL
 1083,12649,Blaze Jordan,,1B,588.8,STL
-1083,12550,Tyler Samaniego,,P,588.81,BOS
-1083,12651,Tyler Schweitzer,,P,588.81,CWS
 1083,11141,Seth Johnson,,P,588.81,PHI
 1083,6968,Johnny Cueto,,P,588.81,LAA
 1083,7037,Adam Ottavino,,P,588.81,NYY
@@ -55713,6 +55711,8 @@ LeagueId,PlayerId,Player,OverallPick,Pos,ADP,Team
 1083,12579,Tyler Uberstine,,P,588.81,BOS
 1083,12590,Tanner Murray,,SS,588.81,CWS
 1083,12577,Riley Martin,,P,588.81,CHC
+1083,12550,Tyler Samaniego,,P,588.81,BOS
+1083,12651,Tyler Schweitzer,,P,588.81,CWS
 1083,7801,Place Holder01,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1083,7802,Place Holder02,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
 1083,7803,Place Holder03,,UT / C / 1B / 2B / 3B / SS / OF / P,999.9,STL
